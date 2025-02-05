@@ -1,6 +1,3 @@
-<sup>Matemática</sup>
-<img alt="" width="100%" height="2px" align="right">
-
 &nbsp;
 
 <h1 align="center">Matemática</h1>
@@ -9,8 +6,8 @@
 
 &nbsp;
 
-* Adminstração - MTec - PI: [<strong>1º ano</strong>](./administracao-mtec-pi/2025-1o-ano/) | <strong>2º ano</strong> | <strong>3º ano</strong>
+* Adminstração - MTec - PI: [__1º ano__](./administracao-mtec-pi/2025-1o-ano/) | [__2º ano__]((./administracao-mtec-pi/2025-2o-ano/)) | 3º ano
 
-* Desenvolvimento de Sistemas - MTec - PI: <strong>1º ano</strong> | <strong>2º ano</strong> | <strong>3ºano</strong>
+* Desenvolvimento de Sistemas - MTec - PI: [__1º ano__](./desenvolvimento-de-sistemas-mtec-pi/2025-1o-ano/) | __2º ano__
 
 &nbsp;
