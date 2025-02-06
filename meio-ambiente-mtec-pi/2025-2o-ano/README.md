@@ -1,5 +1,5 @@
 <h1 align="center">Matemática</h1>
-<h3 align="center">Adminstração - MTec - PI - 2º Ano</h3>
+<h3 align="center">Meio Ambiente - MTec - 2º Ano</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h6 align="center">Atualizado em: 05/02/2025</h6>
 
@@ -7,7 +7,7 @@
 
 ## Descrição
 
-Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM ADMINISTRAÇÃO (Período Integral), ministrado no ano de 2025.
+Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM MEIO AMBIENTE, ministrado no ano de 2025.
 
 Unidades temáticas: Números e Álgebra; Geometria e Medidas; Probabilidade e Estatística.
 
@@ -17,12 +17,13 @@ Carga horária: 120 horas-aula
 
 ## Conteúdo Programático
 
-|   Aula  | Data  | Descrição | Competências e Habilidades |
-|   :-:   |  :-:  | --- | --- |
-|         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
-| 01 e 02 | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
-|   03    | 07/02 | &bull; Revisão de conteúdo<br>&nbsp; - Potenciação e radiciação | |
-| 04 e 05 | 12/02 | &bull; __Logarítmos__<br>&nbsp; - Definição e aplicação<br>&nbsp; - Propriedades<br>&bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+| Aula | Data  | Descrição | Competências e Habilidades |
+| :-:  |  :-:  | --- | --- |
+|      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
+|  01  | 06/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação |  |
+|  02  |       | &bull; Revisão de conteúdo<br>&nbsp; - Potenciação e radiciação | |
+|  03  |       | &bull; __Logarítmos__<br>&nbsp; - Definição e aplicação<br>&nbsp; - Propriedades | |
+|  04  |       | &bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |   06    | 14/02 | &bull; Exercícios de fixação | |
 | 07 e 08 | 19/02 | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
 |   09    | 21/02 | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
@@ -38,9 +39,6 @@ Carga horária: 120 horas-aula
 |             |       | - Gráfico de uma função do 2º grau: zeros, vértice e foco | |
 |             |       | - Função modular | |
 |             |       | - Função exponencial | |
-|             |       | - Sequências Numéricas: Conceitos e aplicações | |
-|             |       | - Progressão Aritmética (P.A.) | |
-|             |       | - Progressão Geométrica (P.G.) | |
 |             |       | - Trigonometria<br>--Trigonometria no triângulo e suas principais razões trigonométricas | |
 |             |       | -- Trigonometria no círculo trigonométrico: seno; cosseno;  tangente | |
 |             |       | -- Lei dos senos | |

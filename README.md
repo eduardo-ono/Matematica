@@ -10,4 +10,12 @@
 
 * Desenvolvimento de Sistemas - MTec - PI: [__1º ano__](./desenvolvimento-de-sistemas-mtec-pi/2025-1o-ano) | __2º ano__
 
+* Marketing - MTec - PI: __1º ano__ | __2º ano__
+
+* Meio Ambiente - MTec: [__2º ano__](./meio-ambiente-mtec/2025-2o-ano/)
+
+* Recursos Humanos - MTec - PI:
+
+* Recursos Humanos - MTec - N:
+
 &nbsp;
