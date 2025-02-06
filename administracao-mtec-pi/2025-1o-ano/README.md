@@ -1,8 +1,8 @@
 &nbsp;
 
-<h1 align="center">Matemática<br><sub>(Adminstração - MTec - PI - 1º ano)</sub></h1>
+<h1 align="center">Matemática<br><sub>Adminstração - MTec - PI - 1º ano</sub></h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 05/02/2025</h6>
+<h6 align="center">Atualizado em: 06/02/2025</h6>
 
 &nbsp;
 
@@ -12,49 +12,51 @@ Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL
 
 Carga horária: 120 horas-aula
 
+* Calendário Escolar 2025: <https://etecpirassununga.com.br/wp-content/uploads/2025/01/CALENDARIO-ESCOLAR-2025.pdf>
+
 &nbsp;
 
 ## Conteúdo Programático
 
-| Aula | Data  | Descrição |
-| :-:  |  :-:  | --- |
-|      |       | <h3>NÚMEROS E ÁLGEBRA</h3> |
-|  01  | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições; manipulação e aplicação |
-|  02  |       | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |
-|  03  |       | - __Conjuntos__<br>-- Conceitos e aplicações<br>-- Noções primitivas |
-|  03  |       | -- Operações com conjuntos: União (reunião), interseção |
-|  04  |       | - __Conjuntos Numéricos__: Conjunto dos Números Naturais, Inteiros, Racionais, Irracionais, Reais e Complexos (?) |
-|  05  |       | - __Função__: Conceito e aplicações; notações; domínio e imagem; gráfico cartesiano |
-|  06  |       | -- Funções: afins, lineares, constantes e função identidade |
-|  07  |       | -- Função composta |
-|      |       | -- Função inversa |
-|  08  |       | -- Função do 1º grau |
-|  09  |       | -- Função do 2º grau |
-|      |       | --- Gráfico de uma função do 2º grau: zeros, vértice e foco |
-|  10  |       | -- Função modular |
-|  11  |       | -- Função exponencial |
-|  12  |       | - __Sequências Numéricas__<br>-- Conceitos e aplicações |
-|  13  |       | -- Progressão Aritmética (P.A.) |
-|  14  |       | -- Progressão Geométrica (P.G.) |
-|  15  |       | - Matemática Financeira: Conceitos e aplicações |
-|  16  |       | -- Porcentagem |
-|  17  |       | -- Juros Simples e Compostos |
-|      |       | <h3>GEOMETRIA E MEDIDAS</h3> |
-|  18  |       | - Geometria métrica: Conceitos e procedimentos |
-|  19  |       | - |
-|  20  |       | - __Proporcionalidades__<br>-- Conceitos e aplicações |
-|  21  |       | -- Segmentos de retas |
-|  22  |       | -- Teorema de Tales |
-|  23  |       | -- Teorema da bissetriz |
-|  24  |       | - Geometria das Transformações |
-|  25  |       | -- Isometrias: reflexão, translação e rotação |
-|  26  |       | -- Homotetias: ampliação e redução |
-|  27  |       | - Geometria dos fractais: Conceitos e aplicações |
-|  28  |       | <h3>PROBABILIDADE E ESTATÍSTICA</h3> |
-|  29  |       | - Estatística: Pesquisa e organização de dados; confiabilidade de fonte de dados |
-|  30  |       | - Estatística Descritiva<br>-- Medidas de tendência central: média, moda e mediana |
-|  31  |       | - Medidas de Dispersão: amplitude, variância e desvio padrão |
-|  32  |       | - Gráficos e infográficos utilizados pela Estatística: Elementos de um gráfico |
-|  33  |       | - Interpretação de dados estatísticos; Estudo de casos |
+| Aula | Data  | Descrição | Competências e Habilidades |
+| :-:  |  :-:  | --- | --- |
+|      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
+|  01  | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições; manipulação e aplicação | |
+|  02  | 06/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&nbsp; - Diferença entre Aritmética e Álgebra;<br>&nbsp; - Introdução a propriedades de conjuntos numéricos | |
+|  03  |       | &bull; __Conjuntos__<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas<br>&nbsp; - Simbologia | |
+|  04  |       | &bull; Operações com conjuntos<br>&nbsp; União (reunião), interseção | |
+|  05  |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
+|  06  |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
+|      |       | &bull; __Função__: Conceito e aplicações; notações; domínio e imagem; gráfico cartesiano | |
+|      |       | -- Funções: afins, lineares, constantes e função identidade | |
+|      |       | -- Função composta | |
+|      |       | -- Função inversa | |
+|      |       | -- Função do 1º grau | |
+|      |       | -- Função do 2º grau | |
+|      |       | --- Gráfico de uma função do 2º grau: zeros, vértice e foco | |
+|      |       | -- Função modular | |
+|      |       | -- Função exponencial | |
+|      |       | &bull; __Sequências Numéricas__<br>&nbsp; - Conceitos e aplicações<br> | |
+|      |       | -- Progressão Aritmética (P.A.) | |
+|      |       | -- Progressão Geométrica (P.G.) | |
+|      |       | &bull; __Matemática Financeira__<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Porcentagem | |
+|      |       | &nbsp; - Juros Simples e Compostos | |
+|      |       | <h3>GEOMETRIA E MEDIDAS</h3> | |
+|      |       | - Geometria métrica: Conceitos e procedimentos | |
+|      |       | - | |
+|      |       | - __Proporcionalidades__<br>-- Conceitos e aplicações | |
+|      |       | -- Segmentos de retas | |
+|      |       | -- Teorema de Tales | |
+|      |       | -- Teorema da bissetriz | |
+|      |       | - Geometria das Transformações | |
+|      |       | -- Isometrias: reflexão, translação e rotação | |
+|      |       | -- Homotetias: ampliação e redução | |
+|      |       | - Geometria dos fractais: Conceitos e aplicações | |
+|      |       | <h3>PROBABILIDADE E ESTATÍSTICA</h3> | |
+|      |       | - Estatística: Pesquisa e organização de dados; confiabilidade de fonte de dados | |
+|      |       | - Estatística Descritiva<br>-- Medidas de tendência central: média, moda e mediana | |
+|      |       | - Medidas de Dispersão: amplitude, variância e desvio padrão | |
+|      |       | - Gráficos e infográficos utilizados pela Estatística: Elementos de um gráfico | |
+|      |       | - Interpretação de dados estatísticos; Estudo de casos | |
 
 &nbsp;

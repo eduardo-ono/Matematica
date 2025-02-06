@@ -1,7 +1,7 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">Meio Ambiente - MTec - 2º Ano</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 05/02/2025</h6>
+<h6 align="center">Atualizado em: 06/02/2025</h6>
 
 &nbsp;
 
@@ -21,7 +21,8 @@ Carga horária: 120 horas-aula
 | :-:  |  :-:  | --- | --- |
 |      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
 |  01  | 06/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação |  |
-|  02  |       | &bull; Revisão de conteúdo<br>&nbsp; - Potenciação e radiciação | |
+|  02  | 07/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&nbsp; - Diferença entre Aritmética e Álgebra;<br>&nbsp; - Revisão das propriedades de conjuntos numéricos | |
+|  03  | 11/02 | &bull; Revisão de conteúdo<br>&nbsp; - Potenciação e radiciação | |
 |  03  |       | &bull; __Logarítmos__<br>&nbsp; - Definição e aplicação<br>&nbsp; - Propriedades | |
 |  04  |       | &bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |   06    | 14/02 | &bull; Exercícios de fixação | |
@@ -30,8 +31,8 @@ Carga horária: 120 horas-aula
 | 10 e 11 |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | |
 |             |       | -- Resolução por substituição de variáveis | |
-|             |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | |
-|             |       | -- Sistemas de Amortização e Noções de Fluxo de Caixa:<br>- Sistema de Amortização Contínua - SAC<br>--- Sistema de Amortização Francês - PRICE<br>--- Sistema de Amortização MISTO | |
+|             |       | &bull; __Matemática Financeira__<br>&nbsp; - Conceitos;<br>&nbsp; - Orçamento familiar; Indicadores econômicos; taxas de juros | |
+|             |       | &bull; Sistemas de Amortização e Noções de Fluxo de Caixa<br>&nbsp; - Sistema de Amortização Contínua - SAC<br>&nbsp; - Sistema de Amortização Francês - PRICE<br>&nbsp; - Sistema de Amortização MISTO | |
 |             |       | <h3>GEOMETRIA E MEDIDAS</h3> | |
 |             |       | - Figuras Geométricas: Definição e aplicações | |
 |             |       | -- Polígonos: Definição e aplicações<br>-- Polígonos Regulares: Definição; aplicações; propriedades | |
