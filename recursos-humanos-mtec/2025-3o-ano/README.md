@@ -1,4 +1,4 @@
-<h1 align="center">Matemática<br><sub>(3º ano - Adminstração - MTec - PI)</sub></h1>
+<h1 align="center">Matemática<br><sub>Recursos Humanos - MTec - 3º Ano)</sub></h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h6 align="center">Atualizado em: 06/02/2025</h6>
 
@@ -6,7 +6,7 @@
 
 ## Descrição
 
-Plano de Curso: [__17-04-2023 (versão provisória)__](../docs/ADM-605_MTec-PI_versao-provisoria_atualizado-em-17-04-23-compressed.pdf)
+Unidades temáticas: NÚMEROS E ÁLGEBRA; PROBABILIDADE E ESTATÍSTICA;
 
 Carga horária: 120 horas-aula
 
@@ -16,24 +16,24 @@ Carga horária: 120 horas-aula
 
 | Aula | Data | Descrição |
 | :-:  | :-:  | --- |
-|      |      | Unidade temática: NÚMEROS E ÁLGEBRA |
-|  01  |      | - Introdução ao componente curricular<br>- Critérios de avaliação |
+|      |      | <h3>NÚMEROS E ÁLGEBRA</h3> |
+|  01  |      | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br> |
 |  02  |      | - Matemática Computacional<br>--Conceitos e aplicações |
 |  03  |      | -- Noções elementares: Sequências, variáveis e condicionais, laços de repetição |
 |  04  |      | -- Lógica de Programação: Algoritmos; fluxogramas; modelagem de problemas e de soluções |
 |  05  |      | -- Linguagem de Programação Estruturada |
-|      |      | Unidade temática: GEOMETRIA E MEDIDAS |
+|      |      | <h3>GEOMETRIA E MEDIDAS</h3> |
 |  18  |      | - Polígonos Regulares e Irregulares: Características |
 |  19  |      | - Ladrilhamento do Plano |
 |  20  |      | - Áreas de figuras geométricas: Pavimentações no plano (com o mesmo tipo de polígono ou não) |
-|  21  |      | - Geometria Espacial |
+|  21  |      | &bull; __Geometria Espacial__ |
 |  22  |      | -- Teorema de Tales |
 |  23  |      | -- Teorema da bissetriz |
-|  24  |      | - Geometria Analítica |
+|  24  |      | &bull; __Geometria Analítica__ |
 |  25  |      | -- Ponto e reta |
 |  26  |      | -- formas da equação da reta, paralelismo e perpendicularidade |
 |  27  |      | -- Equação da circunferência |
-|  28  |      | Unidade temática: PROBABILIDADE E ESTATÍSTICA |
+|  28  |      | <h3>PROBABILIDADE E ESTATÍSTICA</h3> |
 |  29  |      | - Probabilidade simples e condicional:<br>-- Espaçoes amostrais discretos ou contínuos |
 |  30  |      | -- Eventos equiprováveis ou não equiprováveis |
 |  31  |      | -- Eventos sucessivos, mutuamente exclusivos e não mutuamente exclusivos |

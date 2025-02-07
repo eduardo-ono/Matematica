@@ -12,6 +12,8 @@ Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL
 
 Carga horária: 120 horas-aula
 
+Plano de Curso:
+
 * Calendário Escolar 2025: <https://etecpirassununga.com.br/wp-content/uploads/2025/01/CALENDARIO-ESCOLAR-2025.pdf>
 
 &nbsp;

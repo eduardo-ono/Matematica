@@ -1,5 +1,3 @@
-&nbsp;
-
 <h1 align="center">Matemática</h1>
 <h4 align="center">Prof. Eduardo Ono</h4>
 <h6 align="center"><sup><img src="https://img.shields.io/github/last-commit/eduardo-ono/Matematica" alt="img: last-commit"></sup></h6>
@@ -14,7 +12,7 @@
 
 * Meio Ambiente - MTec: [__2º ano__](./meio-ambiente-mtec/2025-2o-ano/)
 
-* Recursos Humanos - MTec - PI:
+* Recursos Humanos - MTec: [__3º ano__](./recursos-humanos-mtec/2025-3o-ano/)
 
 * Recursos Humanos - MTec - N:
 
