@@ -14,6 +14,6 @@
 
 * Recursos Humanos - MTec: [__3º ano__](./recursos-humanos-mtec/2025-3o-ano/)
 
-* Recursos Humanos - MTec - N:
+* Recursos Humanos - MTec - N: [__1ª ano__](./recursos-humanos-mtec/2025-1o-ano/)
 
 &nbsp;
