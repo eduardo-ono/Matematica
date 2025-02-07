@@ -1,5 +1,3 @@
-&nbsp;
-
 <h1 align="center">Matemática<br><sub>Recursos Humanos - MTec - N - 1º ano</sub></h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h6 align="center">Atualizado em: 07/02/2025</h6>
