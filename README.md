@@ -6,7 +6,7 @@
 
 * Adminstração - MTec - PI: [__1º ano__](./administracao-mtec-pi/2025-1o-ano) | [__2º ano__](./administracao-mtec-pi/2025-2o-ano) | 3º ano
 
-* Desenvolvimento de Sistemas - MTec - PI: [__1º ano__](./desenvolvimento-de-sistemas-mtec-pi/2025-1o-ano) | __2º ano__
+* Desenvolvimento de Sistemas - MTec - PI: [__1º ano__](./desenvolvimento-de-sistemas-mtec-pi/2025-1o-ano) | [__2º ano__](./desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/)
 
 * Marketing - MTec - PI: __1º ano__ | [__2º ano__](./marketing-mtec-pi/2025-2o-ano/)
 
