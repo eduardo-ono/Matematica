@@ -17,7 +17,7 @@ Carga horária: 120 horas-aula
 | Aula | Data | Descrição |
 | :-:  | :-:  | --- |
 |      |      | <h3>NÚMEROS E ÁLGEBRA</h3> |
-|  01  |      | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br> |
+|  01  |      | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os "pilares" da Matemática<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação |
 |  02  |      | - Matemática Computacional<br>--Conceitos e aplicações |
 |  03  |      | -- Noções elementares: Sequências, variáveis e condicionais, laços de repetição |
 |  04  |      | -- Lógica de Programação: Algoritmos; fluxogramas; modelagem de problemas e de soluções |
