@@ -4,16 +4,16 @@
 
 &nbsp;
 
-* Adminstração - MTec - PI: [__1º ano__](./administracao-mtec-pi/2025-1o-ano) | [__2º ano__](./administracao-mtec-pi/2025-2o-ano) | 3º ano
+* Adminstração - MTec - PI: [__1º ano__](./administracao-mtec-pi/2025-1o-ano) | [__2º ano__](./administracao-mtec-pi/2025-2o-ano) | [__3º ano__](./administracao-mtec-pi/2025-3o-ano/)
 
 * Desenvolvimento de Sistemas - MTec - PI: [__1º ano__](./desenvolvimento-de-sistemas-mtec-pi/2025-1o-ano) | [__2º ano__](./desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/)
 
-* Marketing - MTec - PI: __1º ano__ | [__2º ano__](./marketing-mtec-pi/2025-2o-ano/)
+* Marketing - MTec - PI: [__1º ano__](./marketing-mtec-pi/2025-1o-ano/) | [__2º ano__](./marketing-mtec-pi/2025-2o-ano/)
 
 * Meio Ambiente - MTec: [__2º ano__](./meio-ambiente-mtec/2025-2o-ano/)
 
 * Recursos Humanos - MTec: [__3º ano__](./recursos-humanos-mtec/2025-3o-ano/)
 
-* Recursos Humanos - MTec - N: [__1ª ano__](./recursos-humanos-mtec/2025-1o-ano/)
+* Recursos Humanos - MTec - N: [__1ª ano__](./recursos-humanos-mtec/2025-1o-ano-n/)
 
 &nbsp;
