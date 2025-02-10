@@ -26,7 +26,7 @@ Plano de Curso:
 |      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
 |  01  | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições; manipulação e aplicação | |
 |  02  | 06/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&nbsp; - Diferença entre Aritmética e Álgebra;<br>&nbsp; - Introdução a propriedades de conjuntos numéricos | |
-|  03  | 10/02 | &bull; __Conjuntos__<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas<br>&nbsp; - Simbologia | |
+|  03  | 10/02 | &bull; [__Conjuntos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos)<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas<br>&nbsp; - Simbologia | |
 |  04  |       | &bull; Operações com conjuntos<br>&nbsp; União (reunião), interseção | |
 |  05  |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
 |  06  |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
