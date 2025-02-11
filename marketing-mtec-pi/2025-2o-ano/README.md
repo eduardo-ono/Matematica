@@ -1,7 +1,7 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">Marketing - MTec - PI - 2º Ano</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 05/02/2025</h6>
+<h6 align="center">Atualizado em: 10/02/2025</h6>
 
 &nbsp;
 
@@ -21,12 +21,12 @@ Carga horária: 120 horas-aula
 |   :-:   |  :-:  | --- | --- |
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
 | 01 e 02 | 07/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
-|   03    |       | &bull; Revisão de conteúdo<br>&nbsp; - Potenciação e radiciação | |
+|   03    | 10/02 | &bull; Revisão de conteúdo<br>&nbsp; - Produto Notável;<br>&ensp; - Fatoração | |
 | 04 e 05 |       | &bull; __Logarítmos__<br>&nbsp; - Definição e aplicação<br>&nbsp; - Propriedades<br>&bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |   06    |       | &bull; Exercícios de fixação | |
-| 07 e 08 |       | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
+| 07 e 08 |       | &bull; __Matrizes__<br>&ensp; - Definição, aplicações e propriedades<br>&ensp; - Operações com matrizes<br>&ensp; - Exercícios | |
 |   09    |       | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
-| 10 e 11 |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
+| 10 e 11 |       | &bull; __Determinantes__<br>&ensp; Definição e aplicações<br>&ensp; - Propriedades | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | |
 |             |       | -- Resolução por substituição de variáveis | |
 |             |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | |

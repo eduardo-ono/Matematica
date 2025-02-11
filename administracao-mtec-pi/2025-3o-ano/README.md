@@ -1,7 +1,7 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">Adminstração - MTec - PI - 3º Ano</h3>
 <h4 align="center">Prof. Eduardo Ono</h4>
-<h6 align="center">Atualizado em: 06/02/2025</h6>
+<h6 align="center">Atualizado em: 10/02/2025</h6>
 
 &nbsp;
 
@@ -19,7 +19,7 @@ Carga horária: 120 horas-aula&emsp;sdcds
 |   :-:    |  :-:  | --- |
 |          |       | <h3>NÚMEROS E ÁLGEBRA</h3> |
 |  01 e 02 | 10/02 | &bull; Introdução ao componente curricular;<br>&ensp; - Critérios de avaliação.<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Revisão de produtos notáveis e fatoração. |
-|    03    |       | - Matemática Computacional<br>--Conceitos e aplicações |
+|    03    | 11/02 | &bull; Matemática Computacional<br>&ensp;- Conceitos e aplicações |
 |          |       | -- Noções elementares: Sequências, variáveis e condicionais, laços de repetição |
 |          |       | -- Lógica de Programação: Algoritmos; fluxogramas; modelagem de problemas e de soluções |
 |          |       | -- Linguagem de Programação Estruturada |
@@ -30,10 +30,9 @@ Carga horária: 120 horas-aula&emsp;sdcds
 |          |       | - Geometria Espacial |
 |          |       | -- Teorema de Tales |
 |          |       | -- Teorema da bissetriz |
-|          |       | - Geometria Analítica |
-|          |       | -- Ponto e reta |
-|          |       | -- formas da equação da reta, paralelismo e perpendicularidade |
-|          |       | -- Equação da circunferência |
+|          |       | &bull; __Geometria Analítica__<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Distância entre dois pontos;<br>&ensp; - Coordenadas do ponto médio de um segmento;<br>&ensp; - Condição de alinhamento de três pontos;<br>&ensp; - Área de um triângulo;<br>&ensp; - Formas da equação da reta;<br>&ensp; - Posição relativa entre retas;<br>&ensp; - Ângulo entre duas retas concorrentes;<br>&ensp; - Distância entre ponto e reta;<br>&ensp; - Inequação do 1º grau com duas variáveis. |
+|          |       | &ensp; - Formas da equação da reta, paralelismo e perpendicularidade |
+|          |       | &bull; Equação da circunferência |
 |          |       | <h3>__PROBABILIDADE E ESTATÍSTICA__</h3> |
 |          |       | - Probabilidade simples e condicional:<br>-- Espaçoes amostrais discretos ou contínuos |
 |      |      | -- Eventos equiprováveis ou não equiprováveis |

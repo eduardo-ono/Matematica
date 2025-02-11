@@ -1,4 +1,4 @@
-<h1 align="center">Matemática<br><sub>Recursos Humanos - MTec - 3º Ano)</sub></h1>
+<h1 align="center">Matemática<br><sub>Recursos Humanos - MTec - 3º Ano</sub></h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h6 align="center">Atualizado em: 06/02/2025</h6>
 
@@ -14,11 +14,11 @@ Carga horária: 120 horas-aula
 
 ## Conteúdo Programático
 
-| Aula | Data | Descrição |
-| :-:  | :-:  | --- |
-|      |      | <h3>NÚMEROS E ÁLGEBRA</h3> |
-|  01  |      | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os "pilares" da Matemática<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação |
-|  02  |      | - Matemática Computacional<br>--Conceitos e aplicações |
+|   Aula  | Data  | Descrição |
+|   :-:   |  :-:  | --- |
+|         |       | <h3>NÚMEROS E ÁLGEBRA</h3> |
+|   01    | 07/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os "pilares" da Matemática<br>&ensp; - Conceitos e definições;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação |
+| 02 e 03 | 11/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Revisão de produto notável e fatoração.<br>&bull; Matemática Computacional<br>&ensp; - Conceitos e aplicações. |
 |  03  |      | -- Noções elementares: Sequências, variáveis e condicionais, laços de repetição |
 |  04  |      | -- Lógica de Programação: Algoritmos; fluxogramas; modelagem de problemas e de soluções |
 |  05  |      | -- Linguagem de Programação Estruturada |

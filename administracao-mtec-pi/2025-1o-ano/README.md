@@ -3,7 +3,7 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">Adminstração - MTec - PI - 1º ano</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 09/02/2025</h6>
+<h6 align="center">Atualizado em: 10/02/2025</h6>
 
 &nbsp;
 
@@ -25,11 +25,12 @@ Plano de Curso:
 | :-:  |  :-:  | --- | --- |
 |      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
 |  01  | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições; manipulação e aplicação | |
-|  02  | 06/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&nbsp; - Diferença entre Aritmética e Álgebra;<br>&nbsp; - Introdução a propriedades de conjuntos numéricos | |
-|  03  | 10/02 | &bull; [__Conjuntos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos)<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas<br>&nbsp; - Simbologia | |
-|  04  |       | &bull; Operações com conjuntos<br>&nbsp; União (reunião), interseção | |
-|  05  |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
-|  06  |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
+|  02  | 06/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&nbsp; - Diferença entre Aritmética e Álgebra. | |
+|  03  | 10/02 | &bull; Revisão de conteúdo<br>&ensp; - Produtos notáveis e fatoração |
+|  04  | 12/02 | &bull; [__Conjuntos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos)<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas<br>&nbsp; - Simbologia | |
+|  05  |       | &bull; Operações com conjuntos<br>&nbsp; União (reunião), interseção | |
+|  06  |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
+|  07  |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
 |      |       | &bull; __Função__: Conceito e aplicações; notações; domínio e imagem; gráfico cartesiano | |
 |      |       | -- Funções: afins, lineares, constantes e função identidade | |
 |      |       | &nbsp; - Função composta | |
@@ -47,7 +48,7 @@ Plano de Curso:
 |      |       | <h3>__GEOMETRIA E MEDIDAS__</h3> | |
 |      |       | &bull; Geometria métrica<br>&nbsp; - Conceitos e procedimentos | |
 |      |       | - Sistema métrico decimal e unidades não convencionais<br>&bull; Bases de sistemas de contagem: Base decimal, base binária, base sexagesimal, entre outras. | |
-|      |       | &bull; Sistemas e unidades de medida:<br>&nbsp; Sistema Internacional de Medidas (SI);<br> Algarismos significativos e técnicas de arredondamento;<br> Notação científica; Noção de erro em medições;<br> - Grandezas determinadas pela razão ou produto de outras (velocidade, densidade de um corpo, densidade demográfica, potência elétrica), grandezas de armazenamento de dados na informática (bit, byte, kilobyte, megabyte, gigabyte, entre outros.) e transferência de dados (Mbps, Kbps, Gbps, entre outros);<br> &nbsp; Conversão entre unidades compostas. | |
+|      |       | &bull; Sistemas e unidades de medida:<br>&ensp; - Sistema Internacional de Medidas (SI);<br>&ensp; - Algarismos significativos e técnicas de arredondamento;<br>&ensp; - Notação científica;<br>&ensp; - Noção de erro em medições;<br> - Grandezas determinadas pela razão ou produto de outras (velocidade, densidade de um corpo, densidade demográfica, potência elétrica), grandezas de armazenamento de dados na informática (bit, byte, kilobyte, megabyte, gigabyte, entre outros.) e transferência de dados (Mbps, Kbps, Gbps, entre outros);<br> &nbsp; Conversão entre unidades compostas. | |
 |      |       | <h4>&bull; __Proporcionalidades__</h4>&nbsp; - Conceitos e aplicações | |
 |      |       | &nbsp; - __Segmentos de retas__ | |
 |      |       | &nbsp; - __Teorema de Tales__ | |
