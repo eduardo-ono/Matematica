@@ -20,9 +20,10 @@ Carga horária: 120 horas-aula
 |   Aula  | Data  | Descrição | Competências e Habilidades |
 |   :-:   |  :-:  | --- | --- |
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
-| 01 e 02 | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
+| 01 e 02 | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&ensp; - Conceitos e definições;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
 |   03    | 07/02 | &bull; Revisão de conteúdo<br>&nbsp; - Potenciação;<br>&nbsp; - Radiciação | |
-| 04 e 05 | 12/02 | &bull; __Logarítmos__<br>&nbsp; - Definição e aplicação<br>&nbsp; - Propriedades<br>&bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+| 04 e 05 | 12/02 | &bull; [__Logarítmos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/04-exponenciais-e-logaritmos/logaritmos)<br>&ensp; - Definição e aplicações<br>&ensp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios. | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] |
+|   06    |       | &bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |   06    | 14/02 | &bull; Exercícios de fixação | |
 | 07 e 08 | 19/02 | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
 |   09    | 21/02 | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |

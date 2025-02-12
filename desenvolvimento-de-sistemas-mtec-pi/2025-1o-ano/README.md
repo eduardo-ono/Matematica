@@ -1,6 +1,6 @@
 &nbsp;
 
-<h1 align="center">Matemática<br><sub>(Desenvolvimento de Sistemas - MTec - PI - 1º Ano)</sub></h1>
+<h1 align="center">Matemática<br><sub>Desenvolvimento de Sistemas - MTec - PI - 1º Ano</sub></h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h6 align="center">Atualizado em: 04/02/2025</h6>
 
@@ -22,7 +22,7 @@ Calendário Escolar: [__CALENDARIO-ESCOLAR-2025.pdf__](https://etecpirassununga.
 |  :-:  |  :-:  | --- |
 |       |       | <h3>NÚMEROS E ÁLGEBRA</h3> |
 | 01-02 | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação |
-| 03-04 | 12/02 | &bull; __Conjuntos__<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas |
+| 03-04 | 12/02 | &bull; [__Conjuntos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/02-conjuntos/02-conjuntos)<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas |
 | 05-06 |       | &bull; __Conjuntos__ (cont.)<br>&nbsp; - Operações com conjuntos: União (reunião) e interseção<br>&nbsp; - Exercícios de fixação |
 | 07-08 |      | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais;<br>&nbsp; - Conjunto dos Números Inteiros;<br>&nbsp; - Conjunto dos Números Racionais;<br>&nbsp; - Conjunto dos Números Irracionais;<br>&nbsp; - Conjunto dos Números Reais;<br>&nbsp; - Conjunto dos Números Complexos (?) |
 |    |      | &bull; [__Funções__]<br>&nbsp; - Conceito e aplicação;<br>&nbsp; - Notações;<br>&nbsp; - Domínio e imagem;<br>&nbsp; - Gráfico no plano cartesiano |
