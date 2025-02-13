@@ -9,7 +9,7 @@
 
 ## Descrição
 
-Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM ADMINISTRAÇÃO (Período Integral), ministrado no ano de 2025.
+Matemática para o 1º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM ADMINISTRAÇÃO (Período Integral), ministrado no ano de 2025.
 
 Carga horária: 120 horas-aula
 
@@ -24,12 +24,13 @@ Plano de Curso:
 | Aula | Data  | Descrição | Competências e Habilidades |
 | :-:  |  :-:  | --- | --- |
 |      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
-|  01  | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições; manipulação e aplicação | |
-|  02  | 06/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&nbsp; - Diferença entre Aritmética e Álgebra. | |
-|  03  | 10/02 | &bull; Revisão de conteúdo<br>&ensp; - Produtos notáveis e fatoração |
-|  04  | 12/02 | &bull; [__Conjuntos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos)<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas<br>&nbsp; - Simbologia | |
-|  05  |       | &bull; Operações com conjuntos<br>&nbsp; União (reunião), interseção | |
-|  06  |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
+|  01  | 05/02 | &bull; Introdução ao componente curricular<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; Aplicação. | |
+|  02  | 06/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra. | |
+|  03  | 10/02 | &bull; Revisão de conteúdo<br>&ensp; - Produtos notáveis e fatoração. | |
+|  04  | 12/02 | &bull; [__Conjuntos__]<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Noções primitivas;<br>&ensp; - Simbologia. | |
+|  05  | 13/02 | &bull; [__Conjuntos__] (cont.)<br>&ensp; - Conjunto unitário;<br>&ensp; - Conjunto vazio;<br>&ensp; - Igualdade de conjuntos;<br>&ensp; Subconjuntos. | |
+|  06  |        |&bull; Operações com conjuntos<br>&ensp; União (reunião) e interseção. | |
+|      |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
 |  07  |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
 |      |       | &bull; __Função__: Conceito e aplicações; notações; domínio e imagem; gráfico cartesiano | |
 |      |       | -- Funções: afins, lineares, constantes e função identidade | |
@@ -63,5 +64,7 @@ Plano de Curso:
 |      |       | &bull; __Medidas de Dispersão__: amplitude, variância e desvio padrão | |
 |      |       | &bull; __Gráficos e infográficos utilizados pela Estatística__<br>&nbsp; - Elementos de um gráfico | |
 |      |       | &bull; __Interpretação de dados estatísticos__; Estudo de casos | |
+
+[__Conjuntos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/conjuntos.ipynb
 
 &nbsp;

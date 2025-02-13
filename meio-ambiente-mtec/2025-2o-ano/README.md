@@ -20,14 +20,15 @@ Carga horária: 120 horas-aula
 | Aula | Data  | Descrição | Competências e Habilidades |
 | :-:  |  :-:  | --- | --- |
 |      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
-|  01  | 06/02 | &bull; Introdução ao componente curricular<br>&ensp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&ensp; - Conceitos e definições;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação |  |
-|  02  | 07/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Revisão de produtos notáveis e fatoração. | |
-|  03  | 11/02 | &bull; Revisão de conteúdo<br>&ensp; - Potenciação e radiciação | |
-|  04  | 13/02 | &bull; __Logarítmos__<br>&ensp; - Definição e aplicação<br>&ensp; - Propriedades | |
-|      |       | &bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-|         | 14/02 | &bull; Exercícios de fixação | |
-|         | 19/02 | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
-|         | 21/02 | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
+|  01  | 06/02 | &bull; Introdução ao componente curricular<br>&ensp; - Critérios de avaliação<br>&bull; Os "pilares" da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação. |  |
+|  02  | 07/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Revisão de produtos notáveis e fatoração. | |
+|  03  | 11/02 | &bull; Revisão de conteúdo<br>&ensp; - Potenciação e radiciação. | |
+|  04  | 13/02 | &bull; Revisão de conteúdo:<br>&ensp; - Propriedades da potenciação;<br>&bull; __Logaritmos__<br>&ensp; - Definição e aplicações. | |
+|  05  | 14/02 | &bull; __Logaritmos__ (cont.)<br>&ensp; - Propriedades;<br>&ensp; Exercícios de fixação. | |
+|  06  |       |&bull; __Funções Exponenciais e Logarítmicas__<br>&ensp; - Definições e aplicações;<br>&ensp; - Gráfico no plano cartesiano. | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+|         |       | &bull; Exercícios de fixação | |
+|         |       | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
+|         |       | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
 |         |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | |
 |             |       | -- Resolução por substituição de variáveis | |
