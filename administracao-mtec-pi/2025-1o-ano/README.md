@@ -28,7 +28,7 @@ Plano de Curso:
 |  02  | 06/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra. | |
 |  03  | 10/02 | &bull; Revisão de conteúdo<br>&ensp; - Produtos notáveis e fatoração. | |
 |  04  | 12/02 | &bull; [__Conjuntos__]<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Noções primitivas;<br>&ensp; - Simbologia. | |
-|  05  | 13/02 | &bull; [__Conjuntos__] (cont.)<br>&ensp; - Conjunto unitário;<br>&ensp; - Conjunto vazio;<br>&ensp; - Igualdade de conjuntos;<br>&ensp; Subconjuntos. | |
+|  05  | 13/02 | &bull; [__Conjuntos__] (cont.)<br>&ensp; - Conjunto unitário;<br>&ensp; - Conjunto vazio;<br>&ensp; - Igualdade de conjuntos;<br>&ensp; - Subconjuntos. | |
 |  06  |        |&bull; Operações com conjuntos<br>&ensp; União (reunião) e interseção. | |
 |      |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
 |  07  |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
