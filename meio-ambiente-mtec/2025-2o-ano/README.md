@@ -22,13 +22,13 @@ Carga horária: 120 horas-aula
 |      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
 |  01  | 06/02 | &bull; Introdução ao componente curricular<br>&ensp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&ensp; - Conceitos e definições;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação |  |
 |  02  | 07/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Revisão de produtos notáveis e fatoração. | |
-|  03  | 11/02 | &bull; Revisão de conteúdo<br>&nbsp; - Potenciação e radiciação | |
-|  03  |       | &bull; __Logarítmos__<br>&nbsp; - Definição e aplicação<br>&nbsp; - Propriedades | |
-|  04  |       | &bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-|   06    | 14/02 | &bull; Exercícios de fixação | |
-| 07 e 08 | 19/02 | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
-|   09    | 21/02 | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
-| 10 e 11 |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
+|  03  | 11/02 | &bull; Revisão de conteúdo<br>&ensp; - Potenciação e radiciação | |
+|  04  | 13/02 | &bull; __Logarítmos__<br>&ensp; - Definição e aplicação<br>&ensp; - Propriedades | |
+|      |       | &bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+|         | 14/02 | &bull; Exercícios de fixação | |
+|         | 19/02 | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
+|         | 21/02 | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
+|         |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | |
 |             |       | -- Resolução por substituição de variáveis | |
 |             |       | &bull; __Matemática Financeira__<br>&nbsp; - Conceitos;<br>&nbsp; - Orçamento familiar; Indicadores econômicos; taxas de juros | |
