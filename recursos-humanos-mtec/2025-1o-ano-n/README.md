@@ -21,11 +21,12 @@ Plano de Curso:
 |   Aula  | Data  | Descrição | Competências e Habilidades |
 |   :-:   |  :-:  | --- | --- |
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
-| 01 e 02 | 07/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&nbsp; - Diferença entre Aritmética e Álgebra;<br>&nbsp; - Introdução a propriedades de conjuntos numéricos | |
-|  03  |       | &bull; __Conjuntos__<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas<br>&nbsp; - Simbologia | |
-|  04  |       | &bull; Operações com conjuntos<br>&nbsp; União (reunião), interseção | |
-|  05  |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
-|  06  |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
+| 01 e 02 | 07/02 | &bull; Introdução ao componente curricular<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação.<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Introdução a propriedades de conjuntos numéricos | |
+|   03    | 10/02 | &bull; [__Conjuntos__]<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Noções primitivas;<br>&ensp; - Notação simbólica. | |
+| 04 e 05 | 14/02 | &bull; [__Conjuntos__] (cont.)<br>&ensp; - Cardinalidade de um conjunto;<br>&ensp; - Conjunto unitário e conjunto vazio;<br>&ensp; - Igualdade de conjuntos;<br>&ensp; - Subconjuntos. | |
+|         |       | &bull; Operações com conjuntos<br>&nbsp; União (reunião), interseção | |
+|      |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
+|      |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
 |      |       | &bull; __Função__: Conceito e aplicações; notações; domínio e imagem; gráfico cartesiano | |
 |      |       | -- Funções: afins, lineares, constantes e função identidade | |
 |      |       | -- Função composta | |
@@ -57,5 +58,7 @@ Plano de Curso:
 |      |       | - Medidas de Dispersão: amplitude, variância e desvio padrão | |
 |      |       | - Gráficos e infográficos utilizados pela Estatística: Elementos de um gráfico | |
 |      |       | - Interpretação de dados estatísticos; Estudo de casos | |
+
+[__Conjuntos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/conjuntos.ipynb
 
 &nbsp;

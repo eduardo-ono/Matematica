@@ -20,9 +20,9 @@ Carga horária: 120 horas-aula
 |   Aula  | Data  | Descrição | Competências e Habilidades |
 |   :-:   |  :-:  | --- | --- |
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
-| 01 e 02 | 07/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
-|   03    | 10/02 | &bull; Revisão de conteúdo<br>&nbsp; - Produto Notável;<br>&ensp; - Fatoração | |
-| 04 e 05 |       | &bull; __Logarítmos__<br>&nbsp; - Definição e aplicação<br>&nbsp; - Propriedades<br>&bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+| 01 e 02 | 07/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Apresentação do cronograma programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os pilares da Matemática<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
+|   03    | 10/02 | &bull; Revisão de conteúdo<br>&ensp; - Produtos notáveis e fatoração.<br>&bull; [__Logaritmos__]<br>&ensp; - Introdução;<br>&ensp; - Definição e aplicações. | |
+| 04 e 05 | 14/02 | &bull; [__Logaritmos__] (cont.)<br>&nbsp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios de fixação.&bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |   06    |       | &bull; Exercícios de fixação | |
 | 07 e 08 |       | &bull; __Matrizes__<br>&ensp; - Definição, aplicações e propriedades<br>&ensp; - Operações com matrizes<br>&ensp; - Exercícios | |
 |   09    |       | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
@@ -36,11 +36,6 @@ Carga horária: 120 horas-aula
 |             |       | -- Polígonos: Definição e aplicações<br>-- Polígonos Regulares: Definição; aplicações; propriedades | |
 |             |       | - Perímetro e Área: Definições e aplicações | |
 |             |       | - Gráfico de uma função do 2º grau: zeros, vértice e foco | |
-|             |       | - Função modular | |
-|             |       | - Função exponencial | |
-|             |       | - Sequências Numéricas: Conceitos e aplicações | |
-|             |       | - Progressão Aritmética (P.A.) | |
-|             |       | - Progressão Geométrica (P.G.) | |
 |             |       | - Trigonometria<br>--Trigonometria no triângulo e suas principais razões trigonométricas | |
 |             |       | -- Trigonometria no círculo trigonométrico: seno; cosseno;  tangente | |
 |             |       | -- Lei dos senos | |
@@ -51,6 +46,8 @@ Carga horária: 120 horas-aula
 |             |       | - Estatística Descritiva: Frequências (absoluta e relativa) | |
 |             |       | -- Gráficos e diagramas estatísticos: histogramas; polígonos de frequências, diagrama de caixa, ramos e folhas, etc. | |
 |             |       | - Índice de Desenvolvimento Humano (IDH) | |
+
+[__Logaritmos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
 
 [3]: #competencia-3
 [4]: #competencia-4
