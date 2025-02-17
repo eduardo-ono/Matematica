@@ -24,9 +24,10 @@ Plano de Curso:
 | 01 e 02 | 07/02 | &bull; Introdução ao componente curricular<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação.<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Introdução a propriedades de conjuntos numéricos | |
 |   03    | 10/02 | &bull; [__Conjuntos__]<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Noções primitivas;<br>&ensp; - Notação simbólica. | |
 | 04 e 05 | 14/02 | &bull; [__Conjuntos__] (cont.)<br>&ensp; - Cardinalidade de um conjunto;<br>&ensp; - Conjunto unitário e conjunto vazio;<br>&ensp; - Igualdade de conjuntos;<br>&ensp; - Subconjuntos. | |
-|         |       | &bull; Operações com conjuntos<br>&nbsp; União (reunião), interseção | |
-|      |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
-|      |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
+|   06    | 17/02 | &bull; Aplicação da Avaliação Diagnóstica. | |
+|         |       | &bull; Operações com conjuntos<br>&ensp; União (reunião), interseção | |
+|      |       | &bull; __Conjuntos Numéricos__<br>&ensp; - Conjunto dos Números Naturais<br>&ensp; - Conjunto dos Números Inteiros | |
+|      |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&ensp; - Conjunto dos Números Racionais<br>&ensp; - Conjunto dos Números Irracionais<br>&ensp; - Conjunto dos Números Reais<br>&ensp; - Conjunto dos Números Complexos (apenas conceitos) | |
 |      |       | &bull; __Função__: Conceito e aplicações; notações; domínio e imagem; gráfico cartesiano | |
 |      |       | -- Funções: afins, lineares, constantes e função identidade | |
 |      |       | -- Função composta | |
@@ -36,15 +37,15 @@ Plano de Curso:
 |      |       | --- Gráfico de uma função do 2º grau: zeros, vértice e foco | |
 |      |       | -- Função modular | |
 |      |       | -- Função exponencial | |
-|      |       | &bull; __Sequências Numéricas__<br>&nbsp; - Conceitos e aplicações<br> | |
+|      |       | &bull; __Sequências Numéricas__<br>&ensp; - Conceitos e aplicações<br> | |
 |      |       | -- Progressão Aritmética (P.A.) | |
 |      |       | -- Progressão Geométrica (P.G.) | |
-|      |       | &bull; __Matemática Financeira__<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Porcentagem | |
-|      |       | &nbsp; - Juros Simples e Compostos | |
+|      |       | &bull; __Matemática Financeira__<br>&ensp; - Conceitos e aplicações<br>&ensp; - Porcentagem | |
+|      |       | &ensp; - Juros Simples e Compostos | |
 |      |       | <h3>GEOMETRIA E MEDIDAS</h3> | |
 |      |       | - Geometria métrica: Conceitos e procedimentos | |
 |      |       | - | |
-|      |       | &bull; __Proporcionalidades__<br>&nbsp; - Conceitos e aplicações | |
+|      |       | &bull; __Proporcionalidades__<br>&ensp; - Conceitos e aplicações | |
 |      |       | -- Segmentos de retas | |
 |      |       | -- Teorema de Tales | |
 |      |       | -- Teorema da bissetriz | |

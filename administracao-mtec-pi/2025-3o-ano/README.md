@@ -19,9 +19,9 @@ Carga horária: 120 horas-aula&emsp;sdcds
 |   :-:    |  :-:  | --- |
 |          |       | <h3>NÚMEROS E ÁLGEBRA</h3> |
 |  01 e 02 | 10/02 | &bull; Introdução ao componente curricular;<br>&ensp; - Critérios de avaliação.<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Revisão de produtos notáveis e fatoração. |
-|    03    | 11/02 | &bull; Matemática Computacional<br>&ensp;- Conceitos e aplicações |
-|          |       | -- Noções elementares: Sequências, variáveis e condicionais, laços de repetição |
-|          |       | -- Lógica de Programação: Algoritmos; fluxogramas; modelagem de problemas e de soluções |
+|    03    | 11/02 | &bull; __Matemática Computacional__<br>&ensp;- Conceitos e aplicações. |
+|  04 e 05 | 17/02 | &bull; __Matemática Computacional__ (cont.)<br>&ensp; - Noções elementares;<br>&ensp; - Variáveis e condicionais;<br> |
+|          |       | -- laços de repetição; -- Lógica de Programação: Algoritmos; fluxogramas; modelagem de problemas e de soluções |
 |          |       | -- Linguagem de Programação Estruturada |
 |          |       | <h3>__GEOMETRIA E MEDIDAS__</h3> |
 |          |       | - Polígonos Regulares e Irregulares: Características |
