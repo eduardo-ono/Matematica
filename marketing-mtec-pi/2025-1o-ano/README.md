@@ -24,7 +24,8 @@ Plano de Curso:
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
 | 01 e 02 | 10/02 | &bull; Introdução ao componente curricular<br>&ensp; - Apresentação do conteúdo programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Revisão de produtos notáveis e fatoração. | |
 |   03    | 11/02 | &bull; [__Conjuntos__]<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Noções primitivas;<br>&ensp; - Notação simbólica.<br> | |
-| 04 e 05 | 17/02 | &bull; [__Conjuntos__] (cont.)<br>&ensp; - Cardinalidade de um conjunto;<br>&ensp; - Conjunto unitário e conjunto vazio;<br>&ensp; - Igualdade de conjuntos;<br>&ensp; - Subconjuntos.<br>&bull; Aplicação da Avaliação Diagnóstica. | |
+| 04 e 05 | 17/02 | &bull; [__Conjuntos__] (cont.)<br>&ensp; - Cardinalidade de um conjunto;<br>&ensp; - Conjunto unitário e conjunto vazio;<br>&ensp; - Igualdade de conjuntos.<br>&bull; Aplicação da Avaliação Diagnóstica. | |
+|   06    | 18/02 | &bull; [__Conjuntos__] (cont.)<br>&ensp; - Subconjuntos. |
 |      |       | &bull; Operações com conjuntos<br>&ensp; União (reunião), interseção | |
 |      |       | &bull; __Conjuntos Numéricos__<br>&ensp; - Conjunto dos Números Naturais<br>&ensp; - Conjunto dos Números Inteiros | |
 |      |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&ensp; - Conjunto dos Números Racionais<br>&ensp; - Conjunto dos Números Irracionais<br>&ensp; - Conjunto dos Números Reais<br>&ensp; - Conjunto dos Números Complexos (apenas conceitos) | |

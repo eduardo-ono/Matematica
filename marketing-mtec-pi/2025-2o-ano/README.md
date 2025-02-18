@@ -22,12 +22,12 @@ Carga horária: 120 horas-aula
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
 | 01 e 02 | 07/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Apresentação do cronograma programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os pilares da Matemática<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
 |   03    | 10/02 | &bull; Revisão de conteúdo<br>&ensp; - Produtos notáveis e fatoração.<br>&bull; [__Logaritmos__]<br>&ensp; - Introdução;<br>&ensp; - Definição e aplicações. | |
-| 04 e 05 | | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios de fixação. | &bull; Competência: [3]<br>&ensp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+| 04 e 05 | 14/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios de fixação. | &bull; Competência: [3]<br>&ensp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |   06    | 17/02 | &bull; Aplicação da Avaliação Diagnóstica. | |
-| 07 e 08 | 14/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Exercícios de fixação.<br>&bull; [__Funções Exponenciais e Logarítmicas__]<br>&ensp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&ensp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-| 07 e 08 |       | &bull; __Matrizes__<br>&ensp; - Definição, aplicações e propriedades<br>&ensp; - Operações com matrizes<br>&ensp; - Exercícios | |
-|   09    |       | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
-| 10 e 11 |       | &bull; __Determinantes__<br>&ensp; Definição e aplicações<br>&ensp; - Propriedades | |
+| 07 e 08 |       | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Exercícios de fixação.<br>&bull; [__Funções Exponenciais e Logarítmicas__]<br>&ensp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&ensp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+|         |       | &bull; __Matrizes__<br>&ensp; - Definição, aplicações e propriedades<br>&ensp; - Operações com matrizes<br>&ensp; - Exercícios | |
+|         |       | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
+|         |       | &bull; __Determinantes__<br>&ensp; Definição e aplicações<br>&ensp; - Propriedades | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | |
 |             |       | -- Resolução por substituição de variáveis | |
 |             |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | |
