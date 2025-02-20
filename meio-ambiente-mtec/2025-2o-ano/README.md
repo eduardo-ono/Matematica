@@ -25,8 +25,8 @@ Carga horária: 120 horas-aula
 |  03  | 11/02 | &bull; Revisão de conteúdo<br>&ensp; - Potenciação e radiciação. | |
 |  04  | 13/02 | &bull; Revisão de conteúdo:<br>&ensp; - Propriedades da potenciação;<br>&bull; [__Logaritmos__]<br>&ensp; - Definição e aplicações. | |
 |  05  | 14/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Propriedades;<br>&ensp; Exercícios de fixação. | |
-|  06  | 18/02 | &bull; Aplicação da Avaliação Diagnóstica.<br>&ensp; 19/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
-|  07  | 20/02 | &bull; Cálculo de logaritmos através da fatoração em produto de números primos. | |
+|  06  | 18/02 | &bull; Aplicação da Avaliação Diagnóstica.<br>&ensp; 20/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
+|  07  | 20/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Cálculo de logaritmos através da fatoração em números primos. | |
 |      |       | &bull; __Funções Exponenciais e Logarítmicas__<br>&ensp; - Definições e aplicações;<br>&ensp; - Gráfico no plano cartesiano. | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |         |       | &bull; Exercícios de fixação | |
 |         |       | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
