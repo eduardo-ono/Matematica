@@ -23,9 +23,11 @@ Carga horária: 120 horas-aula
 |  01  | 06/02 | &bull; Introdução ao componente curricular<br>&ensp; - Critérios de avaliação<br>&bull; Os "pilares" da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação. |  |
 |  02  | 07/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Revisão de produtos notáveis e fatoração. | |
 |  03  | 11/02 | &bull; Revisão de conteúdo<br>&ensp; - Potenciação e radiciação. | |
-|  04  | 13/02 | &bull; Revisão de conteúdo:<br>&ensp; - Propriedades da potenciação;<br>&bull; __Logaritmos__<br>&ensp; - Definição e aplicações. | |
-|  05  | 14/02 | &bull; __Logaritmos__ (cont.)<br>&ensp; - Propriedades;<br>&ensp; Exercícios de fixação. | |
-|  06  |       |&bull; __Funções Exponenciais e Logarítmicas__<br>&ensp; - Definições e aplicações;<br>&ensp; - Gráfico no plano cartesiano. | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+|  04  | 13/02 | &bull; Revisão de conteúdo:<br>&ensp; - Propriedades da potenciação;<br>&bull; [__Logaritmos__]<br>&ensp; - Definição e aplicações. | |
+|  05  | 14/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Propriedades;<br>&ensp; Exercícios de fixação. | |
+|  06  | 18/02 | &bull; Aplicação da Avaliação Diagnóstica.<br>&ensp; 19/02: [Gabarito](./gabaritos/avaliacao-diagnostica.ipynb) | |
+|  07  | 20/02 | &bull; Cálculo de logaritmos através da fatoração em produto de números primos. | |
+|      |       | &bull; __Funções Exponenciais e Logarítmicas__<br>&ensp; - Definições e aplicações;<br>&ensp; - Gráfico no plano cartesiano. | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |         |       | &bull; Exercícios de fixação | |
 |         |       | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
 |         |       | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
@@ -51,6 +53,8 @@ Carga horária: 120 horas-aula
 |             |       | - Estatística Descritiva: Frequências (absoluta e relativa) | |
 |             |       | -- Gráficos e diagramas estatísticos: histogramas; polígonos de frequências, diagrama de caixa, ramos e folhas, etc. | |
 |             |       | - Índice de Desenvolvimento Humano (IDH) | |
+
+[__Logaritmos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
 
 [3]: #competencia-3
 [4]: #competencia-4
