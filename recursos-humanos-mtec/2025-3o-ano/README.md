@@ -19,8 +19,8 @@ Carga horária: 120 horas-aula
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> |
 |   01    | 07/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os "pilares" da Matemática<br>&ensp; - Conceitos e definições;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação |
 | 02 e 03 | 11/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Revisão de produto notável e fatoração.<br>&bull; Matemática Computacional<br>&ensp; - Conceitos e aplicações. |
-|  03  | 14/02 | -- Noções elementares: Sequências, variáveis e condicionais, laços de repetição |
-|  04  |       | -- Lógica de Programação: Algoritmos; fluxogramas; modelagem de problemas e de soluções |
+|   03    | 14/02 | &bull; Matemática Computacional (cont.)<br>&ensp;- Noções elementares:<br>&ensp; - Sequências, variáveis e condicionais, laços de repetição. |
+| 04 e 05 | 18/02 | &bull; Matemática Computacional (cont.)<br>&bull; Lógica de Programação:<br>&ensp; - Algoritmos; fluxogramas; modelagem de problemas e de soluções.<br>&bull; Aplicação da Avaliação Diagnóstica. |
 |  05  |       | -- Linguagem de Programação Estruturada |
 |      |       | <h3>GEOMETRIA E MEDIDAS</h3> |
 |  18  |       | - Polígonos Regulares e Irregulares: Características |
