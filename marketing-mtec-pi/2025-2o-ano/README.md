@@ -1,7 +1,7 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">Marketing - MTec - PI - 2º Ano</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 10/02/2025</h6>
+<h6 align="center">Atualizado em: 21/02/2025</h6>
 
 &nbsp;
 
@@ -20,11 +20,11 @@ Carga horária: 120 horas-aula
 |   Aula  | Data  | Descrição | Competências e Habilidades |
 |   :-:   |  :-:  | --- | --- |
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
-| 01 e 02 | 07/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Apresentação do cronograma programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os pilares da Matemática<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
-|   03    | 10/02 | &bull; Revisão de conteúdo<br>&ensp; - Produtos notáveis e fatoração.<br>&bull; [__Logaritmos__]<br>&ensp; - Introdução;<br>&ensp; - Definição e aplicações. | |
-| 04 e 05 | 14/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios de fixação. | &bull; Competência: [3]<br>&ensp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-|   06    | 17/02 | &bull; Aplicação da Avaliação Diagnóstica<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
-| 07 e 08 |       | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Exercícios de fixação.<br>&bull; [__Funções Exponenciais e Logarítmicas__]<br>&ensp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&ensp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+| 01 e 02 | 07/02 | &bull; Introdução ao componente curricular:<br>&nbsp; - Apresentação do cronograma programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os pilares da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação.<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas.](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
+|   03    | 10/02 | &bull; Revisão de conteúdo:<br>&ensp; - Produtos notáveis e fatoração.<br>&bull; [__Logaritmos__]:<br>&ensp; - Introdução;<br>&ensp; - Definição e aplicações. | |
+| 04 e 05 | 14/02 | &bull; [__Logaritmos__] (cont.):<br>&ensp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios de fixação. | &bull; Competência: [3]<br>&ensp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+|   06    | 17/02 | &bull; Aplicação da Avaliação Diagnóstica.<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
+| 07 e 08 | 21/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Exercícios de fixação.<br>&bull; [__Funções Exponenciais e Logarítmicas__]<br>&ensp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&ensp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |         |       | &bull; __Matrizes__<br>&ensp; - Definição, aplicações e propriedades<br>&ensp; - Operações com matrizes<br>&ensp; - Exercícios | |
 |         |       | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
 |         |       | &bull; __Determinantes__<br>&ensp; Definição e aplicações<br>&ensp; - Propriedades | |
