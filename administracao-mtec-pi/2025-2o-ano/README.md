@@ -24,10 +24,10 @@ Carga horária: 120 horas-aula
 |   03    | 07/02 | &bull; Revisão de conteúdo<br>&nbsp; - Potenciação;<br>&nbsp; - Radiciação | |
 | 04 e 05 | 12/02 | &bull; [__Logarítmos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/04-exponenciais-e-logaritmos/logaritmos)<br>&ensp; - Definição e aplicações<br>&ensp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios. | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] |
 |   06    | 14/02 | &bull; __Logaritmos__ (cont.)<br>&ensp; - Propriedades;<br>&ensp; Exercícios de fixação. | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-| 07 e 08 | 19/02 | &bull; __Logaritmos__ (cont.)<br>&ensp; - Cálculo de logaritmos através da fatoração em produto de números primos.<br>&bull; Aplicação da Avaliação Diagnóstica. | |
+| 07 e 08 | 19/02 | &bull; __Logaritmos__ (cont.)<br>&ensp; - Cálculo de logaritmos através da fatoração em produto de números primos.<br>&bull; Aplicação da Avaliação Diagnóstica<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
 |   06    | 14/02 | &bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 | 07 e 08 | 19/02 | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
-|   09    | 21/02 | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
+|   09    | 21/02 |  | |
 | 10 e 11 |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | |
 |         |       | &nbsp; - Resolução por substituição de variáveis; | |
