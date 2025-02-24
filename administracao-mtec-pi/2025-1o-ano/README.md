@@ -3,7 +3,7 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">Adminstração - MTec - PI - 1º ano</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 10/02/2025</h6>
+<h6 align="center">Atualizado em: 24/02/2025</h6>
 
 &nbsp;
 
@@ -24,13 +24,15 @@ Plano de Curso:
 | Aula | Data  | Descrição | Competências e Habilidades |
 | :-:  |  :-:  | --- | --- |
 |      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
-|  01  | 05/02 | &bull; Introdução ao componente curricular<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; Aplicação. | |
+|  01  | 05/02 | &bull; Introdução ao componente curricular:<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; Aplicação. | |
 |  02  | 06/02 | &bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra. | |
-|  03  | 10/02 | &bull; Revisão de conteúdo<br>&ensp; - Produtos notáveis e fatoração. | |
-|  04  | 12/02 | &bull; [__Conjuntos__]<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Noções primitivas;<br>&ensp; - Notação simbólica. | |
-|  05  | 13/02 | &bull; [__Conjuntos__] (cont.)<br>&ensp; - Cardinalidade de um conjunto;<br>&ensp; - Conjunto unitário e conjunto vazio;<br>&ensp; - Igualdade de conjuntos;<br>&ensp; - Subconjuntos. | |
-|  06  | 17/02  | &bull; Aplicação da Avaliação Diagnóstica.<br>&ensp; 19/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
-|      |        | &bull; Operações com conjuntos<br>&ensp; União (reunião) e interseção. | |
+|  03  | 10/02 | &bull; Revisão de conteúdo:<br>&ensp; - Produtos notáveis e fatoração. | |
+|  04  | 12/02 | &bull; [__Conjuntos__]:<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Noções primitivas;<br>&ensp; - Notação simbólica. | |
+|  05  | 13/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Cardinalidade de um conjunto;<br>&ensp; - Conjunto unitário e conjunto vazio;<br>&ensp; - Igualdade de conjuntos;<br>&ensp; - Subconjuntos. | |
+|  06  | 17/02 | &bull; Aplicação da Avaliação Diagnóstica.<br>&ensp; 19/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
+|  07  | 19/02 | [__Conjuntos__] (cont.):<br>&ensp; - Implicação lógica: "implica" e "se, e somente se". | |
+|  08  | 20/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Operações com conjuntos: União (reunião) e intersecção. | |
+|  09  | 24/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Diferença de conjuntos<br>&ensp; - Disjunção; &ensp; - Complementar;<br>&ensp; - Conjunto das partes. | |
 |      |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
 |      |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
 |      |       | &bull; __Função__: Conceito e aplicações; notações; domínio e imagem; gráfico cartesiano | |
