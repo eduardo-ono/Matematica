@@ -22,8 +22,9 @@ Carga horária: 120 horas-aula
 |   03    | 11/02 | &bull; Revisão de conteúdo<br>&nbsp; - [Potenciação](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/04-exponenciais-e-logaritmos/potenciacao-e-radiciacao/potenciacao.ipynb) e radiciação | |
 | 04 e 05 | 14/02 | &bull; __Logarítmos__<br>&nbsp; - Definição e aplicação<br>&nbsp; - Propriedades<br> | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |   06    | 18/02 | &bull; Avaliação Diagnóstica.<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb)  | |
-| 07 e 08 | 21/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Cálculo de logaritmos através da fatoração em números primos.<br>&bull; Palestra: Direito eletrônico e bullying - Mauro Zamaro | |
-|         |       | &bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano  | |
+| 07 e 08 | 21/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Cálculo de logaritmos através da fatoração em números primos. | |
+|   09    | 25/02 | Atividade extracurricular: Trote Solidário. | |
+| 10 e 11 | 28/02 | &bull; __Funções Exponenciais e Logarítmicas__:<br>&nbsp; - Definições e aplicações;<br>&nbsp; - Gráfico no plano cartesiano.  | |
 |         |       | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriddades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
 |         |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | |
