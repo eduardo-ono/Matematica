@@ -1,12 +1,12 @@
 <h1 align="center">Matemática<br><sub>Recursos Humanos - MTec - 3º Ano</sub></h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 06/02/2025</h6>
+<h6 align="center">Atualizado em: 25/02/2025</h6>
 
 &nbsp;
 
 ## Descrição
 
-Unidades temáticas: NÚMEROS E ÁLGEBRA; PROBABILIDADE E ESTATÍSTICA;
+Unidades temáticas: NÚMEROS E ÁLGEBRA; GEOMETRIA E MEDIDAS; PROBABILIDADE E ESTATÍSTICA;
 
 Carga horária: 120 horas-aula
 
@@ -24,22 +24,22 @@ Carga horária: 120 horas-aula
 |   07    | 21/02 | &bull; Matemática Computacional (cont.)<br>&ensp; - Estruturas de repetição; Exemplo com juros compostos. |
 | 08 e 09 | 25/02 | Atividade extracurricular: Trote Solidário. |
 |   10    | 28/02 | &bull; Matemática Computacional (cont.):<br>&ensp; - [Iteração](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/16-metematica-computacional/conteudo/estruturas-de-repeticao/iteracao.ipynb): Método da bissecção. |
-|   11    | 28/02 | <h3>GEOMETRIA E MEDIDAS</h3> |
-|      |       | - Polígonos Regulares e Irregulares: Características |
-|      |       | - Ladrilhamento do Plano |
-|      |       | - Áreas de figuras geométricas: Pavimentações no plano (com o mesmo tipo de polígono ou não) |
-|      |       | &bull; __Geometria Espacial__ |
-|      |       | -- Teorema de Tales |
-|      |       | -- Teorema da bissetriz |
-|      |       | &bull; __Geometria Analítica__ |
-|      |       | -- Ponto e reta |
-|      |       | -- formas da equação da reta, paralelismo e perpendicularidade |
-|      |       | -- Equação da circunferência |
-|      |       | <h3>PROBABILIDADE E ESTATÍSTICA</h3> |
-|      |       | - Probabilidade simples e condicional:<br>-- Espaçoes amostrais discretos ou contínuos |
-|      |       | -- Eventos equiprováveis ou não equiprováveis |
-|      |       | -- Eventos sucessivos, mutuamente exclusivos e não mutuamente exclusivos |
-|      |       | - Contagem de possibilidades |
-|      |       | -- Modelos para contagem de dados: Diagrama de árvore, listas, esquemas, desenhos, entre outros; noções de combinatória: princípio multiplicativo e princípio aditivo; fatorial; arranjos; permutação; combinações; binômio de Newton. |
+|         |       | <h3>GEOMETRIA E MEDIDAS</h3> |
+|         |       | - Polígonos Regulares e Irregulares: Características |
+|         |       | - Ladrilhamento do Plano |
+|         |       | - Áreas de figuras geométricas: Pavimentações no plano (com o mesmo tipo de polígono ou não) |
+|         |       | &bull; __Geometria Espacial__ |
+|         |       | -- Teorema de Tales |
+|         |       | -- Teorema da bissetriz |
+|         |       | &bull; __Geometria Analítica__ |
+|         |       | -- Ponto e reta |
+|         |       | -- formas da equação da reta, paralelismo e perpendicularidade |
+|         |       | -- Equação da circunferência |
+|         |       | <h3>PROBABILIDADE E ESTATÍSTICA</h3> |
+|         |       | - Probabilidade simples e condicional:<br>-- Espaçoes amostrais discretos ou contínuos |
+|         |       | -- Eventos equiprováveis ou não equiprováveis |
+|         |       | -- Eventos sucessivos, mutuamente exclusivos e não mutuamente exclusivos |
+|         |       | - Contagem de possibilidades |
+|         |       | -- Modelos para contagem de dados: Diagrama de árvore, listas, esquemas, desenhos, entre outros; noções de combinatória: princípio multiplicativo e princípio aditivo; fatorial; arranjos; permutação; combinações; binômio de Newton. |
 
 &nbsp;
