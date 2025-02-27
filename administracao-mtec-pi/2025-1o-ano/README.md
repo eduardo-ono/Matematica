@@ -33,7 +33,8 @@ Plano de Curso:
 |  07  | 19/02 | [__Conjuntos__] (cont.):<br>&ensp; - Implicação lógica: "implica" e "se, e somente se". | |
 |  08  | 20/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Operações com conjuntos: União (reunião) e intersecção. | |
 |  09  | 24/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Diferença de conjuntos<br>&ensp; - Disjunção; &ensp; - Complementar;<br>&ensp; - Conjunto das partes. | |
-|      |       | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais<br>&nbsp; - Conjunto dos Números Inteiros | |
+|  10  | 26/02 | &bull; __Conjuntos__ (cont.)> <br>&nbsp; - Exercícios envolvendo o uso de Diagramas de Venn. | |
+|  11  | 27/02 | &bull; [__Conjuntos Numéricos__]:<br>&ensp; - Introdução e definição.<br>&bull; Conjunto dos Números Naturais<br>&ensp; - Definição e propriedades.<br>&bull; Conjunto dos Números Inteiros:<br&ensp; - Definição e propriedades. | |
 |      |       | &bull; __Conjuntos Numéricos__ (cont.)<br>&nbsp; - Conjunto dos Números Racionais<br>&nbsp; - Conjunto dos Números Irracionais<br>&nbsp; - Conjunto dos Números Reais<br>&nbsp; - Conjunto dos Números Complexos (apenas conceitos) | |
 |      |       | &bull; __Função__: Conceito e aplicações; notações; domínio e imagem; gráfico cartesiano | |
 |      |       | -- Funções: afins, lineares, constantes e função identidade | |
@@ -69,5 +70,6 @@ Plano de Curso:
 |      |       | &bull; __Interpretação de dados estatísticos__; Estudo de casos | |
 
 [__Conjuntos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/conjuntos.ipynb
+[__Conjuntos Numéricos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/03-conjuntos-numericos/conjuntos-numericos.ipynb
 
 &nbsp;

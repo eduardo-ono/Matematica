@@ -2,7 +2,7 @@
 
 <h1 align="center">Matemática<br><sub>Desenvolvimento de Sistemas - MTec - PI - 1º Ano</sub></h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 04/02/2025</h6>
+<h6 align="center">Atualizado em: 27/02/2025</h6>
 
 &nbsp;
 
@@ -21,9 +21,10 @@ Calendário Escolar: [__CALENDARIO-ESCOLAR-2025.pdf__](https://etecpirassununga.
 | Aula  | Data  | Descrição |
 |  :-:  |  :-:  | --- |
 |       |       | <h3>NÚMEROS E ÁLGEBRA</h3> |
-| 01-02 | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceitos e definições;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação |
-| 03-04 | 12/02 | &bull; [__Conjuntos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/02-conjuntos/02-conjuntos)<br>&nbsp; - Conceitos e aplicações<br>&nbsp; - Noções primitivas |
-| 05-06 |       | &bull; __Conjuntos__ (cont.)<br>&nbsp; - Operações com conjuntos: União (reunião) e interseção<br>&nbsp; - Exercícios de fixação |
+| 01-02 | 05/02 | &bull; Introdução ao componente curricular:<br>&nbsp; - Apresentação do conteúdo programático;<br>&nbsp; - Critérios de avaliação.<br>&bull; Os pilares da Matemática:<br>&nbsp; - Conceituação e definição;<br>&nbsp; - Manipulação;<br>&nbsp; - Aplicação.<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb).<br>&ensp; - Revisão de conteúdo:<br>&emsp; - Diferença entre Aritmética e Álgebra;<br>&emsp; - Produtos notáveis e fatoração. |
+| 03-04 | 12/02 | &bull; [__Conjuntos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/02-conjuntos/02-conjuntos)<br>&nbsp; - Conceitos e aplicações;<br>&nbsp; - Noções primitivas. |
+| 05-06 | 19/02 | &bull; __Conjuntos__ (cont.)<br>&nbsp; - Operações com conjuntos: União (reunião) e interseção<br>&nbsp; - Exercícios de fixação.<br>&bull; __Aplicação da Avaliação Diagnóstica__.<br>&ensp; 26/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) |
+| 05-06 | 26/02 | &bull; __Conjuntos__ (cont.):<br>&nbsp; - Operações com conjuntos: União (reunião), intersecção, diferença e complementar<br>&nbsp; - Diagrama de Venn;<br>&nbsp; - Exercícios de fixação |
 | 07-08 |      | &bull; __Conjuntos Numéricos__<br>&nbsp; - Conjunto dos Números Naturais;<br>&nbsp; - Conjunto dos Números Inteiros;<br>&nbsp; - Conjunto dos Números Racionais;<br>&nbsp; - Conjunto dos Números Irracionais;<br>&nbsp; - Conjunto dos Números Reais;<br>&nbsp; - Conjunto dos Números Complexos (?) |
 |    |      | &bull; [__Funções__]<br>&nbsp; - Conceito e aplicação;<br>&nbsp; - Notações;<br>&nbsp; - Domínio e imagem;<br>&nbsp; - Gráfico no plano cartesiano |
 |    |      | -- Funções: afins, lineares, constantes e função identidade |
