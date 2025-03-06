@@ -29,8 +29,8 @@ Carga horária: 120 horas-aula
 |  07  | 20/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Cálculo de logaritmos através da fatoração em números primos. | |
 |  08  | 25/02 | &bull; Aula extracurricular: Trote Solidário. | |
 |  09  | 27/02 | &bull; __Funções Exponenciais e Logarítmicas__:<br>&ensp; - Definições e aplicações;<br>&ensp; - Funções inversas (revisão);<br>&ensp; - Gráfico no plano cartesiano. | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-|      |       | &bull; Exercícios de fixação | |
-|      |       | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
+|  10  | 28/02 | &bull; Exercícios de fixação | |
+|  11  | 06/03 | &bull; [__Matrizes__]:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Definições: matriz linha, matriz coluna, matriz nula, matriz quadrada, matriz diagonal e matriz identidade.<br>&ensp; - Representações de matrizes. | |
 |      |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |      |       | &bull; __Sistemas de Equações Lineares__ | |
 |      |       | -- Resolução por substituição de variáveis | |
@@ -56,6 +56,7 @@ Carga horária: 120 horas-aula
 |             |       | - Índice de Desenvolvimento Humano (IDH) | |
 
 [__Logaritmos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
+[__Matrizes__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/07-matrizes-determinantes-e-sistemas/matrizes.ipynb
 
 [3]: #competencia-3
 [4]: #competencia-4
