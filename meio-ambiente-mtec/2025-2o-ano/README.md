@@ -29,29 +29,29 @@ Carga horária: 120 horas-aula
 |  07  | 20/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Cálculo de logaritmos através da fatoração em números primos. | |
 |  08  | 25/02 | &bull; Aula extracurricular: Trote Solidário. | |
 |  09  | 27/02 | &bull; __Funções Exponenciais e Logarítmicas__:<br>&ensp; - Definições e aplicações;<br>&ensp; - Funções inversas (revisão);<br>&ensp; - Gráfico no plano cartesiano. | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-|         |       | &bull; Exercícios de fixação | |
-|         |       | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
-|         |       | &bull; Avaliação para diagnóstico de fundamentos da Matemática | |
-|         |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
-|         |       | &bull; __Sistemas de Equações Lineares__ | |
-|             |       | -- Resolução por substituição de variáveis | |
-|             |       | &bull; __Matemática Financeira__<br>&nbsp; - Conceitos;<br>&nbsp; - Orçamento familiar; Indicadores econômicos; taxas de juros | |
-|             |       | &bull; Sistemas de Amortização e Noções de Fluxo de Caixa<br>&nbsp; - Sistema de Amortização Contínua - SAC<br>&nbsp; - Sistema de Amortização Francês - PRICE<br>&nbsp; - Sistema de Amortização MISTO | |
-|             |       | <h3>GEOMETRIA E MEDIDAS</h3> | |
+|      |       | &bull; Exercícios de fixação | |
+|      |       | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
+|      |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
+|      |       | &bull; __Sistemas de Equações Lineares__ | |
+|      |       | -- Resolução por substituição de variáveis | |
+|      | 27/03 | >>> Prova <<< | |
+|      |       | &bull; __Matemática Financeira__<br>&nbsp; - Conceitos;<br>&nbsp; - Orçamento familiar; Indicadores econômicos; taxas de juros | |
+|      |       | &bull; Sistemas de Amortização e Noções de Fluxo de Caixa<br>&nbsp; - Sistema de Amortização Contínua - SAC<br>&nbsp; - Sistema de Amortização Francês - PRICE<br>&nbsp; - Sistema de Amortização MISTO | |
+|      |       | <h3>GEOMETRIA E MEDIDAS</h3> | |
 |             |       | - Figuras Geométricas: Definição e aplicações | |
-|             |       | -- Polígonos: Definição e aplicações<br>-- Polígonos Regulares: Definição; aplicações; propriedades | |
-|             |       | - Perímetro e Área: Definições e aplicações | |
-|             |       | - Gráfico de uma função do 2º grau: zeros, vértice e foco | |
-|             |       | - Função modular | |
-|             |       | - Função exponencial | |
-|             |       | - Trigonometria<br>--Trigonometria no triângulo e suas principais razões trigonométricas | |
-|             |       | -- Trigonometria no círculo trigonométrico: seno; cosseno;  tangente | |
-|             |       | -- Lei dos senos | |
-|             |       | -- Lei dos cossenos | |
-|             |       | -- Funções trigonométricas | |
-|             |       | <h3>PROBABILIDADE E ESTATÍSTICA</h3> | |
-|             |       | - Porcentagem: Definição e aplicações; cálculo de taxas; índices e coeficientes | |
-|             |       | - Estatística Descritiva: Frequências (absoluta e relativa) | |
+|      |       | -- Polígonos: Definição e aplicações<br>-- Polígonos Regulares: Definição; aplicações; propriedades | |
+|      |       | - Perímetro e Área: Definições e aplicações | |
+|      |       | - Gráfico de uma função do 2º grau: zeros, vértice e foco | |
+|      |       | - Função modular | |
+|      |       | - Função exponencial | |
+|      |       | - Trigonometria<br>--Trigonometria no triângulo e suas principais razões trigonométricas | |
+|      |       | -- Trigonometria no círculo trigonométrico: seno; cosseno;  tangente | |
+|      |       | -- Lei dos senos | |
+|      |       | -- Lei dos cossenos | |
+|      |       | -- Funções trigonométricas | |
+|      |       | <h3>PROBABILIDADE E ESTATÍSTICA</h3> | |
+|      |       | - Porcentagem: Definição e aplicações; cálculo de taxas; índices e coeficientes | |
+|      |       | - Estatística Descritiva: Frequências (absoluta e relativa) | |
 |             |       | -- Gráficos e diagramas estatísticos: histogramas; polígonos de frequências, diagrama de caixa, ramos e folhas, etc. | |
 |             |       | - Índice de Desenvolvimento Humano (IDH) | |
 
