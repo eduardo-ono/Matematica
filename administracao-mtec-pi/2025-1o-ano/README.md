@@ -2,7 +2,7 @@
 
 <h1 align="center">Matemática</h1>
 <h3 align="center">Adminstração - MTec - PI - 1º ano</h3>
-<h3 align="center">Prof. Eduardo Ono</h3>
+<h4 align="center">Prof. Eduardo Ono</h4>
 <h6 align="center">Atualizado em: 24/02/2025</h6>
 
 &nbsp;
@@ -33,7 +33,7 @@ Plano de Curso:
 |  07  | 19/02 | [__Conjuntos__] (cont.):<br>&ensp; - Implicação lógica: "implica" e "se, e somente se". | | |
 |  08  | 20/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Operações com conjuntos: União (reunião) e intersecção. | | |
 |  09  | 24/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Diferença de conjuntos;<br>&ensp; - Disjunção;<br>&ensp; - Complementar;<br>&ensp; - Conjunto das partes. | | |
-|  10  | 26/02 | &bull; __Conjuntos__ (cont.):<br>&nbsp; - Exercícios envolvendo o uso de Diagramas de Venn. | | |
+|  10  | 26/02 | &bull; [__Conjuntos__] (cont.):<br>&nbsp; - Exercícios envolvendo o uso de Diagramas de Venn. | | |
 |  11  | 27/02 | &bull; [__Conjuntos Numéricos__]:<br>&ensp; - Introdução e definição.<br>&ensp; &bull; __Conjunto dos Números Naturais__:<br>&emsp; - Definição e propriedades.<br>&ensp; &bull; __Conjunto dos Números Inteiros__:<br>&emsp; - Definição e propriedades. | | |
 |      | 01/03 | NL: Carnaval. | | |
 |      | 03/03 | NL: Carnaval. | | |
@@ -47,7 +47,7 @@ Plano de Curso:
 |  19  | 24/03 | __>>> Prova <<<__<br>&ensp; - Conteúdo: Conjuntos e Conjuntos Numéricos. | | |
 |  20  | 26/03 | &bull; __Relações__:<br>&ensp; - Conceitos;<br>&ensp; - Plano cartesiano. | | |
 |  21  | 27/03 | &bull; __Relações__:<br>&ensp; - Exercícios de fixação. | | |
-|  22  | 31/03 | &bull; __Devolutiva da prova  e apreciação da correção e da menção__. | | |
+|  22  | 31/03 | &bull; __Devolutiva da prova e apreciação da correção e da menção__. | | |
 |  22  | 02/04 | &bull; __Funções__:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Domínio, contra-domínio e imagem;<br>&ensp; Gráfico no plano cartesiano. | [1], [4] | [EM13MAT101], [EM13MAT404] |
 |  23  | 03/04 | &bull; __Funções__ (cont.):<br> &ensp; - Afins, lineares, constantes e função identidade. | [1] | [EM13MAT101] |
 |  24  | 07/04 | &bull; __Funções__ (cont.):<br>&ensp; - Exercícios de fixação. | | |

@@ -30,10 +30,10 @@ Plano de Curso:
 |   09    | 25/02 | _Atividade extracurricular: Trote Solidário_. | | |
 |         | 03/03 | _NL: Suspensão de Atividades (Carnaval)_. | | |
 |         | 04/03 | _NL: Ponto Facultativo (Carnaval)_. | | |
-| 10 e 11 | 10/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Conjunto dos Números Naturais;<br>&ensp; - Conjunto dos Números Inteiros. | | |
-|   12    | 11/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; - Conjunto dos Números Racionais. | | |
-| 13 e 14 | 17/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; &bull; __Conjunto dos Números Irracionais__;<br>&ensp; &bull; __Conjunto dos Números Reais__<br>&ensp; &bull; __Conjunto dos Números Complexos__ (conceitos básicos). | | |
-|   15    | 18/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Exercícios de fixação. | | |
+|   10    | 06/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Conjunto dos Números Naturais;<br>&ensp; - Conjunto dos Números Inteiros. | | |
+|   11    | 10/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; - Conjunto dos Números Racionais. | | |
+|   12    | 11/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; &bull; __Conjunto dos Números Irracionais__;<br>&ensp; &bull; __Conjunto dos Números Reais__<br>&ensp; &bull; __Conjunto dos Números Complexos__ (conceitos básicos). | | |
+|   13    | 13/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Exercícios de fixação. | | |
 | 16 e 17 | 24/03 | &bull; Revisão para a prova.<br>__>>> Prova <<<__<br>&ensp; - Conteúdo: Conjuntos e Conjuntos Numéricos. | | |
 |   18    | 25/03 | &bull; __Relações__:<br>&ensp; - Conceitos;<br>&ensp; - Plano cartesiano. | | |
 | 19 e 20 | 31/03 | &bull; __Relações__:<br>&ensp; - Exercícios de fixação.<br>&bull; __Devolutiva da prova  e apreciação da correção e da menção__. | | |
