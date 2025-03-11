@@ -22,14 +22,17 @@ Carga horária: 120 horas-aula
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | |
 | 01 e 02 | 05/02 | &bull; Introdução ao componente curricular<br>&nbsp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  |
 |   03    | 07/02 | &bull; Revisão de conteúdo<br>&nbsp; - Potenciação;<br>&nbsp; - Radiciação | |
-| 04 e 05 | 12/02 | &bull; [__Logarítmos__](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/04-exponenciais-e-logaritmos/logaritmos)<br>&ensp; - Definição e aplicações<br>&ensp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios. | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] |
-|   06    | 14/02 | &bull; __Logaritmos__ (cont.)<br>&ensp; - Propriedades;<br>&ensp; Exercícios de fixação. | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-| 07 e 08 | 19/02 | &bull; __Logaritmos__ (cont.)<br>&ensp; - Cálculo de logaritmos através da fatoração em produto de números primos.<br>&bull; Aplicação da Avaliação Diagnóstica<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
-|   06    | 14/02 | &bull; __Funções Exponenciais e Logarítmicas__<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-| 07 e 08 | 19/02 | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
-|   09    | 21/02 |  | |
-| 10 e 11 |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
-|         |       | &bull; __Sistemas de Equações Lineares__ | |
+| 04 e 05 | 12/02 | &bull; [__Logarítmos__]<br>&ensp; - Definição e aplicações<br>&ensp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios. | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305] |
+|   06    | 14/02 | &bull; [__Logaritmos__] (cont.):<br>&ensp; - Propriedades;<br>&ensp; Exercícios de fixação. | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+| 07 e 08 | 19/02 | &bull; [__Logaritmos__] (cont.):<br>&ensp; - Cálculo de logaritmos através da fatoração em produto de números primos.<br>&bull; Aplicação da Avaliação Diagnóstica<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
+|   09    | 14/02 | &bull; [__Funções Exponenciais e Logarítmicas__]<br>&nbsp; - Definições e aplicações<br>&nbsp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&nbsp; - Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
+| 10 e 11 | 19/02 | &bull; __Matrizes__<br>&nbsp; - Definição, aplicações e propriedades<br>&nbsp; - Operações com matrizes<br>&nbsp; - Exercícios | |
+|   12    | 21/02 |  | |
+| 10 e 11 | 26/02 | &bull; [__Funções Exponenciais e Logarítmicas__] (cont.):<br>&nbsp; Funções Exponenciais e Logartmicas (cont.):<br>&ensp; - Gráfico da função exponencial e logarítmica no plano cartesiano;<br>&ensp; - Exemplos de aplicação de funções logarítmicas: Cálculo do tempo em aplicações financeiras de juros compostos; Idade canina referente à do ser humano. | |
+|   13    | 28/02      | &bull; [__Funções Exponenciais e Logarítmicas__] (cont.):<br>&ensp; Divisão com números decimais (revisão). | |
+|         | 05/03 | _(Carnaval)_ | |
+|   15    | 07/03 | &bull; __Matrizes__:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Matrizes específicas (especiais): Matriz linha, matriz coluna. | |
+|         | 28/02      | &bull; [__Sistemas de Equações Lineares__] | |
 |         |       | &nbsp; - Resolução por substituição de variáveis; | |
 |         |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | |
 |         |       | -- Sistemas de Amortização e Noções de Fluxo de Caixa:<br>- Sistema de Amortização Contínua - SAC<br>--- Sistema de Amortização Francês - PRICE<br>--- Sistema de Amortização MISTO | |
@@ -52,6 +55,10 @@ Carga horária: 120 horas-aula
 [4]: #competencia-4
 [EM13MAT305]: #EM13MAT305
 [EM13MAT403]: #EM13MAT403
+
+[__Logaritmos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
+[__Funções Exponenciais e Logarítmicas__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
+[__Sistemas de Equações Lineares__]: #
 
 &nbsp;
 

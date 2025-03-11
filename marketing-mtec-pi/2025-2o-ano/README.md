@@ -26,10 +26,12 @@ Carga horária: 120 horas-aula
 |   06    | 17/02 | &bull; Aplicação da Avaliação Diagnóstica.<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | |
 | 07 e 08 | 21/02 | &bull; [__Logaritmos__] (cont.)<br>&ensp; - Exercícios de fixação.<br>&bull; [__Funções Exponenciais e Logarítmicas__]<br>&ensp; - Introdução;<br>&ensp; - Gráfico no plano cartesiano | &bull; Competência: [3]<br>&ensp; - Habilidade(s): [EM13MAT305] <br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |   09    | 24/02 | &bull; [__Funções Exponenciais e Logarítmicas__] (cont.):<br>&ensp; - Aplicações. | &bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
-|         | 07/03 | &bull; __Matrizes__<br>&ensp; - Definição e aplicações;<br>&ensp; - Definições: Matriz linha, matriz coluna, matriz nula, matriz diagonal, matris identidade;<br>&ensp; - Operações com matrizes<br>&ensp; - Exercícios | |
-|         |       | &bull; __Determinantes__<br>&ensp; Definição e aplicações<br>&ensp; - Propriedades | |
-|         | 28/03 | __>>> Prova <<<__<br>&ensp; - Conteúdo: Logaritmos; Funções Exponenciais e Logarítmicas; Matrizes e Determinantes. | |
-
+| 10 e 11 | 07/03 | &bull; [__Matrizes__]<br>&ensp; - Definição e aplicações;<br>&ensp; - Definições: Matriz linha, matriz coluna, matriz nula, matriz diagonal, matris identidade;<br>&ensp; - Operações com matrizes<br>&ensp; - Exercícios | |
+|   12    | 10/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Multiplicação de matriz por escalar;<br>&ensp; - Multiplicação de matrizes. | |
+| 13 e 14 | 14/03 | &bull; [__Matrizes__] (cont.)<br>&ensp; - Propriedades operatórias;<br>&ensp; - Exercícios de fixação. | |
+|   15    | 17/03 | &bull; __Determinantes__<br>&ensp; Definição e aplicações<br>&ensp; - Propriedades | |
+|         | 28/03 | &ensp; - Conteúdo: Logaritmos; Funções Exponenciais e Logarítmicas; Matrizes e Determinantes. | |
+|         | 31/03 | __>>> Prova <<<__ | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | |
 |             |       | -- Resolução por substituição de variáveis | |
 |             |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | |
@@ -50,13 +52,14 @@ Carga horária: 120 horas-aula
 |             |       | -- Gráficos e diagramas estatísticos: histogramas; polígonos de frequências, diagrama de caixa, ramos e folhas, etc. | |
 |             |       | - Índice de Desenvolvimento Humano (IDH) | |
 
-[__Logaritmos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
-[__Funções Exponenciais e Logarítmicas__]: #
-
 [3]: #competencia-3
 [4]: #competencia-4
 [EM13MAT305]: #EM13MAT305
 [EM13MAT403]: #EM13MAT403
+
+[__Logaritmos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
+[__Funções Exponenciais e Logarítmicas__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
+[__Matrizes__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/07-matrizes-determinantes-e-sistemas/matrizes.ipynb
 
 &nbsp;
 

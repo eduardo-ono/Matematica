@@ -26,10 +26,11 @@ Carga horária: 120 horas-aula
 |   09    | 25/02 | _Atividade extracurricular: Trote Solidário_. | | |
 | 10 e 11 | 28/02 | &bull; __Funções Exponenciais e Logarítmicas__:<br>&nbsp; - Definições e aplicações;<br>&nbsp; - Gráfico no plano cartesiano.<br>&ensp;&bull; Aplicações de funções logarítmicas:<br>&emsp; - Idade de um cão relativa à idade do ser humano;<br>&emsp; - Determinação do tempo em cálculos de juros compostos. | | |
 |   12    | 07/03 | &bull; [__Matrizes__]<br>&nbsp; - Definição e aplicações;<br>&nbsp; - Representação de matrizes;<br>&ensp; - Matrizes especiais: matriz linha, matriz coluna, matriz nula, matriz quadrada, matriz diagonal e matriz identidade. | | |
-| 13 e 14 | 11/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Operações com matrizes;<br>emsp; - Igualdade de matrizes, adição, subtração, multiplicação.<br>&emsp; - Propriedades operatórias. | | |
-|   15    | 14/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
-| 16 e 17 | 18/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Matriz transposta;<br>&ensp; Matriz inversa. | | |
+|   13    | 11/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Operações com matrizes;<br>emsp; - Igualdade de matrizes, adição, subtração, produto.<br>&ensp; - Propriedades operatórias. | | |
+| 14 e 15 | 14/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
+|   16    | 18/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Matriz transposta;<br>&ensp; Matriz inversa. | | |
 |   18    | 21/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
+| 19 e 20 | 25/03 | __>>> Prova <<<__ | | |
 | 19 e 20 | 25/03 | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&ensp; - Regra de Sarrus. | | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | | |
 |             |       | -- Resolução por substituição de variáveis | | |
