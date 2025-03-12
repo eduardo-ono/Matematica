@@ -13,6 +13,12 @@ Carga horária: 120 horas-aula
 
 &nbsp;
 
+## Pré-Requisitos
+
+* [Matemática Básica (Ensino Fundamental)](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/00-overview/revisao-de-matematica-basica/resumao-de-matematica-basica.ipynb)
+
+&nbsp;
+
 ## Conteúdo Programático
 
 |  Aula   | Data  | Descrição | Competências | Habilidades |
@@ -22,7 +28,7 @@ Carga horária: 120 horas-aula
 |   03    | 11/02 | &bull; __Matemática Computacional__<br>&ensp;- Conceitos e aplicações. | [4] | [EM13MAT405] |
 | 04 e 05 | 17/02 | &bull; __Matemática Computacional__ (cont.)<br>&ensp; - (Entrega de "plaquinhas" para os ingressantes, ~30 min);<br>&ensp; - Noções elementares;<br>&ensp; - Variáveis. | [4] | [EM13MAT405] |
 |   06    | 18/02 | &bull; __Matemática Computacional__ (cont.)<br>&ensp; - Condicionais;<br>&ensp; - Laços de repetição. | [4] | [EM13MAT405] |
-| 07 e 08 | 24/02 | &bull; __Matemática Computacional__ (cont.)<br>&ensp; - Modelagem de problemas e de soluções;<br>&ensp; - Determinação de zeros de funções pelo método da bissecção. | [4] | [EM13MAT405] |
+| 07 e 08 | 24/02 | &bull; __Matemática Computacional__ (cont.)<br>&ensp; - Modelagem de problemas e de soluções:<br>&emsp; - [Determinação de zeros de funções pelo método da bissecção]. | [4] | [EM13MAT405] |
 |   09    | 25/02 | _Atividade extracurricular: Trote Solidário_. | | |
 |         | 03/03 | _Suspensão de atividades (Carnaval)_. | | |
 |         | 04/03 | _Ponto Facultativo (Carnaval)_. | | |
@@ -46,6 +52,8 @@ Carga horária: 120 horas-aula
 [1]: #1
 [4]: #4
 [EM13MAT405]: #EM13MAT405
+
+[Determinação de zeros de funções pelo método da bissecção]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/16-matematica-computacional/conteudo/estruturas-de-repeticao/iteracao.ipynb
 
 <details>
   <summary>
