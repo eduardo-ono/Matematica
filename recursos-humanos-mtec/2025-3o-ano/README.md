@@ -26,9 +26,10 @@ Carga horária: 120 horas-aula
 |   10    | 28/02 | &bull; Matemática Computacional (cont.):<br>&ensp; - [Iteração](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/16-matematica-computacional/conteudo/estruturas-de-repeticao/iteracao.ipynb): Método da bissecção. | | |
 |         | 04/03 | _Ponto Facultativo (Carnaval)_ | | |
 |   11    | 07/03 | &bull; Matemática Computacional (cont.):<br>&ensp; - Modelagem de problemas e de soluções:<br>&emsp; - Problema do "caixa eletrônico". | | |
+|   11    | 14/03 | &bull; Matemática Computacional (cont.):<br>&ensp; - Aula em laboratório: Implementação no Excel do [exercício](./trabalhos/matematica-computacional.ipynb) do método da bissecção para determinação de zeros de funções polinomiais do 3º Grau. | | |
 |         |       | <h3>GEOMETRIA E MEDIDAS</h3> | | |
-| 12 e 13 | 11/03 | &bull; __Polígonos__:<br>&ensp; - Definição e exemplos;<br>&ensp; - Polígonos Regulares e Irregulares<br>&ensp; - Características.<br>&bull; - Ladrilhamento do Plano. | | |
-|   14    | 14/03 |  | | |
+| 12 e 13 |   /03 | &bull; __Polígonos__:<br>&ensp; - Definição e exemplos;<br>&ensp; - Polígonos Regulares e Irregulares<br>&ensp; - Características.<br>&bull; - Ladrilhamento do Plano. | | |
+|   14    |   /03 |  | | |
 | 15 e 16 | 18/03 | &bull; __Polígonos__ (cont.):<br>&ensp; - Ladrilhamento do plano: Exercícios de fixação. | | |
 |   17    | 21/03 | &bull; Áreas de figuras geométricas:<br>&ensp; - Pavimentações no plano (com o mesmo tipo de polígono ou não). | | |
 | 18 e 19 | 25/03 | __>>> Avaliação <<<__. | | |
