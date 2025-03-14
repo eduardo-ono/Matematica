@@ -1,6 +1,6 @@
 <h1 align="center">Matemática<br><sub>Recursos Humanos - MTec - 3º Ano</sub></h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 25/02/2025</h6>
+<h6 align="center">Atualizado em: 13/03/2025</h6>
 
 &nbsp;
 
@@ -23,10 +23,10 @@ Carga horária: 120 horas-aula
 | 05 e 06 | 18/02 | &bull; Matemática Computacional (cont.)<br>&bull; Lógica de Programação:<br>&ensp; - Algoritmos; fluxogramas.<br>&bull; Aplicação da Avaliação Diagnóstica<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | | |
 |   07    | 21/02 | &bull; Matemática Computacional (cont.)<br>&ensp; - Estruturas de repetição: Exemplo com juros compostos. | | |
 | 08 e 09 | 25/02 | _Atividade extracurricular: Trote Solidário_. | | |
-|   10    | 28/02 | &bull; Matemática Computacional (cont.):<br>&ensp; - [Iteração](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/16-matematica-computacional/conteudo/estruturas-de-repeticao/iteracao.ipynb): Método da bissecção. | | |
+|   10    | 28/02 | &bull; Matemática Computacional (cont.):<br>&ensp; - Iteração: [Método da bissecção](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/16-matematica-computacional/conteudo/estruturas-de-repeticao/iteracao.ipynb). | | |
 |         | 04/03 | _Ponto Facultativo (Carnaval)_ | | |
 |   11    | 07/03 | &bull; Matemática Computacional (cont.):<br>&ensp; - Modelagem de problemas e de soluções:<br>&emsp; - Problema do "caixa eletrônico". | | |
-|   11    | 14/03 | &bull; Matemática Computacional (cont.):<br>&ensp; - Aula em laboratório: Implementação no Excel do [exercício](./trabalhos/matematica-computacional.ipynb) do método da bissecção para determinação de zeros de funções polinomiais do 3º Grau. | | |
+|   11    | 14/03 | &bull; Matemática Computacional (cont.):<br>&ensp; - Aula em laboratório: Implementação no Excel do [exercício](./trabalhos/matematica-computacional.ipynb) do método da bissecção para determinação de zeros de funções polinomiais de 3º Grau. | | |
 |         |       | <h3>GEOMETRIA E MEDIDAS</h3> | | |
 | 12 e 13 |   /03 | &bull; __Polígonos__:<br>&ensp; - Definição e exemplos;<br>&ensp; - Polígonos Regulares e Irregulares<br>&ensp; - Características.<br>&bull; - Ladrilhamento do Plano. | | |
 |   14    |   /03 |  | | |
