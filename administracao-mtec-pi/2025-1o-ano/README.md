@@ -19,12 +19,20 @@ Plano de Curso:
 
 &nbsp;
 
+## Pré-Requisitos
+
+* [Matemática Básica (Ensino Fundamental)](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/00-overview/revisao-de-matematica-basica/resumao-de-matematica-basica.ipynb)
+
+&nbsp;
+
 ## Conteúdo Programático
+
+Fev | Mar | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 
 | Aula | Data  | Descrição | Competência | Habilidade |
 | :-:  |  :-:  | --- | :-: | :-: |
 |      |       | <h3>NÚMEROS E ÁLGEBRA</h3> | | |
-|  01  | 05/02 | &bull; Introdução ao componente curricular:<br>&ensp; - Apresentação do conteúdo programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação. | | |
+|  01  | <a id="fev">05/02</a> | &bull; Introdução ao componente curricular:<br>&ensp; - Apresentação do conteúdo programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação. | | |
 |  02  | 06/02 | &bull; Revisão de conteúdo:<br>&ensp; - [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra. | | |
 |  03  | 10/02 | &bull; Revisão de conteúdo:<br>&ensp; - Produtos notáveis e fatoração. | | |
 |  04  | 12/02 | &bull; [__Conjuntos__]:<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Noções primitivas;<br>&ensp; - Notação simbólica. | | |
@@ -37,11 +45,11 @@ Plano de Curso:
 |  11  | 27/02 | &bull; [__Conjuntos Numéricos__]:<br>&ensp; - Introdução e definição.<br>&ensp; &bull; __Conjunto dos Números Naturais__:<br>&emsp; - Definição e propriedades.<br>&ensp; &bull; __Conjunto dos Números Inteiros__:<br>&emsp; - Definição e propriedades. | | |
 |      | 01/03 | NL: Carnaval. | | |
 |      | 03/03 | NL: Carnaval. | | |
-|  12  | 06/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; &bull; __Conjunto dos Números Racionais__<br>&emsp; - Definição e propriedades. | | |
-|  13  | 10/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; &bull; __Conjunto dos Números Racionais__<br>&emsp; - Exercícios de fixação. | | |
-|  14  | 12/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; &bull; __Conjunto dos Números Irracionais__. | | |
-|  15  | 13/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; &bull; __Conjunto dos Números Reais__<br>&ensp; &bull; Conjunto dos Números Complexos (conceitos básicos). | | |
-|  16  | 17/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Exercícios de fixação. | | |
+|  12  | 06/03 | &bull; [__Conjuntos Numéricos__] (cont.):<br>&ensp; &bull; __Conjunto dos Números Racionais__<br>&emsp; - Definição e propriedades. | | |
+|  13  | 10/03 | &bull; [__Conjuntos Numéricos__] (cont.):<br>&ensp; &bull; __Conjunto dos Números Racionais__<br>&emsp; - Exercícios de fixação. | | |
+|  14  | 12/03 | &bull; [__Conjuntos Numéricos__] (cont.):<br>&ensp; &bull; __Conjunto dos Números Irracionais__:<br>&ensp; Exercícios de fração geratriz de dízimas periódicas. | | |
+|  15  | 13/03 | &bull; [__Conjuntos Numéricos__] (cont.):<br>&ensp; &bull; __Conjunto dos Números Irracionais__:<br>&emsp; Conceitos;<br>&emsp; - Prova de que $\sqrt{2}$ é um número irracional;<br>&ensp; __Conjunto dos Números Reais__:<br>&ensp; - Introdução. | | |
+|  16  | 17/03 | &bull; [__Conjuntos Numéricos__]:<br>&ensp; - Exercícios de fixação. | | |
 |  17  | 19/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Exercícios de fixação. | | |
 |  18  | 20/03 | &bull; Revisão para a prova. | | |
 |  19  | 24/03 | __>>> Prova <<<__<br>&ensp; - Conteúdo: Conjuntos e Conjuntos Numéricos. | | |
@@ -191,5 +199,11 @@ Plano de Curso:
 
   </section>
 </details>
+
+&nbsp;
+
+## Bibliografia
+
+
 
 &nbsp;

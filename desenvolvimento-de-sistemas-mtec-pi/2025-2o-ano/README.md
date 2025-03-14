@@ -28,11 +28,14 @@ Carga horária: 120 horas-aula
 |   12    | 07/03 | &bull; [__Matrizes__]<br>&nbsp; - Definição e aplicações;<br>&nbsp; - Representação de matrizes;<br>&ensp; - Matrizes especiais: matriz linha, matriz coluna, matriz nula, matriz quadrada, matriz diagonal e matriz identidade. | | |
 |   13    | 11/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Operações com matrizes;<br>emsp; - Igualdade de matrizes, adição, subtração, produto.<br>&ensp; - Propriedades operatórias. | | |
 | 14 e 15 | 14/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
-|   16    | 18/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Matriz transposta;<br>&ensp; Matriz inversa. | | |
-|   18    | 21/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
-| 19 e 20 | 25/03 | __>>> Prova <<<__ | | |
-| 19 e 20 | 25/03 | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&ensp; - Regra de Sarrus. | | |
-|         |       | &bull; __Sistemas de Equações Lineares__ | | |
+|   16    | 18/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Matriz transposta. | | |
+| 17 e 18 | 21/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
+|   19    | 25/03 | __>>> Prova <<<__ | | |
+| 20 e 21 | 28/03 | &bull; [__Determinantes__]<br>&nbsp; Definição e aplicações<br>&ensp; - Regra de Sarrus. | | |
+| 22 e 23 | 01/04 | &bull; [__Determinantes__] (cont.): - Exercícios de fixação.| | |
+|   24    | 04/04 | &bull; [__Determinantes__] (cont.): - Propriedades;<br>&ensp; - Regra de Chió.| | |
+| 25 e 26 | 08/04 | &bull; [__Determinantes__] (cont.): - Exercícios de fixação. | | |
+|   24    | 11/04 | &bull; __Sistemas de Equações Lineares__ | | |
 |             |       | -- Resolução por substituição de variáveis | | |
 |             |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | | |
 |             |       | -- Sistemas de Amortização e Noções de Fluxo de Caixa:<br>- Sistema de Amortização Contínua - SAC<br>--- Sistema de Amortização Francês - PRICE<br>--- Sistema de Amortização MISTO | | |
@@ -60,6 +63,7 @@ Carga horária: 120 horas-aula
 
 [__Logaritmos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
 [__Matrizes__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/07-matrizes-determinantes-e-sistemas/matrizes.ipynb
+[__Determinantes__]: #
 
 &nbsp;
 

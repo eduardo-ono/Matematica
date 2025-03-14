@@ -23,7 +23,7 @@ Carga horária: 120 horas-aula
 | 05 e 06 | 18/02 | &bull; Matemática Computacional (cont.)<br>&bull; Lógica de Programação:<br>&ensp; - Algoritmos; fluxogramas.<br>&bull; Aplicação da Avaliação Diagnóstica<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | | |
 |   07    | 21/02 | &bull; Matemática Computacional (cont.)<br>&ensp; - Estruturas de repetição: Exemplo com juros compostos. | | |
 | 08 e 09 | 25/02 | _Atividade extracurricular: Trote Solidário_. | | |
-|   10    | 28/02 | &bull; Matemática Computacional (cont.):<br>&ensp; - [Iteração](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/16-metematica-computacional/conteudo/estruturas-de-repeticao/iteracao.ipynb): Método da bissecção. | | |
+|   10    | 28/02 | &bull; Matemática Computacional (cont.):<br>&ensp; - [Iteração](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/16-matematica-computacional/conteudo/estruturas-de-repeticao/iteracao.ipynb): Método da bissecção. | | |
 |         | 04/03 | _Ponto Facultativo (Carnaval)_ | | |
 |   11    | 07/03 | &bull; Matemática Computacional (cont.):<br>&ensp; - Modelagem de problemas e de soluções:<br>&emsp; - Problema do "caixa eletrônico". | | |
 |         |       | <h3>GEOMETRIA E MEDIDAS</h3> | | |
