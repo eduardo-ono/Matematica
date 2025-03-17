@@ -17,6 +17,12 @@ Plano de Curso:
 
 &nbsp;
 
+## Conteúdo
+
+* [Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+
+&nbsp;
+
 ## Conteúdo Programático
 
 |   Aula  | Data  | Descrição | Competências | Habilidades |

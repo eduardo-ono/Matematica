@@ -21,17 +21,23 @@ Carga horária: 120 horas-aula
 
 ## Conteúdo Programático
 
+<p align="center">
+
+[ [Fev](#fev) | [Mar](#mar) | [Abr](#abr) | [Mai](#mai) | [Jun](#jun) | [Jul](#jul) | [Ago](#ago) | [Set](#set) | [Out](#out) | [Nov](#nov) | [Dez](#dez) ]
+
+</p>
+
 |   Aula  | Data  | Descrição | Competências | Habilidades |
 |   :-:   |  :-:  | --- | :-: | --- |
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | | |
-| 01 e 02 | 07/02 | &bull; Introdução ao componente curricular:<br>&ensp; - Apresentação do Conteúdo Programático;<br>&ensp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&enbsp; - Aplicação.<br>&bull; Revisão de conteúdo:<br>&ensp; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) | | |
+| 01 e 02 | <a id="fev">07/02</a> | &bull; Introdução ao componente curricular:<br>&ensp; - Apresentação do Conteúdo Programático;<br>&ensp; - Critérios de avaliação<br>&bull; Os pilares da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&enbsp; - Aplicação.<br>&bull; Revisão de conteúdo:<br>&ensp; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") para manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) | | |
 |   03    | 11/02 | &bull; Revisão de conteúdo:<br>&ensp; - [Potenciação](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/04-exponenciais-e-logaritmos/potenciacao-e-radiciacao/potenciacao.ipynb) e radiciação. | | |
 | 04 e 05 | 14/02 | &bull; [__Logaritmos__]:<br>&nbsp; - Definição e aplicação<br>&nbsp; - Propriedades<br> | [3]<br>[4] | [EM13MAT305]<br>[EM13MAT403] |
 |   06    | 18/02 | &bull; Avaliação Diagnóstica.<br>&ensp; - 21/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | | |
 | 07 e 08 | 21/02 | &bull; [__Logaritmos__] (cont.):<br>&ensp; - Cálculo de logaritmos através da fatoração em números primos. | | |
 |   09    | 25/02 | _Atividade extracurricular: Trote Solidário_. | | |
 | 10 e 11 | 28/02 | &bull; __Funções Exponenciais e Logarítmicas__:<br>&nbsp; - Definições e aplicações;<br>&nbsp; - Gráfico no plano cartesiano.<br>&ensp;&bull; Aplicações de funções logarítmicas:<br>&emsp; - Idade de um cão relativa à idade do ser humano;<br>&emsp; - Determinação do tempo em cálculos de juros compostos. | | |
-|   12    | 07/03 | &bull; [__Matrizes__]<br>&nbsp; - Definição e aplicações;<br>&nbsp; - Representação de matrizes;<br>&ensp; - Matrizes especiais: matriz linha, matriz coluna, matriz nula, matriz quadrada, matriz diagonal e matriz identidade. | | |
+|   12    | <a id="mar">07/03</a> | &bull; [__Matrizes__]<br>&nbsp; - Definição e aplicações;<br>&nbsp; - Representação de matrizes;<br>&ensp; - Matrizes especiais: matriz linha, matriz coluna, matriz nula, matriz quadrada, matriz diagonal e matriz identidade. | | |
 |   13    | 11/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Operações com matrizes;<br>emsp; - Igualdade de matrizes, adição, subtração, produto.<br>&ensp; - Propriedades operatórias. | | |
 | 14 e 15 | 14/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
 |   16    | 18/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Matriz transposta. | | |
@@ -113,3 +119,5 @@ Carga horária: 120 horas-aula
 </details>
 
 &nbsp;
+
+## Bibliografia

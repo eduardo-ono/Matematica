@@ -17,6 +17,10 @@ Calendário Escolar: [__CALENDARIO-ESCOLAR-2025.pdf__](https://etecpirassununga.
 
 &nbsp;
 
+## Conteúdo
+
+* [Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+
 ## Conteúdo Programático
 
 |  Aula   | Data  | Descrição | Competências | Habilidades |
