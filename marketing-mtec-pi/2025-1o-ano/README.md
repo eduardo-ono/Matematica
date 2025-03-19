@@ -25,10 +25,15 @@ Plano de Curso:
 
 ## Conteúdo Programático
 
+<h4 align="center">
+
+| [Fev](#fev) | Mar | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez |
+</h4>
+
 |   Aula  | Data  | Descrição | Competências | Habilidades |
 |   :-:   |  :-:  | --- | --- | --- |
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | | |
-| 01 e 02 | 10/02 | &bull; Introdução ao componente curricular:<br>&ensp; - Apresentação do conteúdo programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação.<br>&bull; Revisão de conteúdo:<br>&ensp; - [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Produtos notáveis e fatoração. | | |
+| 01 e 02 | <a id="fev">10/02</a> | &bull; Introdução ao componente curricular:<br>&ensp; - Apresentação do conteúdo programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os "pilares" da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação.<br>&bull; Revisão de conteúdo:<br>&ensp; - [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb)<br>&ensp; - Diferença entre Aritmética e Álgebra;<br>&ensp; - Produtos notáveis e fatoração. | | |
 |   03    | 11/02 | &bull; [__Conjuntos__]:<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Noções primitivas;<br>&ensp; - Notação simbólica.<br> | | |
 | 04 e 05 | 17/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Cardinalidade de um conjunto;<br>&ensp; - Conjunto unitário e conjunto vazio;<br>&ensp; - Igualdade de conjuntos.<br>&bull; Aplicação da Avaliação Diagnóstica. | | |
 |   06    | 18/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Subconjuntos. | | |

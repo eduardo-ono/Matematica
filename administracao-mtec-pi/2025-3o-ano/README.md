@@ -34,7 +34,7 @@ Carga horária: 120 horas-aula
 |         | 04/03 | _Ponto Facultativo (Carnaval)_. | | |
 | 10 e 11 | 10/03 | &bull; __Matemática Computacional__ (cont.):<br>&ensp; - Aplicação: Algoritmo utilizado por um caixa eletrônico para saque de cédulas. | | |
 |         |       | <h3>__GEOMETRIA E MEDIDAS__</h3> | | |
-|   12    | 11/03 | &bull; __Polígonos__:<br>&ensp; - Definição e exemplos;<br>&ensp; &bull; Polígonos Regulares e Irregulares<br>&ensp; - Características. | | |
+|   12    | 11/03 | &bull; __Polígonos__:<br>&ensp; - Definição;<br>&ensp; - Polígonos Regulares<br>&emsp; - Determinação da soma dos ângulos internos e medida de cada ângulo interno de um polígono regular de $n$ lados. | | |
 |         |       | &bull; __Polígonos__ (cont.):<br>&ensp; - Ladrilhamento do Plano. | | |
 |         |       | - Áreas de figuras geométricas: Pavimentações no plano (com o mesmo tipo de polígono ou não) | | |
 |         |       | &bull; __Geometria Espacial__:<br>&ensp; - Introdução e aplicações;<br>&ensp; - Postulados: retas e planos. | | |
