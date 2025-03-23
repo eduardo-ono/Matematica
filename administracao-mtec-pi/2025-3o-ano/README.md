@@ -1,7 +1,7 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">Adminstração - MTec - PI - 3º Ano</h3>
 <h4 align="center">Prof. Eduardo Ono</h4>
-<h6 align="center">Atualizado em: 06/03/2025</h6>
+<h6 align="center">Atualizado em: 22/03/2025</h6>
 
 &nbsp;
 
@@ -21,6 +21,11 @@ Carga horária: 120 horas-aula
 
 ## Conteúdo Programático
 
+<p align="center">
+
+Fev | [Mar](#Mar) | [Abr](#Abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
+</p>
+
 |  Aula   | Data  | Descrição | Competências | Habilidades |
 |  :-:    |  :-:  | --- | :-: | --- |
 |         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | | |
@@ -30,24 +35,28 @@ Carga horária: 120 horas-aula
 |   06    | 18/02 | &bull; __Matemática Computacional__ (cont.)<br>&ensp; - Condicionais;<br>&ensp; - Laços de repetição. | [4] | [EM13MAT405] |
 | 07 e 08 | 24/02 | &bull; __Matemática Computacional__ (cont.)<br>&ensp; - Modelagem de problemas e de soluções:<br>&emsp; - [Determinação de zeros de funções pelo método da bissecção]. | [4] | [EM13MAT405] |
 |   09    | 25/02 | _Atividade extracurricular: Trote Solidário_. | | |
-|         | 03/03 | _Suspensão de atividades (Carnaval)_. | | |
-|         | 04/03 | _Ponto Facultativo (Carnaval)_. | | |
+|         | <a id="Mar">04/03</a> | _Ponto Facultativo (Carnaval)_. | | |
 | 10 e 11 | 10/03 | &bull; __Matemática Computacional__ (cont.):<br>&ensp; - Aplicação: Algoritmo utilizado por um caixa eletrônico para saque de cédulas. | | |
-|         |       | <h3>__GEOMETRIA E MEDIDAS__</h3> | | |
-|   12    | 11/03 | &bull; __Polígonos__:<br>&ensp; - Definição;<br>&ensp; - Polígonos Regulares<br>&emsp; - Determinação da soma dos ângulos internos e medida de cada ângulo interno de um polígono regular de $n$ lados. | | |
-|         |       | &bull; __Polígonos__ (cont.):<br>&ensp; - Ladrilhamento do Plano. | | |
-|         |       | - Áreas de figuras geométricas: Pavimentações no plano (com o mesmo tipo de polígono ou não) | | |
-|         |       | &bull; __Geometria Espacial__:<br>&ensp; - Introdução e aplicações;<br>&ensp; - Postulados: retas e planos. | | |
-|         |       | &bull; __Geometria Espacial__ (cont.): <br>&ensp; - Paralelismo e perpendicularismo no espaço;<br>&ensp; - Projeção ortogonal. | | |
-|         |       | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Poliedros e corpos redondos;<br>&ensp; - Sólidos geométricos:<br>&emsp; - Prismas e pirâmides. | | |
-|         |       | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Exercícios de fixação. | | |
-|         |       |  &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Sólidos geométricos:<br>&emsp; - Cilindros e cones e esfera;<br>&ensp; Área total e volume de prismas, pirâmides e corpos redondos;<br>&ensp; - Noções básicas de cartografia (projeção cilíndrica e cônica). | | |
-|          |       | &bull; __Geometria Analítica__<br>&ensp; -  Conceitos e aplicações;<br>&ensp; - Distância entre dois pontos;<br>&ensp; - Coordenadas do ponto médio de um segmento;<br>&ensp; - Condição de alinhamento de três pontos;<br>&ensp; - Área de um triângulo;<br>&ensp; - Formas da equação da reta;<br>&ensp; - Posição relativa entre retas;<br>&ensp; - Ângulo entre duas retas concorrentes;<br>&ensp; - Distância entre ponto e reta;<br>&ensp; - Inequação do 1º grau com duas variáveis. | | |
-|          |       | &ensp; - Formas da equação da reta, paralelismo e perpendicularidade | | |
-|          |       | &bull; Equação da circunferência | | |
-|          |       | <h3>__PROBABILIDADE E ESTATÍSTICA__</h3> | | |
-|          |       | &bull; Probabilidade simples e condicional:<br>&ensp; - Espaçoes amostrais discretos ou contínuos;<br>&ensp; - Eventos equiprováveis ou não equiprováveis;<br>&ensp; - Eventos sucessivos, mutuamente exclusivos e não mutuamente exclusivos | | |
-|      |      | &bull; Contagem de possibilidades:<br>&ensp; - Modelos para contagem de dados:<br>&emsp; - Diagrama de árvore, listas, esquemas, desenhos, entre outros;<br>&ensp; - Noções de combinatória:<br>&emsp; - Princípio multiplicativo e princípio aditivo;<br>&emsp; - Fatorial; arranjos; permutação; combinações;<br>&emsp; - Binômio de Newton. | | |
+|   12    | 11/03 | &bull; __Matemática Computacional__ (cont.):<br>&ensp; - Aula em laboratório: implementação do algoritmo do "caixa eletrônico" em Excel. | | |
+| 13 e 14 | 17/03 | &bull; __Matemática Computacional__ (cont.):<br>&ensp; - Aula em laboratório: implementação dos exercícios do trabalho em Excel. | | |
+|   15    |       | <h3>__GEOMETRIA E MEDIDAS__</h3> | | |
+| 16 e 17 | 18/03 | &bull; __Polígonos__:<br>&ensp; - Introdução e conceitos;<br>&ensp; - Polígonos Regulares:<br>&emsp; &ndash; Definição;<br>&emsp; &ndash; Soma dos ângulos internos;<br>&emsp; &mdash; Ângulo interno de um polígono regular de $n$ lados. | | |
+|   18    | 24/03 | &bull; __Matemática Computacional__ (cont.):<br>&ensp; - Aula em laboratório: finalização do trabalho em Excel. | | |
+|         | 25/03 | __*Entrega do trabalho*__. | | |
+|         | 25/03 | &bull; __Polígonos__ (cont.):<br>&ensp; - Ladrilhamento do Plano. | | |
+|         | 31/03 | - Áreas de figuras geométricas: Pavimentações no plano (com o mesmo tipo de polígono ou não) | | |
+|         | <a id="Abr">01/04</a> | &bull; __Geometria Espacial__:<br>&ensp; - Introdução e aplicações;<br>&ensp; - Postulados: retas e planos. | | |
+|         | 07/04 | &bull; __Geometria Espacial__ (cont.): <br>&ensp; - Paralelismo e perpendicularismo no espaço;<br>&ensp; - Projeção ortogonal. | | |
+|         | 08/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Poliedros e corpos redondos;<br>&ensp; - Sólidos geométricos:<br>&emsp; - Prismas e pirâmides. | | |
+|         | 14/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Exercícios de fixação. | | |
+|         | 15/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Sólidos geométricos:<br>&emsp; - Cilindros e cones e esfera;<br>&ensp; Área total e volume de prismas, pirâmides e corpos redondos;<br>&ensp; - Noções básicas de cartografia (projeção cilíndrica e cônica). | | |
+|         | 21/04 | _Feriado Nacional (Tiradentes)_. | | |
+|         | 22/04 | &bull; __Geometria Analítica__<br>&ensp; -  Conceitos e aplicações;<br>&ensp; - Distância entre dois pontos;<br>&ensp; - Coordenadas do ponto médio de um segmento;<br>&ensp; - Condição de alinhamento de três pontos;<br>&ensp; - Área de um triângulo;<br>&ensp; - Formas da equação da reta;<br>&ensp; - Posição relativa entre retas;<br>&ensp; - Ângulo entre duas retas concorrentes;<br>&ensp; - Distância entre ponto e reta;<br>&ensp; - Inequação do 1º grau com duas variáveis. | | |
+|          | 28/04 | &ensp; - Formas da equação da reta, paralelismo e perpendicularidade | | |
+|          | 29/04 | &bull; Equação da circunferência | | |
+|          | 05/05 | <h3>__PROBABILIDADE E ESTATÍSTICA__</h3> | | |
+|          | 06/05 | &bull; Probabilidade simples e condicional:<br>&ensp; - Espaçoes amostrais discretos ou contínuos;<br>&ensp; - Eventos equiprováveis ou não equiprováveis;<br>&ensp; - Eventos sucessivos, mutuamente exclusivos e não mutuamente exclusivos | | |
+|          | 12/05 | &bull; Contagem de possibilidades:<br>&ensp; - Modelos para contagem de dados:<br>&emsp; - Diagrama de árvore, listas, esquemas, desenhos, entre outros;<br>&ensp; - Noções de combinatória:<br>&emsp; - Princípio multiplicativo e princípio aditivo;<br>&emsp; - Fatorial; arranjos; permutação; combinações;<br>&emsp; - Binômio de Newton. | | |
 
 [1]: #1
 [4]: #4
@@ -103,3 +112,7 @@ Carga horária: 120 horas-aula
 </details>
 
 &nbsp;
+
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>

@@ -37,6 +37,7 @@ Carga horária: 120 horas-aula
 |  09  | 27/02 | &bull; __Funções Exponenciais e Logarítmicas__:<br>&ensp; - Definições e aplicações;<br>&ensp; - Funções inversas (revisão);<br>&ensp; - Gráfico no plano cartesiano. | &bull; Competência: [3]<br>- Habilidade(s): [EM13MAT305]<br>&bull; Competência: [4]<br> - Habilidade(s): [EM13MAT403] |
 |  10  | 28/02 | &bull; Exercícios de fixação | |
 |  11  | 06/03 | &bull; [__Matrizes__]:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Definições: matriz linha, matriz coluna, matriz nula, matriz quadrada, matriz diagonal e matriz identidade.<br>&ensp; - Representação de matrizes. | |
+|      | 21/03 | _Dia do Técnico em Meio Ambiente_. | |
 |      |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |      |       | &bull; __Sistemas de Equações Lineares__ | |
 |      |       | -- Resolução por substituição de variáveis | |

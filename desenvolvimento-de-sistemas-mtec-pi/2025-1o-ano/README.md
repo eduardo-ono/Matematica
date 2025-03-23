@@ -31,8 +31,8 @@ Calendário Escolar: [__CALENDARIO-ESCOLAR-2025.pdf__](https://etecpirassununga.
 | 05 e 06 | 19/02 | &bull; __Conjuntos__ (cont.)<br>&nbsp; - Operações com conjuntos: União (reunião) e interseção<br>&nbsp; - Exercícios de fixação.<br>&bull; __Aplicação da Avaliação Diagnóstica__.<br>&ensp; 26/02: [Gabarito](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/gabaritos/avaliacao-diagnostica.ipynb) | | |
 | 07 e 08 | 26/02 | &bull; __Conjuntos__ (cont.):<br>&nbsp; - Operações com conjuntos: União (reunião), intersecção, diferença e complementar<br>&nbsp; - Diagrama de Venn;<br>&nbsp; - Exercícios de fixação | | |
 |         | 05/03 | _Suspensão de Atividades (Carnaval)_. | | |
-| 09 e 10 | 12/03 | &bull; [__Conjuntos Numéricos__]<br>&nbsp; - Conjunto dos Números Naturais;<br>&nbsp; - Conjunto dos Números Inteiros;<br>&nbsp; - Conjunto dos Números Racionais. | | |
-| 11 e 12 | 19/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&nbsp; - Conjunto dos Números Irracionais;<br>&nbsp; - Conjunto dos Números Reais;<br>&nbsp; - Conjunto dos Números Complexos (somente o conceito). | | |
+| 09 e 10 | 12/03 | _Semana do Emprego 2025. Conteúdo não ministrado._ | | |
+| 11 e 12 | 19/03 | &bull; [__Conjuntos Numéricos__]<br>&nbsp; - Conjunto dos Números Naturais;<br>&nbsp; - Conjunto dos Números Inteiros;<br>&nbsp; - Conjunto dos Números Racionais.&bull; __Conjuntos Numéricos__ (cont.):<br>&nbsp; - Conjunto dos Números Irracionais;<br>&nbsp; - Conjunto dos Números Reais;<br>&nbsp; - Conjunto dos Números Complexos (somente o conceito). | | |
 | 13 e 14 | 26/03 | __>>> Prova <<<__ | | |
 |         | 02/04 | Devolutiva da prova.<br>&bull; __Relações__:<br>&ensp; - Conceitos;<br>&ensp; - Plano cartesiano. | | |
 | 15 e 16 | 09/04 | &bull; [__Funções__]:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Domínio, contra-domínio e imagem;<br>&ensp; Gráfico no plano cartesiano;<br> &ensp; - Funções Afins, lineares, constantes e função identidade. | [1], [3], [4] | [EM13MAT101], [EM13MAT314], [EM13MAT404] |
