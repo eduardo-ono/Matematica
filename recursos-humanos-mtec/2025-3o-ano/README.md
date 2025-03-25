@@ -1,6 +1,7 @@
-<h1 align="center">Matemática<br><sub>Recursos Humanos - MTec - 3º Ano</sub></h1>
+<h1 align="center">Matemática</h1>
+<h3 align="center">Recursos Humanos - MTec - 3º Ano</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 13/03/2025</h6>
+<h6 align="center">Atualizado em: 25/03/2025</h6>
 
 &nbsp;
 
@@ -28,11 +29,11 @@ Carga horária: 120 horas-aula
 |   11    | 07/03 | &bull; Matemática Computacional (cont.):<br>&ensp; - Modelagem de problemas e de soluções:<br>&emsp; - Problema do "caixa eletrônico". | | |
 |   11    | 14/03 | &bull; Matemática Computacional (cont.):<br>&ensp; - Aula em laboratório: Implementação no Excel do [exercício](./trabalhos/matematica-computacional.ipynb) do método da bissecção para determinação de zeros de funções polinomiais de 3º Grau. | | |
 |         |       | <h3>GEOMETRIA E MEDIDAS</h3> | | |
-| 12 e 13 |   /03 | &bull; __Polígonos__:<br>&ensp; - Definição e exemplos;<br>&ensp; - Polígonos Regulares e Irregulares<br>&ensp; - Características.<br>&bull; - Ladrilhamento do Plano. | | |
+| 12 e 13 |   /03 | &bull; [__Polígonos__]:<br>&ensp; - Definição e exemplos;<br>&ensp; - Polígonos Regulares e Irregulares<br>&ensp; - Características.<br>&bull; - Ladrilhamento do Plano. | | |
 |   14    |   /03 |  | | |
 | 15 e 16 | 18/03 | &bull; __Polígonos__ (cont.):<br>&ensp; - Ladrilhamento do plano: Exercícios de fixação. | | |
 |   17    | 21/03 | &bull; Áreas de figuras geométricas:<br>&ensp; - Pavimentações no plano (com o mesmo tipo de polígono ou não). | | |
-| 18 e 19 | 25/03 | __>>> Avaliação <<<__. | | |
+| 18 e 19 | 25/03 | &bull; [__Polígonos__] (cont.):<br>&ensp; - Áreas de figuras geométricas:<br>&emsp; - Apótema;<br>&emsp; - Áreas de polígonos regulares.<br>__>>> ENTREGA DOS TRABALHOS <<<__ | | |
 |   20    | 28/03 | &bull; __Geometria Espacial__:<br>&ensp; - Introdução e aplicações;<br>&ensp; - Postulados: retas e planos;&ensp; - Posições das retas. | | |
 | 21 e 22 | 01/04 | &bull; __Geometria Espacial__ (cont.): <br>&ensp; - Paralelismo e perpendicularismo no espaço;<br>&ensp; - Projeção ortogonal. | | |
 |   23    | 04/04 | Devolutiva da avaliação. | | |
@@ -59,6 +60,8 @@ Carga horária: 120 horas-aula
 [1]: #1
 [4]: #4
 [EM13MAT405]: #EM13MAT405
+
+[__Polígonos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/11-geometria-plana/poligonos/poligonos.ipynb
 
 <details>
   <summary>

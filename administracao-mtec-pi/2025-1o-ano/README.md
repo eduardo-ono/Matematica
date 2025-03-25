@@ -27,6 +27,14 @@ Plano de Curso:
 
 ## Conteúdo
 
+* __Conjuntos__
+  * [Conceituação](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/conjuntos.ipynb)
+  * [Exercícios Resolvidos](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/exercicios-resolvidos.md)
+
+* __Conjuntos Numéricos__
+  * Conceituação
+  * Exercícios Resolvidos
+
 * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 
 &nbsp;
