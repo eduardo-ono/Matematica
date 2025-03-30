@@ -36,27 +36,27 @@ Carga horária: 120 horas-aula
 |   12    | 10/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Multiplicação de matriz por escalar;<br>&ensp; - Multiplicação de matrizes. | |
 | 13 e 14 | 14/03 | &bull; [__Matrizes__] (cont.)<br>&ensp; - Propriedades operatórias;<br>&ensp; - Exercícios de fixação. | |
 |   15    | 17/03 | &bull; __Determinantes__<br>&ensp; Definição e aplicações<br>&ensp; - Propriedades | |
-|         | 28/03 | &ensp; - Conteúdo: Logaritmos; Funções Exponenciais e Logarítmicas; Matrizes e Determinantes. | |
+|         | 28/03 | __>>> PROVA <<<__<br>31/03: [Gabarito](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-2o-ano/gabaritos/1a-prova/) | |
 |         | 31/03 | __>>> Prova <<<__ | |
 |         |       | &bull; __Sistemas de Equações Lineares__ | |
-|             |       | -- Resolução por substituição de variáveis | |
-|             |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | |
-|             |       | -- Sistemas de Amortização e Noções de Fluxo de Caixa:<br>- Sistema de Amortização Contínua - SAC<br>--- Sistema de Amortização Francês - PRICE<br>--- Sistema de Amortização MISTO | |
-|             |       | <h3>GEOMETRIA E MEDIDAS</h3> | |
-|             |       | - Figuras Geométricas: Definição e aplicações | |
-|             |       | -- Polígonos: Definição e aplicações<br>-- Polígonos Regulares: Definição; aplicações; propriedades | |
-|             |       | - Perímetro e Área: Definições e aplicações | |
-|             |       | - Gráfico de uma função do 2º grau: zeros, vértice e foco | |
-|             |       | - Trigonometria<br>--Trigonometria no triângulo e suas principais razões trigonométricas | |
-|             |       | -- Trigonometria no círculo trigonométrico: seno; cosseno;  tangente | |
-|             |       | -- Lei dos senos | |
-|             |       | -- Lei dos cossenos | |
-|             |       | -- Funções trigonométricas | |
-|             |       | <h3>PROBABILIDADE E ESTATÍSTICA</h3> | |
-|             |       | - Porcentagem: Definição e aplicações; cálculo de taxas; índices e coeficientes | |
-|             |       | - Estatística Descritiva: Frequências (absoluta e relativa) | |
-|             |       | -- Gráficos e diagramas estatísticos: histogramas; polígonos de frequências, diagrama de caixa, ramos e folhas, etc. | |
-|             |       | - Índice de Desenvolvimento Humano (IDH) | |
+|         |       | -- Resolução por substituição de variáveis | |
+|         |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | |
+|         |       | -- Sistemas de Amortização e Noções de Fluxo de Caixa:<br>- Sistema de Amortização Contínua - SAC<br>--- Sistema de Amortização Francês - PRICE<br>--- Sistema de Amortização MISTO | |
+|         |       | <h3>GEOMETRIA E MEDIDAS</h3> | |
+|         |       | - Figuras Geométricas: Definição e aplicações | |
+|         |       | -- Polígonos: Definição e aplicações<br>-- Polígonos Regulares: Definição; aplicações; propriedades | |
+|         |       | - Perímetro e Área: Definições e aplicações | |
+|         |       | - Gráfico de uma função do 2º grau: zeros, vértice e foco | |
+|         |       | - Trigonometria<br>--Trigonometria no triângulo e suas principais razões trigonométricas | |
+|         |       | -- Trigonometria no círculo trigonométrico: seno; cosseno;  tangente | |
+|         |       | -- Lei dos senos | |
+|         |       | -- Lei dos cossenos | |
+|         |       | -- Funções trigonométricas | |
+|         |       | <h3>PROBABILIDADE E ESTATÍSTICA</h3> | |
+|         |       | - Porcentagem: Definição e aplicações; cálculo de taxas; índices e coeficientes | |
+|         |       | - Estatística Descritiva: Frequências (absoluta e relativa) | |
+|         |       | -- Gráficos e diagramas estatísticos: histogramas; polígonos de frequências, diagrama de caixa, ramos e folhas, etc. | |
+|         |       | - Índice de Desenvolvimento Humano (IDH) | |
 
 [3]: #competencia-3
 [4]: #competencia-4
