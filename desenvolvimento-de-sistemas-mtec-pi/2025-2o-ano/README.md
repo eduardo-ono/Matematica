@@ -1,7 +1,7 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">Desenvolvimento de Sistemas - MTec - PI - 2º Ano</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 07/03/2025</h6>
+<h6 align="center">Atualizado em: 26/03/2025</h6>
 
 &nbsp;
 
@@ -23,8 +23,7 @@ Carga horária: 120 horas-aula
 
 <p align="center">
 
-[ [Fev](#fev) | [Mar](#mar) | [Abr](#abr) | [Mai](#mai) | [Jun](#jun) | [Jul](#jul) | [Ago](#ago) | [Set](#set) | [Out](#out) | [Nov](#nov) | [Dez](#dez) ]
-
+[Fev](#fev) | [Mar](#mar) | [Abr](#abr) | [Mai](#mai) | [Jun](#jun) | [Jul](#jul) | [Ago](#ago) | [Set](#set) | [Out](#out) | [Nov](#nov) | [Dez](#dez)
 </p>
 
 |   Aula  | Data  | Descrição | Competências | Habilidades |
@@ -42,7 +41,8 @@ Carga horária: 120 horas-aula
 | 14 e 15 | 14/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
 |   16    | 18/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Matriz transposta. | | |
 | 17 e 18 | 21/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
-|   19    | 25/03 | __>>> Prova <<<__ | | |
+|   19    | 25/03 | &bull; Revisão para a prova. | | |
+|   19    | 28/03 | &bull; __---PROVA---__<br>&bull; __Entrega da Lista de exercícios__ | | |
 | 20 e 21 | 28/03 | &bull; [__Determinantes__]<br>&nbsp; Definição e aplicações<br>&ensp; - Regra de Sarrus. | | |
 | 22 e 23 | 01/04 | &bull; [__Determinantes__] (cont.): - Exercícios de fixação.| | |
 |   24    | 04/04 | &bull; [__Determinantes__] (cont.): - Propriedades;<br>&ensp; - Regra de Chió.| | |

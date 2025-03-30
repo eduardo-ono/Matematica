@@ -1,5 +1,5 @@
 <h1 align="center">Matemática</h1>
-<h3 align="center">Meio Ambiente - MTec - 2º Ano</h3>
+<h3 align="center">Meio Ambiente - NOVOTEC - 2º Ano</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h6 align="center">Atualizado em: 06/02/2025</h6>
 
@@ -17,6 +17,8 @@ Carga horária: 120 horas-aula
 
 ## Conteúdo
 
+* Logaritmos
+* [Exercícios Resolvidos](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos.md)
 * [Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 
 &nbsp;
@@ -41,7 +43,7 @@ Carga horária: 120 horas-aula
 |      |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |      |       | &bull; __Sistemas de Equações Lineares__ | |
 |      |       | -- Resolução por substituição de variáveis | |
-|      | 27/03 | >>> Prova <<< | |
+|      | 27/03 | __>>> PROVA <<<__ | |
 |      |       | &bull; __Matemática Financeira__<br>&nbsp; - Conceitos;<br>&nbsp; - Orçamento familiar; Indicadores econômicos; taxas de juros | |
 |      |       | &bull; Sistemas de Amortização e Noções de Fluxo de Caixa<br>&nbsp; - Sistema de Amortização Contínua - SAC<br>&nbsp; - Sistema de Amortização Francês - PRICE<br>&nbsp; - Sistema de Amortização MISTO | |
 |      |       | <h3>GEOMETRIA E MEDIDAS</h3> | |
