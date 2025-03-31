@@ -6,7 +6,6 @@ function main() {
   const questao3 = document.getElementById('questao-3');
   const questao4 = document.getElementById('questao-4');
   const questao5 = document.getElementById('questao-5');
-  const vennDiagram = document.getElementById('venn-diagram');
 
   const rm = input.value;
   const A = new Set();
