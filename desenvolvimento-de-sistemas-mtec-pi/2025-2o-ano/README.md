@@ -42,7 +42,7 @@ Carga horária: 120 horas-aula
 |   16    | 18/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Matriz transposta. | | |
 | 17 e 18 | 21/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
 |   19    | 25/03 | &bull; Revisão para a prova. | | |
-|   19    | 28/03 | &bull; __---PROVA---__<br>&bull; __Entrega da Lista de exercícios__ | | |
+|   19    | 28/03 | <p align="center">__--- PROVA ---__</p>&bull; __Entrega da 1ª Lista de exercícios__.<br>&bull; 01/04: [Gabarito](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-2o-ano/gabaritos/1a-prova/) | | |
 | 20 e 21 | 28/03 | &bull; [__Determinantes__]<br>&nbsp; Definição e aplicações<br>&ensp; - Regra de Sarrus. | | |
 | 22 e 23 | 01/04 | &bull; [__Determinantes__] (cont.): - Exercícios de fixação.| | |
 |   24    | 04/04 | &bull; [__Determinantes__] (cont.): - Propriedades;<br>&ensp; - Regra de Chió.| | |

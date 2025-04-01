@@ -43,7 +43,7 @@ Carga horária: 120 horas-aula
 |      |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |      |       | &bull; __Sistemas de Equações Lineares__ | |
 |      |       | -- Resolução por substituição de variáveis | |
-|      | 27/03 | __>>> PROVA <<<__ | |
+|      | 27/03 | <p align="center">__&mdash;&mdash; PROVA &mdash;&mdash;__</p>&bull; 01/04: [Gabarito](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-2o-ano/gabaritos/1a-prova/) | |
 |      |       | &bull; __Matemática Financeira__<br>&nbsp; - Conceitos;<br>&nbsp; - Orçamento familiar; Indicadores econômicos; taxas de juros | |
 |      |       | &bull; Sistemas de Amortização e Noções de Fluxo de Caixa<br>&nbsp; - Sistema de Amortização Contínua - SAC<br>&nbsp; - Sistema de Amortização Francês - PRICE<br>&nbsp; - Sistema de Amortização MISTO | |
 |      |       | <h3>GEOMETRIA E MEDIDAS</h3> | |

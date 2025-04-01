@@ -7,11 +7,17 @@
 
 ## Descrição
 
-Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL EM MARKETING (Período Integral), ministrado no ano de 2025.
+&emsp; Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL EM MARKETING (Período Integral), ministrado no ano de 2025.
 
 Unidades temáticas: Números e Álgebra; Geometria e Medidas; Probabilidade e Estatística.
 
 Carga horária: 120 horas-aula
+
+&nbsp;
+
+## Pré-Requisitos
+
+* [Matemática Básica (Ensino Fundamental)](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/00-overview/revisao-de-matematica-basica/resumao-de-matematica-basica.ipynb)
 
 &nbsp;
 
@@ -25,7 +31,7 @@ Carga horária: 120 horas-aula
 
 |   Aula  | Data  | Descrição | Competências | Habilidades |
 |   :-:   |  :-:  | --- | :-: | --- |
-|         |       | <h3>NÚMEROS E ÁLGEBRA</h3> | | |
+|         |       | <h3 align="center">NÚMEROS E ÁLGEBRA</h3> | | |
 | 01 e 02 | 07/02 | &bull; Introdução ao componente curricular:<br>&nbsp; - Apresentação do cronograma programático;<br>&ensp; - Critérios de avaliação.<br>&bull; Os pilares da Matemática:<br>&ensp; - Conceituação e definição;<br>&ensp; - Manipulação;<br>&ensp; - Aplicação.<br>&bull; [Exemplo do uso de diferentes estratégias matemáticas ("artifícios") em manipulações algébricas.](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos/exr-2021-08-01.ipynb) |  | |
 |   03    | 10/02 | &bull; Revisão de conteúdo:<br>&ensp; - Produtos notáveis e fatoração.<br>&bull; [__Logaritmos__]:<br>&ensp; - Introdução;<br>&ensp; - Definição e aplicações. | | |
 | 04 e 05 | 14/02 | &bull; [__Logaritmos__] (cont.):<br>&ensp; - Propriedades;<br>&ensp; - Exemplos;<br>&ensp; - Exercícios de fixação. | [3] | [EM13MAT305] |
@@ -40,11 +46,11 @@ Carga horária: 120 horas-aula
 |   18    | 21/03 | &bull; Revisão para a prova. | | |
 |         | 28/03 | <p align="center">__>>> PROVA <<<__</p>&ensp; - 31/03: [Gabarito](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-2o-ano/gabaritos/1a-prova/) \| [Notas](./gabaritos/notas.pdf) | | |
 |         | 31/03 | | | |
-|         |       | &bull; __Sistemas de Equações Lineares__ | | |
+|         |       | &bull; __Sistemas Lineares__ | | |
 |         |       | -- Resolução por substituição de variáveis | | |
 |         |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | | |
 |         |       | -- Sistemas de Amortização e Noções de Fluxo de Caixa:<br>- Sistema de Amortização Contínua - SAC<br>--- Sistema de Amortização Francês - PRICE<br>--- Sistema de Amortização MISTO | | |
-|         |       | <h3>GEOMETRIA E MEDIDAS</h3> | | |
+|         |       | <h3 align="center">GEOMETRIA E MEDIDAS</h3> | | |
 |         |       | - Figuras Geométricas: Definição e aplicações | | |
 |         |       | -- Polígonos: Definição e aplicações<br>-- Polígonos Regulares: Definição; aplicações; propriedades | | |
 |         |       | - Perímetro e Área: Definições e aplicações | | |
@@ -54,7 +60,7 @@ Carga horária: 120 horas-aula
 |         |       | -- Lei dos senos | | |
 |         |       | -- Lei dos cossenos | | |
 |         |       | -- Funções trigonométricas | | |
-|         |       | <h3>PROBABILIDADE E ESTATÍSTICA</h3> | | |
+|         |       | <h3 align="center">PROBABILIDADE E ESTATÍSTICA</h3> | | |
 |         |       | - Porcentagem: Definição e aplicações; cálculo de taxas; índices e coeficientes | | |
 |         |       | - Estatística Descritiva: Frequências (absoluta e relativa) | | |
 |         |       | -- Gráficos e diagramas estatísticos: histogramas; polígonos de frequências, diagrama de caixa, ramos e folhas, etc. | | |
@@ -101,5 +107,9 @@ Carga horária: 120 horas-aula
 
   </section>
 </details>
+
+&nbsp;
+
+## Bibliografia
 
 &nbsp;
