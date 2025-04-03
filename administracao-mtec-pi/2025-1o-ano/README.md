@@ -3,7 +3,7 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">Adminstração - MTec - PI - 1º ano</h3>
 <h4 align="center">Prof. Eduardo Ono</h4>
-<h6 align="center">Atualizado em: 24/02/2025</h6>
+<h6 align="center">Atualizado em: 02/04/2025</h6>
 
 &nbsp;
 
