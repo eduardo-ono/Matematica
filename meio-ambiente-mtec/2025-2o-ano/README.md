@@ -7,11 +7,17 @@
 
 ## Descrição
 
-Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM MEIO AMBIENTE, ministrado no ano de 2025.
+&emsp; Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM MEIO AMBIENTE, ministrado no ano de 2025.
 
-Unidades temáticas: Números e Álgebra; Geometria e Medidas; Probabilidade e Estatística.
+* Unidades temáticas: Números e Álgebra; Geometria e Medidas; Probabilidade e Estatística.
 
-Carga horária: 120 horas-aula
+* Carga horária: 120 horas-aula
+
+&nbsp;
+
+## Pré-Requisitos
+
+* [Matemática Básica (Ensino Fundamental)](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/00-overview/revisao-de-matematica-basica/resumao-de-matematica-basica.ipynb)
 
 &nbsp;
 

@@ -13,6 +13,12 @@ Carga horária: 120 horas-aula
 
 &nbsp;
 
+## Pré-Requisitos
+
+* [Matemática Básica (Ensino Fundamental)](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/00-overview/revisao-de-matematica-basica/resumao-de-matematica-basica.ipynb)
+
+&nbsp;
+
 ## Conteúdo Programático
 
 |   Aula  | Data  | Descrição | Competências | Habilidades |
