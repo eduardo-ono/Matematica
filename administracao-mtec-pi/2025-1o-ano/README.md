@@ -41,7 +41,7 @@ Plano de Curso:
 
 ## Conteúdo Programático
 
-Fev | [Mar](#Mar) | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
+Fev | [Mar](#mar) | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 
 | Aula | Data  | Descrição | Competência | Habilidade |
 | :-:  |  :-:  | --- | :-: | :-: |
@@ -57,7 +57,7 @@ Fev | [Mar](#Mar) | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 |  09  | 24/02 | &bull; [__Conjuntos__] (cont.):<br>&ensp; - Diferença de conjuntos;<br>&ensp; - Disjunção;<br>&ensp; - Complementar;<br>&ensp; - Conjunto das partes. | | |
 |  10  | 26/02 | &bull; [__Conjuntos__] (cont.):<br>&nbsp; - Exercícios envolvendo o uso de Diagramas de Venn. | | |
 |  11  | 27/02 | &bull; [__Conjuntos Numéricos__]:<br>&ensp; - Introdução e definição.<br>&ensp; &bull; __Conjunto dos Números Naturais__:<br>&emsp; - Definição e propriedades.<br>&ensp; &bull; __Conjunto dos Números Inteiros__:<br>&emsp; - Definição e propriedades. | | |
-|      | <a id="Mar">03/03</a> | NL: Carnaval. | | |
+|      | <a id="mar">03/03</a> | NL: Carnaval. | | |
 |  12  | 06/03 | &bull; [__Conjuntos Numéricos__] (cont.):<br>&ensp; &bull; __Conjunto dos Números Racionais__<br>&emsp; - Definição e propriedades. | | |
 |  13  | 10/03 | &bull; [__Conjuntos Numéricos__] (cont.):<br>&ensp; &bull; __Conjunto dos Números Racionais__<br>&emsp; - Exercícios de fixação. | | |
 |  14  | 12/03 | &bull; [__Conjuntos Numéricos__] (cont.):<br>&ensp; &bull; __Conjunto dos Números Irracionais__:<br>&ensp; Exercícios de fração geratriz de dízimas periódicas. | | |
