@@ -51,7 +51,7 @@ Plano de Curso:
 |   11    | 10/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; - Conjunto dos Números Racionais. | | |
 |   12    | 11/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; &bull; __Conjunto dos Números Irracionais__;<br>&ensp; &bull; __Conjunto dos Números Reais__<br>&ensp; &bull; __Conjunto dos Números Complexos__ (conceitos básicos). | | |
 |   13    | 13/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Exercícios de fixação. | | |
-| 16 e 17 | 24/03 | &bull; Revisão para a prova.<br>__>>> Prova <<<__<br>&ensp; - Conteúdo: Conjuntos e Conjuntos Numéricos. | | |
+| 16 e 17 | 24/03 | &bull; Revisão para a prova.<p align="center">__--- PROVA ---__</p>&ensp; - Conteúdo: Conjuntos e Conjuntos Numéricos.<br>&ensp; - 03/04: [Gabarito](https://eduardo-ono.github.io/Matematica/marketing-mtec/2025-1o-ano/gabaritos/1a-prova/)<br>&ensp; - 03/04: [Notas](https://eduardo-ono.github.io/Matematica/marketing-mtec/2025-1o-ano/gabaritos/notas.pdf/) | | |
 |   18    | 25/03 | &bull; __Relações__:<br>&ensp; - Conceitos;<br>&ensp; - Plano cartesiano. | | |
 | 19 e 20 | 31/03 | &bull; __Relações__:<br>&ensp; - Exercícios de fixação.<br>&bull; __Devolutiva da prova  e apreciação da correção e da menção__. | | |
 |   21    | 01/04 | &bull; __Funções__:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Domínio, contra-domínio e imagem;<br>&ensp; Gráfico no plano cartesiano. | [1], [4] | [EM13MAT101], [EM13MAT404] |

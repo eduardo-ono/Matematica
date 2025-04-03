@@ -49,7 +49,7 @@
 |      |       | &bull; __Determinantes__<br>&nbsp; Definição e aplicações<br>&nbsp; - Propriedades | |
 |      |       | &bull; __Sistemas de Equações Lineares__ | |
 |      |       | -- Resolução por substituição de variáveis | |
-|      | 27/03 | <p align="center">__&mdash;&mdash; PROVA &mdash;&mdash;__</p>&bull; 01/04: [Gabarito](https://eduardo-ono.github.io/Matematica/meio-ambiente-mtec/2025-2o-ano/gabaritos/1a-prova/) | |
+|      | 27/03 | <p align="center">__--- PROVA ---__</p>&bull; 01/04: [Gabarito](https://eduardo-ono.github.io/Matematica/meio-ambiente-mtec/2025-2o-ano/gabaritos/1a-prova/)<br>&bull; 03/04: [Notas](https://eduardo-ono.github.io/Matematica/meio-ambiente-mtec/2025-2o-ano/gabaritos/notas.pdf/) | |
 |      |       | &bull; __Matemática Financeira__<br>&nbsp; - Conceitos;<br>&nbsp; - Orçamento familiar; Indicadores econômicos; taxas de juros | |
 |      |       | &bull; Sistemas de Amortização e Noções de Fluxo de Caixa<br>&nbsp; - Sistema de Amortização Contínua - SAC<br>&nbsp; - Sistema de Amortização Francês - PRICE<br>&nbsp; - Sistema de Amortização MISTO | |
 |      |       | <h3>GEOMETRIA E MEDIDAS</h3> | |
