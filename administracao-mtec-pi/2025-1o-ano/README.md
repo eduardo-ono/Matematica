@@ -66,7 +66,7 @@ Fev | Mar | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 |  16  | 17/03 | &bull; [__Conjuntos Numéricos__]:<br>&ensp; - Exercícios de fixação. | | |
 |  17  | 19/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Exercícios de fixação. | | |
 |  18  | 20/03 | &bull; Revisão para a prova. | | |
-|  19  | 24/03 | __>>> Prova <<<__<br>&ensp; - Conteúdo: Conjuntos e Conjuntos Numéricos. | | |
+|  19  | 24/03 | <p align="center">__--- PROVA ---__</p>&ensp; - Conteúdo: Conjuntos e Conjuntos Numéricos.<br>&ensp; - 03/04: [Gabarito](https://eduardo-ono.github.io/Matematica/administracao-mtec-pi/2025-1o-ano/gabaritos/prova-1-gabarito/) \| [Notas](https://eduardo-ono.github.io/Matematica/administracao-mtec-pi/2025-1o-ano/gabaritos/prova-1-gabarito/notas.pdf). | | |
 |  20  | 26/03 | &bull; __Relações__:<br>&ensp; - Conceitos;<br>&ensp; - Plano cartesiano. | | |
 |  21  | 27/03 | &bull; __Relações__:<br>&ensp; - Exercícios de fixação. | | |
 |  22  | 31/03 | &bull; __Devolutiva da prova e apreciação da correção e da menção__. | | |
