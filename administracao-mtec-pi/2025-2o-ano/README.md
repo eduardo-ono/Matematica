@@ -44,7 +44,8 @@ Carga horária: 120 horas-aula
 |   15    | 07/03 | &bull; [__Matrizes__]:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Matrizes específicas (especiais): Matriz linha, matriz coluna. | | |
 |   15    | 12/03 | &bull; __Matrizes__ (cont.):<br>&ensp; - Matrizes específicas (especiais): matriz nula, quadrada de ordem _n_, matriz diagonal, matriz identidade;<br>&ensp; - Operações com matrizes: adição; multiplicação por uma constante; produto de matrizes. | | |
 |         | 14/03 | &bull; [__Sistemas de Equações Lineares__] | | |
-|         | 28/02      | &bull; [__Sistemas de Equações Lineares__] | | |
+|         | 28/03 | <p align="center">__--- PROVA ---__</p>&bull; __Entrega da 1ª Lista de exercícios__.<br>&bull; 08/04: [Gabarito](https://eduardo-ono.github.io/Matematica/administracao-mtec-pi/2025-2o-ano/gabaritos/1a-prova/) \| [Notas](https://eduardo-ono.github.io/Matematica/administracao-mtec-pi/2025-2o-ano/gabaritos/notas.pdf) | | |
+|         |       | &bull; [__Sistemas de Equações Lineares__] | | |
 |         |       | &nbsp; - Resolução por substituição de variáveis; | | |
 |         |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | | |
 |         |       | -- Sistemas de Amortização e Noções de Fluxo de Caixa:<br>- Sistema de Amortização Contínua - SAC<br>--- Sistema de Amortização Francês - PRICE<br>--- Sistema de Amortização MISTO | | |
