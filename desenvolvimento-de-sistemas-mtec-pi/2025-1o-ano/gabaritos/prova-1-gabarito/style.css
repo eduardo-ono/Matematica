@@ -1,0 +1,32 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 50pt;
+}
+
+header {
+  text-align: center;
+}
+
+h2 {
+text-align: center;
+padding-top: 20pt;
+padding-bottom: 10pt;
+}
+
+#input-container {
+text-align: center;
+padding-top: 20pt;
+padding-bottom: 20pt;
+}
+
+#venn-diagram {
+  width: 800px;
+  height: 600px;
+  justify-content: center;
+  align-items: center;
+}
+.left {
+display: flex;
+justify-content: flex-start;
+}
