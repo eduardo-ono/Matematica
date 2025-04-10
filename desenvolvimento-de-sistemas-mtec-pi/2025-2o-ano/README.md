@@ -48,7 +48,7 @@ Carga horária: 120 horas-aula
 |   16    | 18/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Matriz transposta. | | |
 | 17 e 18 | 21/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
 |   19    | 25/03 | &bull; Revisão para a prova. | | |
-|   19    | 28/03 | <p align="center">__--- PROVA ---__</p>&bull; __Entrega da 1ª Lista de exercícios__.<br>&bull; 01/04: [Gabarito](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/1a-prova/) \| [Notas](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/notas.pdf) | | |
+|   19    | 28/03 | <p align="center">__--- PROVA ---__</p>&bull; __Entrega da 1ª Lista de exercícios__.<br>&bull; 01/04: [Gabarito da 1ª Prova](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/1a-prova/)<br>&bull; 10/04: [Gabarito da 1ª Lista de Exercícios](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/1a-lista/)<br>&bull; [Notas](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/notas.pdf) | | |
 | 20 e 21 | 28/03 | &bull; [__Determinantes__]<br>&nbsp; Definição e aplicações<br>&ensp; - Regra de Sarrus. | | |
 | 22 e 23 | 01/04 | &bull; [__Determinantes__] (cont.): - Exercícios de fixação.| | |
 |   24    | 04/04 | &bull; [__Determinantes__] (cont.): - Propriedades;<br>&ensp; - Regra de Chió.| | |

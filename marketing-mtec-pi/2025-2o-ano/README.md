@@ -44,7 +44,7 @@ Carga horária: 120 horas-aula
 |   15    | 17/03 | &bull; | | |
 | 16 e 17 | 21/03 | &bull; | | |
 |   18    | 21/03 | &bull; Revisão para a prova. | | |
-|         | 28/03 | <p align="center">__>>> PROVA <<<__</p>&ensp; - 31/03: [Gabarito](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-2o-ano/gabaritos/1a-prova/) \| [Notas](./gabaritos/notas.pdf) | | |
+|         | 28/03 | <p align="center">__--- PROVA ---__</p>&bull; 31/03: [Gabarito da 1ª Prova](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-2o-ano/gabaritos/1a-prova/)<br>&bull; 10/04: [Gabarito da 1ª Lista de Exercícios](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-2o-ano/gabaritos/1a-lista/)<br>&bull; [Notas](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-2o-ano/gabaritos/notas.pdf) | | |
 |         | 31/03 | | | |
 |         |       | &bull; __Sistemas Lineares__ | | |
 |         |       | -- Resolução por substituição de variáveis | | |
