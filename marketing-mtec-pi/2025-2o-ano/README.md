@@ -25,6 +25,8 @@ Carga horária: 120 horas-aula
 
 * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 
+* [Recursos](#recursos)
+
 &nbsp;
 
 ## Conteúdo Programático
@@ -107,6 +109,12 @@ Carga horária: 120 horas-aula
 
   </section>
 </details>
+
+&nbsp;
+
+## Recursos
+
+* <https://mathda.com/calculator/>
 
 &nbsp;
 
