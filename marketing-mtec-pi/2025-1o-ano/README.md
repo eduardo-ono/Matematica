@@ -27,13 +27,15 @@ Plano de Curso:
 
 * [Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 
+* [Recursos](#recursos)
+
 &nbsp;
 
 ## Conteúdo Programático
 
 <h4 align="center">
 
-| [Fev](#fev) | Mar | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez |
+| [Fev](#fev) | [Mar](#mar) | [Abr](#abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez |
 </h4>
 
 |   Aula  | Data  | Descrição | Competências | Habilidades |
@@ -47,14 +49,14 @@ Plano de Curso:
 |   09    | 25/02 | _Atividade extracurricular: Trote Solidário_. | | |
 |         | 03/03 | _NL: Suspensão de Atividades (Carnaval)_. | | |
 |         | 04/03 | _NL: Ponto Facultativo (Carnaval)_. | | |
-|   10    | 06/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Conjunto dos Números Naturais;<br>&ensp; - Conjunto dos Números Inteiros. | | |
+|   10    | <a id="mar">06/03</a> | &bull; __Conjuntos Numéricos__:<br>&ensp; - Conjunto dos Números Naturais;<br>&ensp; - Conjunto dos Números Inteiros. | | |
 |   11    | 10/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; - Conjunto dos Números Racionais. | | |
 |   12    | 11/03 | &bull; __Conjuntos Numéricos__ (cont.):<br>&ensp; &bull; __Conjunto dos Números Irracionais__;<br>&ensp; &bull; __Conjunto dos Números Reais__<br>&ensp; &bull; __Conjunto dos Números Complexos__ (conceitos básicos). | | |
 |   13    | 13/03 | &bull; __Conjuntos Numéricos__:<br>&ensp; - Exercícios de fixação. | | |
 | 16 e 17 | 24/03 | &bull; Revisão para a prova.<p align="center">__--- PROVA ---__</p>&ensp; - Conteúdo: Conjuntos e Conjuntos Numéricos.<br>&ensp; - 03/04: [Gabarito](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-1o-ano/gabaritos/prova-1-gabarito/)<br>&ensp; - 03/04: [Notas](https://eduardo-ono.github.io/Matematica/marketing-mtec-pi/2025-1o-ano/gabaritos/notas.pdf) | | |
 |   18    | 25/03 | &bull; __Relações__:<br>&ensp; - Conceitos;<br>&ensp; - Plano cartesiano. | | |
 | 19 e 20 | 31/03 | &bull; __Relações__:<br>&ensp; - Exercícios de fixação.<br>&bull; __Devolutiva da prova  e apreciação da correção e da menção__. | | |
-|   21    | 01/04 | &bull; __Funções__:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Domínio, contra-domínio e imagem;<br>&ensp; Gráfico no plano cartesiano. | [1], [4] | [EM13MAT101], [EM13MAT404] |
+|   21    | <a id="abr">01/04</a> | &bull; __Funções__:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Domínio, contra-domínio e imagem;<br>&ensp; Gráfico no plano cartesiano. | [1], [4] | [EM13MAT101], [EM13MAT404] |
 | 22 e 23 | 07/04 | &bull; __Funções__ (cont.):<br> &ensp; - Afins, lineares, constantes e função identidade;.<br>&ensp; - Exercícios de fixação. | [1] | [EM13MAT101] |
 |   24    | 08/04 | &bull; __Funções__ (cont.):<br>&ensp; - Função composta. | | |
 | 25 e 26 | 14/04 | &bull; __Funções__ (cont.):<br>&ensp; - Função injetora, sobrejetora e bijetora;<br>&ensp; - Função inversa.| | |
@@ -155,5 +157,11 @@ Plano de Curso:
 
   </section>
 </details>
+
+&nbsp;
+
+## Recursos
+
+* <https://mathda.com/calculator/>
 
 &nbsp;

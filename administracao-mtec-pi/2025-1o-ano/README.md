@@ -37,6 +37,8 @@ Plano de Curso:
 
 * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 
+* [Recursos](#recursos)
+
 &nbsp;
 
 ## Conteúdo Programático
@@ -211,6 +213,12 @@ Fev | [Mar](#mar) | [Abr](#abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 
   </section>
 </details>
+
+&nbsp;
+
+## Recursos
+
+* <https://mathda.com/calculator/>
 
 &nbsp;
 
