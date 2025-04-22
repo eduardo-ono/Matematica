@@ -21,6 +21,22 @@ Carga horária: 120 horas-aula
 
 ## Conteúdo
 
+<details>
+  <summary>
+    <h3>Sumário</h3>
+  </summary>
+  <section markdown="1">
+
+* [__Logaritmos__]
+  * Exercícios Resolvidos
+* [__Matrizes__]
+* [__Sistemas Lineares__]
+  * [Exercícios Resolvidos](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/07-matrizes-determinantes-e-sistemas/sistemas-lineares/exercicios-resolvidos.md)
+
+  </section>
+
+</details>
+
 * [Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 
 &nbsp;
@@ -72,16 +88,17 @@ Carga horária: 120 horas-aula
 |             |       | -- Gráficos e diagramas estatísticos: histogramas; polígonos de frequências, diagrama de caixa, ramos e folhas, etc. | | |
 |             |       | - Índice de Desenvolvimento Humano (IDH) | | |
 
+[__Logaritmos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
+[__Matrizes__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/07-matrizes-determinantes-e-sistemas/matrizes.ipynb
+[__Determinantes__]: #
+[__Sistemas Lineares__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/07-matrizes-determinantes-e-sistemas/sistemas-lineares/sistemas-lineares.ipynb
+
 [2]: #competencia-2
 [3]: #competencia-3
 [4]: #competencia-4
 [5]: #competencia-5
 [EM13MAT305]: #EM13MAT305
 [EM13MAT403]: #EM13MAT403
-
-[__Logaritmos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/logaritmos/logaritmos.ipynb
-[__Matrizes__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/07-matrizes-determinantes-e-sistemas/matrizes.ipynb
-[__Determinantes__]: #
 
 &nbsp;
 

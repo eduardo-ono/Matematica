@@ -1,7 +1,7 @@
 &nbsp;
 
 <h1 align="center">Matemática</h1>
-<h3 align="center">Adminstração - MTec - PI - 1º ano</h3>
+<h3 align="center">1º Adminstração - MTec - PI</h3>
 <h4 align="center">Prof. Eduardo Ono</h4>
 <h6 align="center">Atualizado em: 02/04/2025</h6>
 
@@ -25,7 +25,13 @@ Plano de Curso:
 
 &nbsp;
 
-## Conteúdo
+## Sumário
+
+<details>
+  <summary>
+    <h3>Conteúdo</h3>
+  </summary>
+  <section markdown="1">
 
 * __Conjuntos__
   * [Conceituação](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/conjuntos.ipynb)
@@ -35,7 +41,13 @@ Plano de Curso:
   * Conceituação
   * Exercícios Resolvidos
 
+* __Funções__
+  * Exercícios Resolvidos
+
 * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+
+  </section>
+</details>
 
 * [Recursos](#recursos)
 
@@ -72,15 +84,15 @@ Fev | [Mar](#mar) | [Abr](#abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 |  21  | 31/03 | &bull; [__Conjuntos Numéricos__] (cont.)<br>&ensp; - Conjunto dos Números Reais:<br>&emsp; - Intervalos na Reta Real;<br>&emsp; - __Relações__:<br>&ensp; - Introdução e conceitos. | | |
 |  22  | <a id="abr">02/04</a> | &bull; Divisão Euclidiana (revisão). | | |
 |  23  | 03/04 | &bull; __Devolutiva da prova e apreciação da correção e da menção__. | | |
-|  24  | 07/04 | &bull; __Funções__:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Domínio, contra-domínio e imagem;<br>&ensp; Gráfico no plano cartesiano.<br>&ensp; - Funções afins, lineares, função identidade e função constante. | [1], [4] | [EM13MAT101], [EM13MAT404] |
-|  25  | 09/04 | &bull; __Funções__ (cont.):<br>&ensp; - Função composta. | | |
-|  26  | 10/04 | &bull; __Funções__ (cont.):<br>&ensp; - Função injetora, sobrejetora e bijetora.| | |
-|  28  | 14/04 | &bull; __Funções__ (cont.):<br>&ensp; - Função inversa.| | |
-|  29  | 16/04 | &bull; __Funções__ (cont.):<br>&ensp; - Função do 1º grau | [1] | [EM13MAT101] |
-|  30  | 17/04 | &bull; __Funções__ (cont.):<br>&ensp; - Função do 1º grau: Exercícios de fixação. | [1] | [EM13MAT101] |
+|  24  | 07/04 | &bull; [__Funções__]:<br>&ensp; - Conceito e aplicações;<br>&ensp; - Domínio, contra-domínio e imagem;<br>&ensp; Gráfico no plano cartesiano.<br>&ensp; - Funções afins, lineares, função identidade e função constante. | [1], [4] | [EM13MAT101], [EM13MAT404] |
+|  25  | 09/04 | &bull; [__Funções__] (cont.):<br>&ensp; - Função composta. | | |
+|  26  | 10/04 | &bull; [__Funções__] (cont.):<br>&ensp; - Função injetora, sobrejetora e bijetora.| | |
+|  28  | 14/04 | &bull; [__Funções__] (cont.):<br>&ensp; - Função inversa.| | |
+|  29  | 16/04 | &bull; [__Funções__] (cont.):<br>&ensp; - Função do 1º grau | [1] | [EM13MAT101] |
+|  30  | 17/04 | &bull; [__Funções__] (cont.):<br>&ensp; - Função injetora, sobrejetora e bijetora. | [1] | [EM13MAT101] |
 |      | 21/04 | _NL: Feriado Nacional (Tiradentes)._ | | |
-|  32  | 23/04 | &bull; __Funções__ (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Definição e aplicações. | [1] | [EM13MAT101] |
-|  33  | 24/04 | &bull; __Funções__ (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Gráfico de uma função do 2º grau;<br>&emsp; - Concavidade da parábola. | | |
+|  32  | 23/04 | &bull; [__Funções__] (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Definição e aplicações. | [1] | [EM13MAT101] |
+|  33  | 24/04 | &bull; [__Funções__] (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Gráfico de uma função do 2º grau;<br>&emsp; - Concavidade da parábola. | | |
 |      | 28/04 | _NL: Feriado Nacional (Tiradentes)_. | | |
 |  34  | 30/04 | &bull; __Funções__ (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Zeros da função quadrática;<br>&emsp; - Demonstração da "fórmula de Bhaskara". | | |
 |  35  | 01/05 | &bull; __Funções__ (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Vértice e foco da parábola. | [1] | [EM13MAT101] |
@@ -155,6 +167,7 @@ Fev | [Mar](#mar) | [Abr](#abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 
 [__Conjuntos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/conjuntos.ipynb
 [__Conjuntos Numéricos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/03-conjuntos-numericos/conjuntos-numericos.ipynb
+[__Funções__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/03-funcoes/03-funcoes/01-conceitos/funcoes.ipynb
 
 &nbsp;
 
