@@ -64,14 +64,13 @@ Carga horária: 120 horas-aula
 |   16    | 18/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Matriz transposta. | | |
 | 17 e 18 | 21/03 | &bull; [__Matrizes__] (cont.):<br>&ensp; - Exercícios de fixação. | | |
 |   19    | 25/03 | &bull; Revisão para a prova. | | |
-|   19    | 28/03 | <p align="center">__--- PROVA ---__</p>&bull; __Entrega da 1ª Lista de exercícios__.<br>&bull; 01/04: [Gabarito da 1ª Prova](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/1a-prova/)<br>&bull; 10/04: [Gabarito da 1ª Lista de Exercícios](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/1a-lista/)<br>&bull; [Notas](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/notas.pdf) | | |
-| 20 e 21 | 28/03 | &bull; [__Determinantes__]<br>&nbsp; Definição e aplicações<br>&ensp; - Regra de Sarrus. | | |
-| 22 e 23 | 01/04 | &bull; [__Determinantes__] (cont.): - Exercícios de fixação.| | |
-|   24    | 04/04 | &bull; [__Determinantes__] (cont.): - Propriedades;<br>&ensp; - Regra de Chió.| | |
-| 25 e 26 | 08/04 | &bull; [__Determinantes__] (cont.): - Exercícios de fixação. | | |
-|   24    | 11/04 | &bull; __Sistemas de Equações Lineares__ | | |
-|             |       | -- Resolução por substituição de variáveis | | |
-|         | 22/04 | &bull; [__Sistemas Lineares__] (cont.)<br>&ensp; - Resolução por substituição de variáveis. | | |
+| 20 e 21 | 28/03 | <p align="center">__--- PROVA ---__</p>&bull; __Entrega da 1ª Lista de exercícios__.<br>&bull; 01/04: [Gabarito da 1ª Prova](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/1a-prova/)<br>&bull; 10/04: [Gabarito da 1ª Lista de Exercícios](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/1a-lista/)<br>&bull; [Notas](https://eduardo-ono.github.io/Matematica/desenvolvimento-de-sistemas-mtec-pi/2025-2o-ano/gabaritos/notas.pdf) | | |
+|   22    | <a id="abr">01/04</a> | &bull; Algoritmo da Divisão de Euclides. | | |
+| 23 e 24 | 04/04 | &bull; Devolutiva da 1ª Prova. | | |
+|   25    | 08/04 | &bull; [__Sistemas Lineares__]<br>&ensp; - Introdução. | | |
+| 26 e 27 | 11/04 | &bull; Aplicação da Avaliação substitutiva/recuperativa. | | |
+|   28    | 15/04 | &bull; [__Sistemas Lineares__] (cont.)<br>&ensp; - Método da substituição. | | |
+| 29 e 30 | 22/04 | &bull; [__Sistemas Lineares__] (cont.)<br>&ensp; - | | |
 |             |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | | |
 |             |       | -- Sistemas de Amortização e Noções de Fluxo de Caixa:<br>- Sistema de Amortização Contínua - SAC<br>--- Sistema de Amortização Francês - PRICE<br>--- Sistema de Amortização MISTO | | |
 |             |       | <h3>GEOMETRIA E MEDIDAS</h3> | | |
