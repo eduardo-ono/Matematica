@@ -45,9 +45,9 @@ Carga horária: 120 horas-aula
 |   23    | 04/04 | Devolutiva da avaliação. | | |
 | 22 e 23 | 08/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Posições relativas de retas e planos. | | |
 |   24    | 11/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Exercícios de fixação. | | |
-| 22 e 23 | 15/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Diedros e triedros. | | |
+| 25 e 26 | 15/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Diedros e triedros. | | |
 |         | 18/04 | _Feriado Nacional (Paixão de Cristo)_. | | |
-| 22 e 23 | 22/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Poliedros e corpos redondos;<br>&ensp; - Sólidos geométricos:<br>&emsp; - Prismas e pirâmides. | | |
+| 27 e 28 | 22/04 | &bull; [__Prismas__] (cont.):<br>&ensp; - [Relação de Euler];<br>Poliedros e corpos redondos;<br>&ensp; - Sólidos geométricos:<br>&emsp; - Prismas e pirâmides. | | |
 |   24    | 25/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Exercícios de fixação. | | |
 | 25 e 26 | 29/04 |  &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Sólidos geométricos:<br>&emsp; - Cilindros e cones e esfera;<br>&ensp; Área total e volume de prismas, pirâmides e corpos redondos;<br>&ensp; - Noções básicas de cartografia (projeção cilíndrica e cônica). | | |
 |         | 17/06 | __>>> Avaliação <<<__. | | |
@@ -63,11 +63,12 @@ Carga horária: 120 horas-aula
 |         |       | - Contagem de possibilidades | | |
 |         |       | -- Modelos para contagem de dados: Diagrama de árvore, listas, esquemas, desenhos, entre outros; noções de combinatória: princípio multiplicativo e princípio aditivo; fatorial; arranjos; permutação; combinações; binômio de Newton. | | |
 
+[__Polígonos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/11-geometria-plana/poligonos/poligonos.ipynb
+[Relação de Euler]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/12-geometria-espacial/poliedros/poliedros.ipynb
+
 [1]: #1
 [4]: #4
 [EM13MAT405]: #EM13MAT405
-
-[__Polígonos__]: https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/11-geometria-plana/poligonos/poligonos.ipynb
 
 <details>
   <summary>
