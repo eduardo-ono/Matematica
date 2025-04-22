@@ -71,6 +71,7 @@ Carga horária: 120 horas-aula
 | 25 e 26 | 08/04 | &bull; [__Determinantes__] (cont.): - Exercícios de fixação. | | |
 |   24    | 11/04 | &bull; __Sistemas de Equações Lineares__ | | |
 |             |       | -- Resolução por substituição de variáveis | | |
+|         | 22/04 | &bull; [__Sistemas Lineares__] (cont.)<br>&ensp; - Resolução por substituição de variáveis. | | |
 |             |       | - Matemática Financeira: Conceitos; orçamento familiar; indicadores econômicos; taxas de juros | | |
 |             |       | -- Sistemas de Amortização e Noções de Fluxo de Caixa:<br>- Sistema de Amortização Contínua - SAC<br>--- Sistema de Amortização Francês - PRICE<br>--- Sistema de Amortização MISTO | | |
 |             |       | <h3>GEOMETRIA E MEDIDAS</h3> | | |
