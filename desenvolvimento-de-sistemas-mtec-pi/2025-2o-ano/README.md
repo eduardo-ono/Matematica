@@ -37,7 +37,9 @@ Carga horária: 120 horas-aula
 
 </details>
 
-* [Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+* [Lista de Exercícios 1](./listas-de-exercicios/lista-1.ipynb)
+
+* [Lista de Exercícios 2]()
 
 * [Recursos](#recursos)
 
