@@ -23,7 +23,7 @@ Carga horária: 120 horas-aula
 
 <p align="center">
 
-Fev | [Mar](#Mar) | [Abr](#Abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
+Fev | [Mar](#mar) | [Abr](#abr) | [Mai](#mai) | Jun | Jul | Ago | Set | Out | Nov | Dez
 </p>
 
 |  Aula   | Data  | Descrição | Competências | Habilidades |
@@ -35,7 +35,7 @@ Fev | [Mar](#Mar) | [Abr](#Abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 |   06    | 18/02 | &bull; __Matemática Computacional__ (cont.)<br>&ensp; - Condicionais;<br>&ensp; - Laços de repetição. | [4] | [EM13MAT405] |
 | 07 e 08 | 24/02 | &bull; __Matemática Computacional__ (cont.)<br>&ensp; - Modelagem de problemas e de soluções:<br>&emsp; - [Determinação de zeros de funções pelo método da bissecção]. | [4] | [EM13MAT405] |
 |   09    | 25/02 | _Atividade extracurricular: Trote Solidário_. | | |
-|         | <a id="Mar">04/03</a> | _Ponto Facultativo (Carnaval)_. | | |
+|         | <a id="mar">04/03</a> | _Ponto Facultativo (Carnaval)_. | | |
 | 10 e 11 | 10/03 | &bull; __Matemática Computacional__ (cont.):<br>&ensp; - Aplicação: Algoritmo utilizado por um caixa eletrônico para saque de cédulas. | | |
 |   12    | 11/03 | &bull; __Matemática Computacional__ (cont.):<br>&ensp; - Aula em laboratório: implementação do algoritmo do "caixa eletrônico" em Excel. | | |
 | 13 e 14 | 17/03 | &bull; __Matemática Computacional__ (cont.):<br>&ensp; - Aula em laboratório: implementação dos exercícios do trabalho em Excel. | | |
@@ -45,7 +45,7 @@ Fev | [Mar](#Mar) | [Abr](#Abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 |         | 25/03 | __*Entrega do trabalho*__. | | |
 |         | 25/03 | &bull; __Polígonos__ (cont.):<br>&ensp; - Ladrilhamento do Plano. | | |
 |         | 31/03 | - Áreas de figuras geométricas: Pavimentações no plano (com o mesmo tipo de polígono ou não) | | |
-|         | <a id="Abr">01/04</a> | &bull; __Geometria Espacial__:<br>&ensp; - Introdução e aplicações;<br>&ensp; - Postulados: retas e planos. | | |
+|         | <a id="abr">01/04</a> | &bull; __Geometria Espacial__:<br>&ensp; - Introdução e aplicações;<br>&ensp; - Postulados: retas e planos. | | |
 |         | 07/04 | &bull; __Geometria Espacial__ (cont.): <br>&ensp; - Paralelismo e perpendicularismo no espaço;<br>&ensp; - Projeção ortogonal. | | |
 |         | 08/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Poliedros e corpos redondos;<br>&ensp; - Sólidos geométricos:<br>&emsp; - Prismas e pirâmides. | | |
 |         | 14/04 | &bull; __Geometria Espacial__ (cont.):<br>&ensp; - Exercícios de fixação. | | |
@@ -54,7 +54,7 @@ Fev | [Mar](#Mar) | [Abr](#Abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 |         | 22/04 | &bull; __Geometria Analítica__<br>&ensp; -  Conceitos e aplicações;<br>&ensp; - Distância entre dois pontos;<br>&ensp; - Coordenadas do ponto médio de um segmento;<br>&ensp; - Condição de alinhamento de três pontos;<br>&ensp; - Área de um triângulo;<br>&ensp; - Formas da equação da reta;<br>&ensp; - Posição relativa entre retas;<br>&ensp; - Ângulo entre duas retas concorrentes;<br>&ensp; - Distância entre ponto e reta;<br>&ensp; - Inequação do 1º grau com duas variáveis. | | |
 |          | 28/04 | &ensp; - Formas da equação da reta, paralelismo e perpendicularidade | | |
 |          | 29/04 | &bull; Equação da circunferência | | |
-|          | 05/05 | <h3>__PROBABILIDADE E ESTATÍSTICA__</h3> | | |
+|          | <a id="mai">05/05</a> | <h3>__PROBABILIDADE E ESTATÍSTICA__</h3> | | |
 |          | 06/05 | &bull; Probabilidade simples e condicional:<br>&ensp; - Espaçoes amostrais discretos ou contínuos;<br>&ensp; - Eventos equiprováveis ou não equiprováveis;<br>&ensp; - Eventos sucessivos, mutuamente exclusivos e não mutuamente exclusivos | | |
 |          | 12/05 | &bull; Contagem de possibilidades:<br>&ensp; - Modelos para contagem de dados:<br>&emsp; - Diagrama de árvore, listas, esquemas, desenhos, entre outros;<br>&ensp; - Noções de combinatória:<br>&emsp; - Princípio multiplicativo e princípio aditivo;<br>&emsp; - Fatorial; arranjos; permutação; combinações;<br>&emsp; - Binômio de Newton. | | |
 

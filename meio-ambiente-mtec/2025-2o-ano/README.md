@@ -1,7 +1,7 @@
 <h1 align="center">Matemática</h1>
-<h3 align="center">Meio Ambiente - NOVOTEC - 2º Ano</h3>
+<h3 align="center">2º Meio Ambiente - NOVOTEC</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 06/02/2025</h6>
+<h6 align="center">Atualizado em: 06/05/2025</h6>
 
 &nbsp;
 
@@ -21,11 +21,26 @@
 
 &nbsp;
 
-## Conteúdo
+<details>
+  <summary>
+    <h2>Sumário</h2>
+  </summary>
+  <section markdown="1">
 
-* Logaritmos
-* [Exercícios Resolvidos](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos.md)
-* [Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+* [__Logaritmos__]
+  * [Exercícios Resolvidos](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/04-exponenciais-e-logaritmos/exercicios-resolvidos.md)
+  * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+* [__Matrizes__]
+* [__Sistemas Lineares__]
+  * [Exercícios Resolvidos](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/07-matrizes-determinantes-e-sistemas/sistemas-lineares/exercicios-resolvidos.md)
+
+  </section>
+
+</details>
+
+* [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-2o-ano/listas-de-exercicios/lista-2.ipynb)
+
+* [Recursos](#recursos)
 
 &nbsp;
 
@@ -120,5 +135,11 @@
 
   </section>
 </details>
+
+&nbsp;
+
+## Recursos
+
+* <https://mathda.com/calculator/>
 
 &nbsp;
