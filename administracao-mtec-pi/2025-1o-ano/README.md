@@ -3,13 +3,13 @@
 <h1 align="center">Matemática</h1>
 <h3 align="center">1º Adminstração - MTec - PI</h3>
 <h4 align="center">Prof. Eduardo Ono</h4>
-<h6 align="center">Atualizado em: 02/04/2025</h6>
+<h6 align="center">Atualizado em: 04/05/2025</h6>
 
 &nbsp;
 
 ## Descrição
 
-Matemática para o 1º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM ADMINISTRAÇÃO (Período Integral), ministrado no ano de 2025.
+&emsp; Matemática para o 1º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM ADMINISTRAÇÃO (Período Integral), ministrado no ano de 2025.
 
 Carga horária: 120 horas-aula
 
@@ -55,7 +55,7 @@ Plano de Curso:
 
 ## Conteúdo Programático
 
-Fev | [Mar](#mar) | [Abr](#abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
+[Fev](#fev) | [Mar](#mar) | [Abr](#abr) | [Mai](#mai) | Jun | Jul | Ago | Set | Out | Nov | Dez
 
 | Aula | Data  | Descrição | Competência | Habilidade |
 | :-:  |  :-:  | --- | :-: | :-: |
@@ -95,15 +95,15 @@ Fev | [Mar](#mar) | [Abr](#abr) | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez
 |  33  | 24/04 | &bull; [__Funções__] (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Gráfico de uma função do 2º grau;<br>&emsp; - Concavidade da parábola. | | |
 |      | 28/04 | _NL: Feriado Nacional (Tiradentes)_. | | |
 |  34  | 30/04 | &bull; __Funções__ (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Zeros da função quadrática;<br>&emsp; - Demonstração da "fórmula de Bhaskara". | | |
-|  35  | 01/05 | &bull; __Funções__ (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Vértice e foco da parábola. | [1] | [EM13MAT101] |
+|  35  | <a id="mai">01/05</a> | _NL: Feriado Nacional (Dia do Trabalho)_. &bull; __Funções__ (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Vértice e foco da parábola. | [1] | [EM13MAT101] |
 |  36  | 05/05 | &bull; __Funções__ (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Obtenção dos zeros pela soma e produto;<br>&emsp; - Forma fatorada da função quadrática. | | |
 |  37  | 07/05 | &bull; __Funções__ (cont.):<br>&ensp; &bull; Função do 2º grau:<br>&emsp; - Exercícios de fixação. | | |
-|      | 08/05 | _NL: Feriado Nacional (Dia do Trabalho)_. | | |
-|  39  | 12/04 | &bull; __Funções__ (cont.):<br>&ensp; - Função modular | | |
+|      | 08/05 |  | | |
+|  39  | 12/05 | &bull; __Funções__ (cont.):<br>&ensp; - Função modular | | |
 |  40  | 14/05 | &bull; __Funções__ (cont.):<br>&ensp; - Função exponencial | | |
 |  41  | 15/05 | &bull; __Funções__ (cont.):<br>&ensp; - Função modular e exponencial:<br>&emsp; Exercícios de fixação. | | |
 |  42  | 19/05 | &bull; __Sequências Numéricas__:<br>&ensp; - Conceitos e aplicações;<br>&ensp; - Exemplos encontrados na natureza. | | |
-|  43  | 21/05 | &bull; __Sequências Numéricas__ (cont.):<br>&ensp; &bull; __Progressão Aritmética (P.A.)__:<br>&emsp; - Definição e aplicações;<br>&emsp; - Fórmula do termo geral. | | |
+|  43  | 21/05 | <p align="center">__--- PROVA ---__</p>&ensp; - Conteúdo: Conjuntos e Conjuntos Numéricos.<br>&ensp; - 03/04: [Gabarito]&bull; __Sequências Numéricas__ (cont.):<br>&ensp; &bull; __Progressão Aritmética (P.A.)__:<br>&emsp; - Definição e aplicações;<br>&emsp; - Fórmula do termo geral. | | |
 |  44  | 22/05 | &bull; __Sequências Numéricas__ (cont.):<br>&ensp; &bull; __Progressão Aritmética (P.A.)__:<br>&emsp; - Soma dos termos de uma P.A. | | |
 |  45  | 26/05 | &bull; __Sequências Numéricas__ (cont.):<br>&ensp; &bull; __Progressão Aritmética (P.A.)__:<br>&emsp; - Exercícios de fixação. | | |
 |  46  | 28/05 | &bull; __Sequências Numéricas__ (cont.):<br>&ensp; &bull; __Progressão Geométrica (P.G.)__: <br>&emsp; - Definição e aplicações;<br>&emsp; - Fórmula do termo geral. | | |
