@@ -39,7 +39,7 @@ Carga horária: 120 horas-aula
 
 * [Lista de Exercícios 1](./listas-de-exercicios/lista-1.ipynb)
 
-* [Lista de Exercícios 2]()
+* [Lista de Exercícios 2](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-2o-ano/listas-de-exercicios/lista-2.ipynb)
 
 * [Recursos](#recursos)
 
