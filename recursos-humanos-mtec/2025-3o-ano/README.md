@@ -1,5 +1,5 @@
 <h1 align="center">Matemática</h1>
-<h3 align="center">Recursos Humanos - MTec - 3º Ano</h3>
+<h3 align="center">3º Recursos Humanos - MTec</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h6 align="center">Atualizado em: 25/03/2025</h6>
 
@@ -16,6 +16,12 @@ Carga horária: 120 horas-aula
 ## Pré-Requisitos
 
 * [Matemática Básica (Ensino Fundamental)](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/00-overview/revisao-de-matematica-basica/resumao-de-matematica-basica.ipynb)
+
+&nbsp;
+
+## Sumário
+
+* [1ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-3o-ano/listas-de-exercicios/lista-1.ipynb)
 
 &nbsp;
 

@@ -1,5 +1,5 @@
 <h1 align="center">Matemática</h1>
-<h3 align="center">Adminstração - MTec - PI - 3º Ano</h3>
+<h3 align="center">3º Adminstração - MTec - PI</h3>
 <h4 align="center">Prof. Eduardo Ono</h4>
 <h6 align="center">Atualizado em: 22/03/2025</h6>
 
