@@ -49,7 +49,7 @@ Plano de Curso:
   </section>
 </details>
 
-* [2ª Lista de Exercícios]()
+* [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-2.ipynb)
 
 * [Recursos](#recursos)
 
