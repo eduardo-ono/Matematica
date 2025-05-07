@@ -49,6 +49,8 @@ Plano de Curso:
   </section>
 </details>
 
+* [2ª Lista de Exercícios]()
+
 * [Recursos](#recursos)
 
 &nbsp;
