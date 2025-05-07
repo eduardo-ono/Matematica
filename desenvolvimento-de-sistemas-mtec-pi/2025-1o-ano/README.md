@@ -23,7 +23,7 @@ Calendário Escolar: [__CALENDARIO-ESCOLAR-2025.pdf__](https://etecpirassununga.
 
 &nbsp;
 
-## Conteúdo
+## Sumário
 
 * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 
