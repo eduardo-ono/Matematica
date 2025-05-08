@@ -1,7 +1,7 @@
 <h1 align="center">Matemática</h1>
-<h3 align="center">Marketing - MTec - 1º ano</h3>
+<h3 align="center">1º Marketing - MTec</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h6 align="center">Atualizado em: 10/02/2025</h6>
+<h6 align="center">Atualizado em: 08/05/2025</h6>
 
 &nbsp;
 
@@ -25,7 +25,9 @@ Plano de Curso:
 
 ## Conteúdo
 
-* [Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+* [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+
+* [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-2.ipynb)
 
 * [Recursos](#recursos)
 
