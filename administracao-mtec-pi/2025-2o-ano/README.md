@@ -7,7 +7,7 @@
 
 ## Descrição
 
-Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM ADMINISTRAÇÃO (Período Integral), ministrado no ano de 2025.
+&emsp; Matemática para o 2º ano do curso ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL DE TÉCNICO EM ADMINISTRAÇÃO (Período Integral), ministrado no ano de 2025.
 
 Unidades temáticas: Números e Álgebra; Geometria e Medidas; Probabilidade e Estatística.
 
