@@ -42,7 +42,19 @@ Plano de Curso:
   * Exercícios Resolvidos
 
 * __Funções__
-  * Exercícios Resolvidos
+  * Relações
+    * Teoria
+    * Exercícios Resolvidos
+  * Conceitos de Funções
+    * [Teoria](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/03-funcoes)
+    * Exercícios Resolvidos
+  * Função Afim, Linear, Identidade e Constante
+    * Teoria
+    * Exercícios Resolvidos
+  * Função Quadrática
+    * Teoria
+    * Exercícios Resolvidos
+
 
 * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 
@@ -52,6 +64,8 @@ Plano de Curso:
 * [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-2.ipynb)
 
 * [Recursos](#recursos)
+
+* [Bibliografia](#bibliografia)
 
 &nbsp;
 
@@ -239,6 +253,6 @@ Plano de Curso:
 
 ## Bibliografia
 
-
+* Iezzi et al. Coleção [Fundamentos da Matemática Elementar](https://www.google.com/search?&q=cole%C3%A7%C3%A3o+completa+%22fundamentos+da+matem%C3%A1tica+elementar%22)
 
 &nbsp;
