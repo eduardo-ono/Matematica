@@ -61,7 +61,7 @@ Plano de Curso:
   </section>
 </details>
 
-* [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-2.ipynb)
+* [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-2.ipynb) / [Versão para impressão](https://nbviewer.org/github/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-2.ipynb)
 
 * [Recursos](#recursos)
 
