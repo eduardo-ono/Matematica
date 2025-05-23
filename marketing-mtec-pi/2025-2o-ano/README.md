@@ -25,7 +25,7 @@ Carga horária: 120 horas-aula
 
 * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 
-* [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-2o-ano/listas-de-exercicios/lista-2.ipynb)
+* [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-2o-ano/listas-de-exercicios/lista-2.ipynb) / [Versão para impressão](https://nbviewer.org/github/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-2o-ano/listas-de-exercicios/lista-2.ipynb).
 
 * [2ª Lista de Exercícios - Extra (nível Mizael)](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-2o-ano/listas-de-exercicios/lista-2-extra.ipynb)
 

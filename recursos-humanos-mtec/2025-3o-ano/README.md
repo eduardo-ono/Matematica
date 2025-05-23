@@ -23,6 +23,8 @@ Carga horária: 120 horas-aula
 
 * [1ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-3o-ano/listas-de-exercicios/lista-1.ipynb)
 
+* [Resumo de Geometria Espacial](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/12-geometria-espacial/resumo-geometria-espacial.ipynb)
+
 &nbsp;
 
 ## Conteúdo Programático
