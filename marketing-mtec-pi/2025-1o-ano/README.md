@@ -206,6 +206,12 @@ Plano de Curso:
 
 &nbsp;
 
+## Bibliografia
+
+* Iezzi et al. Coleção [Fundamentos da Matemática Elementar](https://www.google.com/search?&q=cole%C3%A7%C3%A3o+completa+%22fundamentos+da+matem%C3%A1tica+elementar%22).
+
+&nbsp;
+
 ## Vídeos Recomendados
 
 | Thumb | Descrição |

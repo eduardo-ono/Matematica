@@ -29,6 +29,8 @@ Carga horária: 120 horas-aula
 
 * [2ª Lista de Exercícios - Extra (nível Mizael)](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-2o-ano/listas-de-exercicios/lista-2-extra.ipynb)
 
+* [Bibliografia](#bibliografia)
+
 &nbsp;
 
 ## Conteúdo Programático
@@ -118,5 +120,9 @@ Carga horária: 120 horas-aula
 
   </section>
 </details>
+
+## Bibliografia
+
+* Iezzi et al. Coleção [Fundamentos da Matemática Elementar](https://www.google.com/search?&q=cole%C3%A7%C3%A3o+completa+%22fundamentos+da+matem%C3%A1tica+elementar%22).
 
 &nbsp;
