@@ -34,28 +34,31 @@ Plano de Curso:
   <section markdown="1">
 
 * __Conjuntos__
-  * [Conceituação](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/conjuntos.ipynb)
-  * [Exercícios Resolvidos](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/exercicios-resolvidos.md)
-
-* __Conjuntos Numéricos__
-  * Conceituação
-  * Exercícios Resolvidos
-
+  * __Resumo__
+  * __Conjuntos__
+    * [Conceituação](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/conjuntos.ipynb)
+    * [Exercícios Resolvidos](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/exercicios-resolvidos.md)
+  * __Conjuntos Numéricos__
+    * Conceituação
+    * Exercícios Resolvidos
+  * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
 * __Funções__
+  * __Resumo__
   * Relações
     * Teoria
     * Exercícios Resolvidos
   * Conceitos de Funções
-    * [Teoria](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/03-funcoes)
+    * [Conceituação](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/03-funcoes)
     * Exercícios Resolvidos
   * Função Afim, Linear, Identidade e Constante
-    * Teoria
+    * Conceituação
     * Exercícios Resolvidos
   * Função Quadrática
-    * Teoria
+    * Conceituação
     * Exercícios Resolvidos
-
-* [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+* Progressões
+  * Progressão Aritmética
+  * Progressão Geométrica
 
   </section>
 </details>

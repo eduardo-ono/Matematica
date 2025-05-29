@@ -1,7 +1,7 @@
 &nbsp;
 
 <h1 align="center">Matemática</h1>
-<h3 align="center">Desenvolvimento de Sistemas - MTec - PI - 1º Ano</h3>
+<h3 align="center">1º Desenvolvimento de Sistemas - MTec - PI</h3>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h6 align="center">Atualizado em: 27/02/2025</h6>
 
@@ -25,9 +25,45 @@ Calendário Escolar: [__CALENDARIO-ESCOLAR-2025.pdf__](https://etecpirassununga.
 
 ## Sumário
 
-* [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+<details>
+  <summary>
+    <h3>Conteúdo</h3>
+  </summary>
+  <section markdown="1">
+
+* __Conjuntos__
+  * __Resumo__
+  * __Conjuntos__
+    * [Conceituação](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/conjuntos.ipynb)
+    * [Exercícios Resolvidos](https://github.com/eduardo-ono/Fundamentos-de-Matematica/blob/main/conteudo/02-conjuntos/02-conjuntos/exercicios-resolvidos.md)
+  * __Conjuntos Numéricos__
+    * Conceituação
+    * Exercícios Resolvidos
+  * [1ª Lista de Exercícios](./listas-de-exercicios/lista-1.ipynb)
+* __Funções__
+  * __Resumo__
+  * Relações
+    * Teoria
+    * Exercícios Resolvidos
+  * Conceitos de Funções
+    * [Conceituação](https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/03-funcoes)
+    * Exercícios Resolvidos
+  * Função Afim, Linear, Identidade e Constante
+    * Conceituação
+    * Exercícios Resolvidos
+  * Função Quadrática
+    * Conceituação
+    * Exercícios Resolvidos
+* Progressões
+  * Progressão Aritmética
+  * Progressão Geométrica
+
+  </section>
+</details>
 
 * [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-2.ipynb)
+
+* [3ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-3.ipynb) / [Versão para impressão](https://nbviewer.org/github/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-3.ipynb)
 
 * [Vídeos Recomendados](#vídeos-recomendados)
 
@@ -140,6 +176,16 @@ Calendário Escolar: [__CALENDARIO-ESCOLAR-2025.pdf__](https://etecpirassununga.
 
   </section>
 </details>
+
+## Recursos
+
+* <https://mathda.com/calculator/>
+
+&nbsp;
+
+## Bibliografia
+
+* Iezzi et al. Coleção [Fundamentos da Matemática Elementar](https://www.google.com/search?&q=cole%C3%A7%C3%A3o+completa+%22fundamentos+da+matem%C3%A1tica+elementar%22).
 
 &nbsp;
 
