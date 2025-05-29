@@ -29,6 +29,8 @@ Calendário Escolar: [__CALENDARIO-ESCOLAR-2025.pdf__](https://etecpirassununga.
 
 * [2ª Lista de Exercícios](https://github.com/eduardo-ono/Matematica/blob/main/administracao-mtec-pi/2025-1o-ano/listas-de-exercicios/lista-2.ipynb)
 
+* [Vídeos Recomendados](#vídeos-recomendados)
+
 &nbsp;
 
 ## Conteúdo Programático
@@ -138,5 +140,19 @@ Calendário Escolar: [__CALENDARIO-ESCOLAR-2025.pdf__](https://etecpirassununga.
 
   </section>
 </details>
+
+&nbsp;
+
+## Vídeos Recomendados
+
+| Thumb | Descrição |
+| :-: | --- |
+| ![img](https://img.youtube.com/vi/AOwjBs8u0Tk/default.jpg) | <sup>[Ponto Matemático]</sup><br>[__O que é função \| Ponto Matemático__](https://www.youtube.com/watch?v=AOwjBs8u0Tk)<br><sub>(13:50, YouTube, 29/Jun/2024)</sub> |
+| ![img](https://img.youtube.com/vi/I-JGQJU6S6Y/default.jpg) | <sup>[Ponto Matemático]</sup><br>[__Classificações e estudo de funções \| Ponto Matemático__](https://www.youtube.com/watch?v=I-JGQJU6S6Y)<br><sub>(17:45, YouTube, 21/Ago/2024)</sub> |
+| ![img](https://img.youtube.com/vi/djXO6Lyc2NA/default.jpg) | <sup>[Ponto Matemático]</sup><br>[__Função do 2° grau \| Ponto Matemático__](https://www.youtube.com/watch?v=djXO6Lyc2NA)<br><sub>(13:28, YouTube, 16/Out/2024)</sub> |
+| ![img](https://img.youtube.com/vi/7mGNuIq-jJs/default.jpg) | <sup>[Lutz Podcast]</sup><br>[__Matemática e Física: A Linguagem do Universo - Felipe Guisoli \| Lutz Podcast #293__](https://www.youtube.com/watch?v=7mGNuIq-jJs)<br><sub>(1:55:37, YouTube, 14/Nov/2024)</sub> |
+| ![img](https://img.youtube.com/vi/nQmamKKQH80/default.jpg) | <sup>[Eslen Podcast]</sup><br>[__Física e Matemática: A Chave Para Entender o Universo - Felipe Guisoli [Ep. 102]__](https://www.youtube.com/watch?v=nQmamKKQH80)<br><sub>(1:13:09, YouTube, 06/Fev/2025)</sub> |
+| ![img](https://img.youtube.com/vi/YQo0cFQ_DHM/default.jpg) | <sup>[Lutz Podcast]</sup><br>[__Inteligência e Matemática: Como Sair Na Frente de 99% das Pessoas - Victor Lins \| Lutz Podcast #325__](https://www.youtube.com/watch?v=YQo0cFQ_DHM)<br><sub>(1:27:00, YouTube, 28/Fev/2025)</sub> |
+| ![img](https://img.youtube.com/vi/mpElKSKytNU/default.jpg) | <sup>[Lutz Podcast]</sup><br>[__Corre de PhD: Como Desenvolver Intuição Matemática \| Lutz Podcast #342__](https://www.youtube.com/watch?v=mpElKSKytNU)<br><sub>(1:31:29, YouTube, 15/Mai/2025)</sub> |
 
 &nbsp;
