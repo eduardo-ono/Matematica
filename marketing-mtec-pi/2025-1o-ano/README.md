@@ -223,5 +223,8 @@ Plano de Curso:
 | ![img](https://img.youtube.com/vi/nQmamKKQH80/default.jpg) | <sup>[Eslen Podcast]</sup><br>[__Física e Matemática: A Chave Para Entender o Universo - Felipe Guisoli [Ep. 102]__](https://www.youtube.com/watch?v=nQmamKKQH80)<br><sub>(1:13:09, YouTube, 06/Fev/2025)</sub> |
 | ![img](https://img.youtube.com/vi/YQo0cFQ_DHM/default.jpg) | <sup>[Lutz Podcast]</sup><br>[__Inteligência e Matemática: Como Sair Na Frente de 99% das Pessoas - Victor Lins \| Lutz Podcast #325__](https://www.youtube.com/watch?v=YQo0cFQ_DHM)<br><sub>(1:27:00, YouTube, 28/Fev/2025)</sub> |
 | ![img](https://img.youtube.com/vi/mpElKSKytNU/default.jpg) | <sup>[Lutz Podcast]</sup><br>[__Corre de PhD: Como Desenvolver Intuição Matemática \| Lutz Podcast #342__](https://www.youtube.com/watch?v=mpElKSKytNU)<br><sub>(1:31:29, YouTube, 15/Mai/2025)</sub> |
+| ![img](https://img.youtube.com/vi/IAR_CVf9nXY/default.jpg) | <sup>[Matemática Fácil]</sup><br>[__CORREÇÃO OBMEP 2025 - 1ª FASE - NIVEL 3 - ENSINO MÉDIO__](https://www.youtube.com/watch?v=IAR_CVf9nXY)<br><sub>(1:28:32, YouTube, 03/Jun/2025)</sub> |
+| ![img](https://img.youtube.com/vi/NYSQ_7yJP6g/default.jpg) | <sup>[Planeta Matemática]</sup><br>[__GABARITO OBMEP 2025 NÍVEL 3 PRIMEIRA FASE - CORREÇÃO E GABARITO DE TODAS AS QUESTÕES DA PROVA__](https://www.youtube.com/watch?v=NYSQ_7yJP6g)<br><sub>(1:21:59, YouTube, 04/Jun/2025)</sub> |
+| ![img](https://img.youtube.com/vi/4yGRlgcOogo/default.jpg) | <sup>[Medalhei Olimpíadas]</sup><br>[__CORREÇÃO OBMEP 2025 (GABARITO) \| Níveis 1, 2 e 3 \| Olimpíada de Matemática__](https://www.youtube.com/watch?v=4yGRlgcOogo)<br><sub>(35:30, YouTube, 04/Jun/2025)</sub> |
 
 &nbsp;

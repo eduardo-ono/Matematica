@@ -33,6 +33,8 @@ Carga horária: 120 horas-aula
 
 * [Bibliografia](#bibliografia)
 
+* [Vídeos Recomendados](#vídeos-recomendados)
+
 &nbsp;
 
 ## Conteúdo Programático
@@ -126,5 +128,15 @@ Carga horária: 120 horas-aula
 ## Bibliografia
 
 * Iezzi et al. Coleção [Fundamentos da Matemática Elementar](https://www.google.com/search?&q=cole%C3%A7%C3%A3o+completa+%22fundamentos+da+matem%C3%A1tica+elementar%22).
+
+&nbsp;
+
+## Vídeos Recomendados
+
+| Thumb | Descrição |
+| :-: | --- |
+| ![img](https://img.youtube.com/vi/IAR_CVf9nXY/default.jpg) | <sup>[Matemática Fácil]</sup><br>[__CORREÇÃO OBMEP 2025 - 1ª FASE - NIVEL 3 - ENSINO MÉDIO__](https://www.youtube.com/watch?v=IAR_CVf9nXY)<br><sub>(1:28:32, YouTube, 03/Jun/2025)</sub> |
+| ![img](https://img.youtube.com/vi/NYSQ_7yJP6g/default.jpg) | <sup>[Planeta Matemática]</sup><br>[__GABARITO OBMEP 2025 NÍVEL 3 PRIMEIRA FASE - CORREÇÃO E GABARITO DE TODAS AS QUESTÕES DA PROVA__](https://www.youtube.com/watch?v=NYSQ_7yJP6g)<br><sub>(1:21:59, YouTube, 04/Jun/2025)</sub> |
+| ![img](https://img.youtube.com/vi/4yGRlgcOogo/default.jpg) | <sup>[Medalhei Olimpíadas]</sup><br>[__CORREÇÃO OBMEP 2025 (GABARITO) \| Níveis 1, 2 e 3 \| Olimpíada de Matemática__](https://www.youtube.com/watch?v=4yGRlgcOogo)<br><sub>(35:30, YouTube, 04/Jun/2025)</sub> |
 
 &nbsp;
