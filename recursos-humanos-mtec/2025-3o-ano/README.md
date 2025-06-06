@@ -31,6 +31,8 @@ Carga horária: 120 horas-aula
 
 * [Vídeos Recomendados](#vídeos-recomendados)
 
+* [Notas](./gabaritos/notas.pdf)
+
 &nbsp;
 
 ## Conteúdo Programático
