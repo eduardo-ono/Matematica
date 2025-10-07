@@ -1,4 +1,4 @@
 .gitignore
-./figs/
+figs/
 *.doc
 *.docx
